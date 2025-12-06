@@ -31,7 +31,6 @@ This project provides a framework for evaluating combined test selection and pri
 - R and RStudio for statistical analysis
 - Required R packages: `tidyverse`, `ggplot2`, `dplyr`, `readr`
 
-## 📁 Project Structure
 
 
 ## 🛠️ Installation & Setup
@@ -42,18 +41,18 @@ This project provides a framework for evaluating combined test selection and pri
    cd CombiningTCSTCP
 
 Ensure Defects4J is properly set up:
-bash
+
 
 # Defects4J should be in the parent directory
 ls ../defects4j/
 
 Make scripts executable:
-bash
+
 
 chmod +x scripts/*.sh
 
 Install required Python packages:
-bash
+
 
 # Install any required external packages if needed
 pip install -r requirements.txt  # if provided
@@ -62,7 +61,7 @@ pip install -r requirements.txt  # if provided
 Basic Execution
 
 To run the complete pipeline:
-bash
+
 
 ./scripts/run_multiple.sh
 
@@ -93,28 +92,28 @@ Projects are configured in run_multiple.sh with:
 Common Issues
 
     Defects4J not found:
-    text
+    
 
 Error: defects4j command not found
 
 Solution: Ensure Defects4J is installed and in PATH
 
 Maven plugin errors:
-text
+
 
 Plugin 'org.ekstazi:ekstazi-maven-plugin' not found
 
 Solution: Install Ekstazi Maven plugin or adjust pom.xml configuration
 
 Permission denied:
-text
 
-bash: ./scripts/run_multiple.sh: Permission denied
+
+./scripts/run_multiple.sh: Permission denied
 
 Solution: chmod +x scripts/*.sh
 
 Python script errors:
-text
+
 
 ModuleNotFoundError: No module named '...'
 
