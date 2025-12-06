@@ -1,0 +1,25 @@
+Project, Version, Suite, Count, Time
+Codec,11,Selection,38,0.0
+Codec,11,sel_time_starts,38,12.950000000000001
+Codec,11,Full prioritization,38,0.010000000000000002
+Codec,11,prio_p_time_starts,38,0.009333333333333334
+Codec,11,Sel. prioritization,38,0.009000000000000001
+Codec,11,prio_s_time_starts,38,0.008666666666666666
+Codec,11,FAST preparation,38,1.73
+Codec,11,fast_prep_time_starts,38,1.68
+Codec,11,Build time,38,30.540000000000003
+Codec,11,build_time_starts,38,27.25
+Codec,11,Test time,38,46.42
+Codec,11,test_time_starts,38,34.739999999999995
+Codec,11,DPTT_time,38,0.0006666666666666666
+Codec,11,DPTT_ekstazi_time,38,0.0006666666666666666
+Codec,11,DPTT_time_starts,38,0.0003333333333333333
+Codec,11,DPT,38,0.0006666666666666666
+Codec,11,DPT_TIME,38,0.0006666666666666666
+Codec,11,FAST,38,1.74
+Codec,11,fast_time_starts,38,1.6893333333333334
+Codec,11,Fastazi-S,38,1.7389999999999999
+Codec,11,fastazi_s_time_starts,38,12.958666666666668
+Codec,11,FAST_T_starts,38,1.6893333333333334
+Codec,11,DPTT_ekstazi_t,38,0.0006666666666666666
+Codec,11,DPTT_t_starts,38,12.950333333333335

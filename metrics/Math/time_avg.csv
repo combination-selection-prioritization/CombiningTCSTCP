@@ -1,0 +1,25 @@
+Project, Suite, Time
+Math,Selection,6.8641
+Math,sel_time_starts,16.1076
+Math,Full prioritization,0.2025
+Math,prio_p_time_starts,0.1907
+Math,Sel. prioritization,0.0718
+Math,prio_s_time_starts,0.0948
+Math,FAST preparation,1.3944
+Math,fast_prep_time_starts,1.5101
+Math,Build time,45.0662
+Math,build_time_starts,44.2726
+Math,Test time,136.4187
+Math,test_time_starts,100.3740
+Math,DPTT_time,0.0009
+Math,DPTT_ekstazi_time,0.0007
+Math,DPTT_time_starts,0.0006
+Math,DPT_TIME,6.8650
+Math,FAST,1.5969
+Math,fast_time_starts,1.7008
+Math,Fastazi-S,6.9810
+Math,fastazi_s_time_starts,16.2023
+Math,FAST_T_starts,1.7008
+Math,DPTT_ekstazi_t,6.8647
+Math,DPTT_t_starts,22.9723
+Math,DPT,6.8650

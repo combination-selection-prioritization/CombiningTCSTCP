@@ -1,0 +1,913 @@
+Project, Version, Suite, Time
+Compress,10,Selection,5.71
+Compress,10,sel_time_starts,14.52
+Compress,10,Full prioritization,0.016
+Compress,10,prio_p_time_starts,0.011333333333333332
+Compress,10,Sel. prioritization,0.009666666666666667
+Compress,10,prio_s_time_starts,0.010333333333333333
+Compress,10,FAST preparation,0.36
+Compress,10,fast_prep_time_starts,0.36
+Compress,10,Build time,27.74
+Compress,10,build_time_starts,27.68
+Compress,10,Test time,23.909999999999997
+Compress,10,test_time_starts,20.7
+Compress,10,DPTT_time,0.0006666666666666666
+Compress,10,DPTT_ekstazi_time,0.0006666666666666666
+Compress,10,DPTT_time_starts,0.0006666666666666666
+Compress,10,DPT,5.710666666666667
+Compress,10,DPT_TIME,5.710666666666667
+Compress,10,FAST,0.376
+Compress,10,fast_time_starts,0.3713333333333333
+Compress,10,Fastazi-S,5.719666666666667
+Compress,10,fastazi_s_time_starts,14.530333333333333
+Compress,10,FAST_T_starts,0.3713333333333333
+Compress,10,DPTT_ekstazi_t,5.710666666666667
+Compress,10,DPTT_t_starts,20.230666666666668
+Compress,11,Selection,5.75
+Compress,11,sel_time_starts,12.99
+Compress,11,Full prioritization,0.016666666666666666
+Compress,11,prio_p_time_starts,0.013333333333333334
+Compress,11,Sel. prioritization,0.010333333333333335
+Compress,11,prio_s_time_starts,0.009000000000000001
+Compress,11,FAST preparation,0.12
+Compress,11,fast_prep_time_starts,0.13
+Compress,11,Build time,27.099999999999998
+Compress,11,build_time_starts,28.310000000000002
+Compress,11,Test time,25.07
+Compress,11,test_time_starts,18.34
+Compress,11,DPTT_time,0.0003333333333333333
+Compress,11,DPTT_ekstazi_time,0.0003333333333333333
+Compress,11,DPTT_time_starts,0.0006666666666666666
+Compress,11,DPT,5.750333333333334
+Compress,11,DPT_TIME,5.750333333333334
+Compress,11,FAST,0.13666666666666666
+Compress,11,fast_time_starts,0.14333333333333334
+Compress,11,Fastazi-S,5.7603333333333335
+Compress,11,fastazi_s_time_starts,12.999
+Compress,11,FAST_T_starts,0.14333333333333334
+Compress,11,DPTT_ekstazi_t,5.750333333333334
+Compress,11,DPTT_t_starts,18.74066666666667
+Compress,12,Selection,5.84
+Compress,12,sel_time_starts,12.780000000000001
+Compress,12,Full prioritization,0.01633333333333333
+Compress,12,prio_p_time_starts,0.014000000000000002
+Compress,12,Sel. prioritization,0.004666666666666667
+Compress,12,prio_s_time_starts,0.008333333333333333
+Compress,12,FAST preparation,0.11
+Compress,12,fast_prep_time_starts,0.19
+Compress,12,Build time,27.16
+Compress,12,build_time_starts,26.0
+Compress,12,Test time,20.34
+Compress,12,test_time_starts,20.169999999999998
+Compress,12,DPTT_time,0.0006666666666666666
+Compress,12,DPTT_ekstazi_time,0.0006666666666666666
+Compress,12,DPTT_time_starts,0.0006666666666666666
+Compress,12,DPT,5.8406666666666665
+Compress,12,DPT_TIME,5.8406666666666665
+Compress,12,FAST,0.12633333333333333
+Compress,12,fast_time_starts,0.20400000000000001
+Compress,12,Fastazi-S,5.844666666666667
+Compress,12,fastazi_s_time_starts,12.788333333333334
+Compress,12,FAST_T_starts,0.20400000000000001
+Compress,12,DPTT_ekstazi_t,5.8406666666666665
+Compress,12,DPTT_t_starts,18.62066666666667
+Compress,13,Selection,5.78
+Compress,13,sel_time_starts,12.74
+Compress,13,Full prioritization,0.016666666666666666
+Compress,13,prio_p_time_starts,0.013666666666666666
+Compress,13,Sel. prioritization,0.007000000000000001
+Compress,13,prio_s_time_starts,0.009666666666666667
+Compress,13,FAST preparation,0.12
+Compress,13,fast_prep_time_starts,0.12
+Compress,13,Build time,28.470000000000002
+Compress,13,build_time_starts,27.75
+Compress,13,Test time,24.34
+Compress,13,test_time_starts,18.77
+Compress,13,DPTT_time,0.0006666666666666666
+Compress,13,DPTT_ekstazi_time,0.0006666666666666666
+Compress,13,DPTT_time_starts,0.0006666666666666666
+Compress,13,DPT,5.780666666666667
+Compress,13,DPT_TIME,5.780666666666667
+Compress,13,FAST,0.13666666666666666
+Compress,13,fast_time_starts,0.13366666666666666
+Compress,13,Fastazi-S,5.787
+Compress,13,fastazi_s_time_starts,12.749666666666666
+Compress,13,FAST_T_starts,0.13366666666666666
+Compress,13,DPTT_ekstazi_t,5.780666666666667
+Compress,13,DPTT_t_starts,18.520666666666667
+Compress,14,Selection,5.81
+Compress,14,sel_time_starts,12.809999999999999
+Compress,14,Full prioritization,0.015666666666666666
+Compress,14,prio_p_time_starts,0.01566666666666667
+Compress,14,Sel. prioritization,0.005
+Compress,14,prio_s_time_starts,0.008
+Compress,14,FAST preparation,0.09999999999999999
+Compress,14,fast_prep_time_starts,0.13
+Compress,14,Build time,27.650000000000002
+Compress,14,build_time_starts,26.73
+Compress,14,Test time,22.84
+Compress,14,test_time_starts,19.21
+Compress,14,DPTT_time,0.0003333333333333333
+Compress,14,DPTT_ekstazi_time,0.0003333333333333333
+Compress,14,DPTT_time_starts,0.0006666666666666666
+Compress,14,DPT,5.810333333333333
+Compress,14,DPT_TIME,5.810333333333333
+Compress,14,FAST,0.11566666666666665
+Compress,14,fast_time_starts,0.14566666666666667
+Compress,14,Fastazi-S,5.8149999999999995
+Compress,14,fastazi_s_time_starts,12.817999999999998
+Compress,14,FAST_T_starts,0.14566666666666667
+Compress,14,DPTT_ekstazi_t,5.810333333333333
+Compress,14,DPTT_t_starts,18.620666666666665
+Compress,15,Selection,6.1000000000000005
+Compress,15,sel_time_starts,13.63
+Compress,15,Full prioritization,0.017
+Compress,15,prio_p_time_starts,0.016
+Compress,15,Sel. prioritization,0.011666666666666667
+Compress,15,prio_s_time_starts,0.011333333333333332
+Compress,15,FAST preparation,0.73
+Compress,15,fast_prep_time_starts,0.76
+Compress,15,Build time,28.43
+Compress,15,build_time_starts,27.55
+Compress,15,Test time,26.52
+Compress,15,test_time_starts,19.24
+Compress,15,DPTT_time,0.0003333333333333333
+Compress,15,DPTT_ekstazi_time,0.0006666666666666666
+Compress,15,DPTT_time_starts,0.0003333333333333333
+Compress,15,DPT,6.100333333333334
+Compress,15,DPT_TIME,6.100333333333334
+Compress,15,FAST,0.747
+Compress,15,fast_time_starts,0.776
+Compress,15,Fastazi-S,6.111666666666667
+Compress,15,fastazi_s_time_starts,13.641333333333334
+Compress,15,FAST_T_starts,0.776
+Compress,15,DPTT_ekstazi_t,6.100666666666667
+Compress,15,DPTT_t_starts,19.730333333333334
+Compress,16,Selection,5.61
+Compress,16,sel_time_starts,13.12
+Compress,16,Full prioritization,0.017
+Compress,16,prio_p_time_starts,0.015333333333333332
+Compress,16,Sel. prioritization,0.010333333333333335
+Compress,16,prio_s_time_starts,0.01
+Compress,16,FAST preparation,0.17
+Compress,16,fast_prep_time_starts,0.19
+Compress,16,Build time,27.04
+Compress,16,build_time_starts,28.2
+Compress,16,Test time,25.78
+Compress,16,test_time_starts,19.36
+Compress,16,DPTT_time,0.0006666666666666666
+Compress,16,DPTT_ekstazi_time,0.0003333333333333333
+Compress,16,DPTT_time_starts,0.0003333333333333333
+Compress,16,DPT,5.610666666666667
+Compress,16,DPT_TIME,5.610666666666667
+Compress,16,FAST,0.187
+Compress,16,fast_time_starts,0.20533333333333334
+Compress,16,Fastazi-S,5.620333333333334
+Compress,16,fastazi_s_time_starts,13.129999999999999
+Compress,16,FAST_T_starts,0.20533333333333334
+Compress,16,DPTT_ekstazi_t,5.610333333333334
+Compress,16,DPTT_t_starts,18.730333333333334
+Compress,17,Selection,5.87
+Compress,17,sel_time_starts,13.29
+Compress,17,Full prioritization,0.016
+Compress,17,prio_p_time_starts,0.014333333333333333
+Compress,17,Sel. prioritization,0.010000000000000002
+Compress,17,prio_s_time_starts,0.010333333333333333
+Compress,17,FAST preparation,0.22
+Compress,17,fast_prep_time_starts,0.22
+Compress,17,Build time,28.259999999999998
+Compress,17,build_time_starts,28.369999999999997
+Compress,17,Test time,25.32
+Compress,17,test_time_starts,20.46
+Compress,17,DPTT_time,0.0006666666666666666
+Compress,17,DPTT_ekstazi_time,0.0006666666666666666
+Compress,17,DPTT_time_starts,0.0003333333333333333
+Compress,17,DPT,5.870666666666667
+Compress,17,DPT_TIME,5.870666666666667
+Compress,17,FAST,0.236
+Compress,17,fast_time_starts,0.23433333333333334
+Compress,17,Fastazi-S,5.88
+Compress,17,fastazi_s_time_starts,13.300333333333333
+Compress,17,FAST_T_starts,0.23433333333333334
+Compress,17,DPTT_ekstazi_t,5.870666666666667
+Compress,17,DPTT_t_starts,19.160333333333334
+Compress,18,Selection,5.66
+Compress,18,sel_time_starts,13.58
+Compress,18,Full prioritization,0.015333333333333332
+Compress,18,prio_p_time_starts,0.015333333333333332
+Compress,18,Sel. prioritization,0.008
+Compress,18,prio_s_time_starts,0.010666666666666665
+Compress,18,FAST preparation,0.15
+Compress,18,fast_prep_time_starts,0.18000000000000002
+Compress,18,Build time,26.34
+Compress,18,build_time_starts,24.93
+Compress,18,Test time,25.75
+Compress,18,test_time_starts,19.82
+Compress,18,DPTT_time,0.0006666666666666666
+Compress,18,DPTT_ekstazi_time,0.0006666666666666666
+Compress,18,DPTT_time_starts,0.0006666666666666666
+Compress,18,DPT,5.660666666666667
+Compress,18,DPT_TIME,5.660666666666667
+Compress,18,FAST,0.16533333333333333
+Compress,18,fast_time_starts,0.19533333333333336
+Compress,18,Fastazi-S,5.668
+Compress,18,fastazi_s_time_starts,13.590666666666667
+Compress,18,FAST_T_starts,0.19533333333333336
+Compress,18,DPTT_ekstazi_t,5.660666666666667
+Compress,18,DPTT_t_starts,19.24066666666667
+Compress,19,Selection,6.0
+Compress,19,sel_time_starts,24.62
+Compress,19,Full prioritization,0.014999999999999998
+Compress,19,prio_p_time_starts,0.014666666666666666
+Compress,19,Sel. prioritization,0.013000000000000001
+Compress,19,prio_s_time_starts,0.012333333333333333
+Compress,19,FAST preparation,0.77
+Compress,19,fast_prep_time_starts,0.78
+Compress,19,Build time,27.12
+Compress,19,build_time_starts,26.8
+Compress,19,Test time,36.55
+Compress,19,test_time_starts,21.159999999999997
+Compress,19,DPTT_time,0.0006666666666666666
+Compress,19,DPTT_ekstazi_time,0.0006666666666666666
+Compress,19,DPTT_time_starts,0.0006666666666666666
+Compress,19,DPT,6.000666666666667
+Compress,19,DPT_TIME,6.000666666666667
+Compress,19,FAST,0.785
+Compress,19,fast_time_starts,0.7946666666666667
+Compress,19,Fastazi-S,6.013
+Compress,19,fastazi_s_time_starts,24.632333333333335
+Compress,19,FAST_T_starts,0.7946666666666667
+Compress,19,DPTT_ekstazi_t,6.000666666666667
+Compress,19,DPTT_t_starts,30.62066666666667
+Compress,20,Selection,5.93
+Compress,20,sel_time_starts,13.709999999999999
+Compress,20,Full prioritization,0.014333333333333333
+Compress,20,prio_p_time_starts,0.015333333333333334
+Compress,20,Sel. prioritization,0.009666666666666665
+Compress,20,prio_s_time_starts,0.010666666666666665
+Compress,20,FAST preparation,0.4
+Compress,20,fast_prep_time_starts,0.41000000000000003
+Compress,20,Build time,27.740000000000002
+Compress,20,build_time_starts,26.78
+Compress,20,Test time,24.76
+Compress,20,test_time_starts,18.42
+Compress,20,DPTT_time,0.0006666666666666666
+Compress,20,DPTT_ekstazi_time,0.0006666666666666666
+Compress,20,DPTT_time_starts,0.0003333333333333333
+Compress,20,DPT,5.930666666666666
+Compress,20,DPT_TIME,5.930666666666666
+Compress,20,FAST,0.41433333333333333
+Compress,20,fast_time_starts,0.42533333333333334
+Compress,20,Fastazi-S,5.939666666666667
+Compress,20,fastazi_s_time_starts,13.720666666666666
+Compress,20,FAST_T_starts,0.42533333333333334
+Compress,20,DPTT_ekstazi_t,5.930666666666666
+Compress,20,DPTT_t_starts,19.64033333333333
+Compress,21,Selection,5.9
+Compress,21,sel_time_starts,14.8
+Compress,21,Full prioritization,0.018666666666666668
+Compress,21,prio_p_time_starts,0.018666666666666668
+Compress,21,Sel. prioritization,0.014666666666666665
+Compress,21,prio_s_time_starts,0.013666666666666666
+Compress,21,FAST preparation,0.65
+Compress,21,fast_prep_time_starts,0.66
+Compress,21,Build time,28.41
+Compress,21,build_time_starts,28.22
+Compress,21,Test time,27.94
+Compress,21,test_time_starts,22.41
+Compress,21,DPTT_time,0.0003333333333333333
+Compress,21,DPTT_ekstazi_time,0.0006666666666666666
+Compress,21,DPTT_time_starts,0.0003333333333333333
+Compress,21,DPT,5.900333333333334
+Compress,21,DPT_TIME,5.900333333333334
+Compress,21,FAST,0.6686666666666667
+Compress,21,fast_time_starts,0.6786666666666668
+Compress,21,Fastazi-S,5.914666666666667
+Compress,21,fastazi_s_time_starts,14.813666666666668
+Compress,21,FAST_T_starts,0.6786666666666668
+Compress,21,DPTT_ekstazi_t,5.900666666666667
+Compress,21,DPTT_t_starts,20.700333333333333
+Compress,22,Selection,6.220000000000001
+Compress,22,sel_time_starts,14.37
+Compress,22,Full prioritization,0.018333333333333333
+Compress,22,prio_p_time_starts,0.02033333333333333
+Compress,22,Sel. prioritization,0.013333333333333332
+Compress,22,prio_s_time_starts,0.014333333333333335
+Compress,22,FAST preparation,0.36000000000000004
+Compress,22,fast_prep_time_starts,0.37
+Compress,22,Build time,26.4
+Compress,22,build_time_starts,28.5
+Compress,22,Test time,30.35
+Compress,22,test_time_starts,22.83
+Compress,22,DPTT_time,0.0003333333333333333
+Compress,22,DPTT_ekstazi_time,0.0006666666666666666
+Compress,22,DPTT_time_starts,0.0006666666666666666
+Compress,22,DPT,6.220333333333334
+Compress,22,DPT_TIME,6.220333333333334
+Compress,22,FAST,0.37833333333333335
+Compress,22,fast_time_starts,0.3903333333333333
+Compress,22,Fastazi-S,6.233333333333334
+Compress,22,fastazi_s_time_starts,14.384333333333332
+Compress,22,FAST_T_starts,0.3903333333333333
+Compress,22,DPTT_ekstazi_t,6.220666666666667
+Compress,22,DPTT_t_starts,20.590666666666667
+Compress,23,Selection,5.96
+Compress,23,sel_time_starts,13.08
+Compress,23,Full prioritization,0.017666666666666667
+Compress,23,prio_p_time_starts,0.02033333333333333
+Compress,23,Sel. prioritization,0.0033333333333333335
+Compress,23,prio_s_time_starts,0.003
+Compress,23,FAST preparation,0.09
+Compress,23,fast_prep_time_starts,0.09
+Compress,23,Build time,28.84
+Compress,23,build_time_starts,27.46
+Compress,23,Test time,28.56
+Compress,23,test_time_starts,26.93
+Compress,23,DPTT_time,0.0003333333333333333
+Compress,23,DPTT_ekstazi_time,0.0006666666666666666
+Compress,23,DPTT_time_starts,0.0006666666666666666
+Compress,23,DPT,5.960333333333334
+Compress,23,DPT_TIME,5.960333333333334
+Compress,23,FAST,0.10766666666666666
+Compress,23,fast_time_starts,0.11033333333333332
+Compress,23,Fastazi-S,5.963333333333333
+Compress,23,fastazi_s_time_starts,13.083
+Compress,23,FAST_T_starts,0.11033333333333332
+Compress,23,DPTT_ekstazi_t,5.960666666666667
+Compress,23,DPTT_t_starts,19.040666666666667
+Compress,24,Selection,6.05
+Compress,24,sel_time_starts,13.940000000000001
+Compress,24,Full prioritization,0.017666666666666667
+Compress,24,prio_p_time_starts,0.020666666666666667
+Compress,24,Sel. prioritization,0.006000000000000001
+Compress,24,prio_s_time_starts,0.012333333333333333
+Compress,24,FAST preparation,0.14
+Compress,24,fast_prep_time_starts,0.14
+Compress,24,Build time,27.28
+Compress,24,build_time_starts,26.49
+Compress,24,Test time,28.560000000000002
+Compress,24,test_time_starts,30.790000000000003
+Compress,24,DPTT_time,0.0006666666666666666
+Compress,24,DPTT_ekstazi_time,0.0006666666666666666
+Compress,24,DPTT_time_starts,0.0003333333333333333
+Compress,24,DPT,6.050666666666666
+Compress,24,DPT_TIME,6.050666666666666
+Compress,24,FAST,0.15766666666666668
+Compress,24,fast_time_starts,0.16066666666666668
+Compress,24,Fastazi-S,6.056
+Compress,24,fastazi_s_time_starts,13.952333333333335
+Compress,24,FAST_T_starts,0.16066666666666668
+Compress,24,DPTT_ekstazi_t,6.050666666666666
+Compress,24,DPTT_t_starts,19.990333333333336
+Compress,25,Selection,6.28
+Compress,25,sel_time_starts,13.639999999999999
+Compress,25,Full prioritization,0.018000000000000002
+Compress,25,prio_p_time_starts,0.021
+Compress,25,Sel. prioritization,0.005333333333333333
+Compress,25,prio_s_time_starts,0.011666666666666665
+Compress,25,FAST preparation,0.13999999999999999
+Compress,25,fast_prep_time_starts,0.17
+Compress,25,Build time,27.88
+Compress,25,build_time_starts,26.98
+Compress,25,Test time,26.330000000000002
+Compress,25,test_time_starts,32.45
+Compress,25,DPTT_time,0.0003333333333333333
+Compress,25,DPTT_ekstazi_time,0.0006666666666666666
+Compress,25,DPTT_time_starts,0.0006666666666666666
+Compress,25,DPT,6.280333333333334
+Compress,25,DPT_TIME,6.280333333333334
+Compress,25,FAST,0.15799999999999997
+Compress,25,fast_time_starts,0.191
+Compress,25,Fastazi-S,6.285333333333334
+Compress,25,fastazi_s_time_starts,13.651666666666666
+Compress,25,FAST_T_starts,0.191
+Compress,25,DPTT_ekstazi_t,6.280666666666667
+Compress,25,DPTT_t_starts,19.920666666666666
+Compress,26,Selection,6.08
+Compress,26,sel_time_starts,13.88
+Compress,26,Full prioritization,0.019333333333333334
+Compress,26,prio_p_time_starts,0.021
+Compress,26,Sel. prioritization,0.012
+Compress,26,prio_s_time_starts,0.013333333333333334
+Compress,26,FAST preparation,0.28
+Compress,26,fast_prep_time_starts,0.28
+Compress,26,Build time,27.71
+Compress,26,build_time_starts,28.82
+Compress,26,Test time,41.019999999999996
+Compress,26,test_time_starts,26.950000000000003
+Compress,26,DPTT_time,0.0003333333333333333
+Compress,26,DPTT_ekstazi_time,0.0006666666666666666
+Compress,26,DPTT_time_starts,0.0003333333333333333
+Compress,26,DPT,6.080333333333334
+Compress,26,DPT_TIME,6.080333333333334
+Compress,26,FAST,0.29933333333333334
+Compress,26,fast_time_starts,0.30100000000000005
+Compress,26,Fastazi-S,6.092
+Compress,26,fastazi_s_time_starts,13.893333333333334
+Compress,26,FAST_T_starts,0.30100000000000005
+Compress,26,DPTT_ekstazi_t,6.080666666666667
+Compress,26,DPTT_t_starts,19.960333333333335
+Compress,27,Selection,6.039999999999999
+Compress,27,sel_time_starts,13.64
+Compress,27,Full prioritization,0.02033333333333333
+Compress,27,prio_p_time_starts,0.021
+Compress,27,Sel. prioritization,0.012
+Compress,27,prio_s_time_starts,0.014000000000000002
+Compress,27,FAST preparation,0.12
+Compress,27,fast_prep_time_starts,0.13
+Compress,27,Build time,26.610000000000003
+Compress,27,build_time_starts,27.24
+Compress,27,Test time,34.0
+Compress,27,test_time_starts,27.45
+Compress,27,DPTT_time,0.0006666666666666666
+Compress,27,DPTT_ekstazi_time,0.0003333333333333333
+Compress,27,DPTT_time_starts,0.0006666666666666666
+Compress,27,DPT,6.040666666666666
+Compress,27,DPT_TIME,6.040666666666666
+Compress,27,FAST,0.14033333333333334
+Compress,27,fast_time_starts,0.151
+Compress,27,Fastazi-S,6.051999999999999
+Compress,27,fastazi_s_time_starts,13.654
+Compress,27,FAST_T_starts,0.151
+Compress,27,DPTT_ekstazi_t,6.040333333333333
+Compress,27,DPTT_t_starts,19.680666666666667
+Compress,28,Selection,6.390000000000001
+Compress,28,sel_time_starts,14.18
+Compress,28,Full prioritization,0.02033333333333333
+Compress,28,prio_p_time_starts,0.021333333333333333
+Compress,28,Sel. prioritization,0.005
+Compress,28,prio_s_time_starts,0.012
+Compress,28,FAST preparation,0.09999999999999999
+Compress,28,fast_prep_time_starts,0.12
+Compress,28,Build time,27.53
+Compress,28,build_time_starts,26.529999999999998
+Compress,28,Test time,25.650000000000002
+Compress,28,test_time_starts,24.599999999999998
+Compress,28,DPTT_time,0.0003333333333333333
+Compress,28,DPTT_ekstazi_time,0.0006666666666666666
+Compress,28,DPTT_time_starts,0.0003333333333333333
+Compress,28,DPT,6.390333333333334
+Compress,28,DPT_TIME,6.390333333333334
+Compress,28,FAST,0.12033333333333332
+Compress,28,fast_time_starts,0.14133333333333334
+Compress,28,Fastazi-S,6.3950000000000005
+Compress,28,fastazi_s_time_starts,14.192
+Compress,28,FAST_T_starts,0.14133333333333334
+Compress,28,DPTT_ekstazi_t,6.390666666666667
+Compress,28,DPTT_t_starts,20.570333333333334
+Compress,29,Selection,6.28
+Compress,29,sel_time_starts,19.48
+Compress,29,Full prioritization,0.024000000000000004
+Compress,29,prio_p_time_starts,0.023000000000000003
+Compress,29,Sel. prioritization,0.018000000000000002
+Compress,29,prio_s_time_starts,0.018666666666666668
+Compress,29,FAST preparation,0.84
+Compress,29,fast_prep_time_starts,0.91
+Compress,29,Build time,33.92
+Compress,29,build_time_starts,32.65
+Compress,29,Test time,43.339999999999996
+Compress,29,test_time_starts,36.48
+Compress,29,DPTT_time,0.0003333333333333333
+Compress,29,DPTT_ekstazi_time,0.0006666666666666666
+Compress,29,DPTT_time_starts,0.0003333333333333333
+Compress,29,DPT,6.280333333333334
+Compress,29,DPT_TIME,6.280333333333334
+Compress,29,FAST,0.864
+Compress,29,fast_time_starts,0.933
+Compress,29,Fastazi-S,6.298
+Compress,29,fastazi_s_time_starts,19.49866666666667
+Compress,29,FAST_T_starts,0.933
+Compress,29,DPTT_ekstazi_t,6.280666666666667
+Compress,29,DPTT_t_starts,25.760333333333335
+Compress,30,Selection,6.27
+Compress,30,sel_time_starts,19.29
+Compress,30,Full prioritization,0.024666666666666667
+Compress,30,prio_p_time_starts,0.024333333333333332
+Compress,30,Sel. prioritization,0.017666666666666667
+Compress,30,prio_s_time_starts,0.02033333333333333
+Compress,30,FAST preparation,1.6400000000000001
+Compress,30,fast_prep_time_starts,1.68
+Compress,30,Build time,32.79
+Compress,30,build_time_starts,32.19
+Compress,30,Test time,43.71
+Compress,30,test_time_starts,35.1
+Compress,30,DPTT_time,0.0006666666666666666
+Compress,30,DPTT_ekstazi_time,0.0003333333333333333
+Compress,30,DPTT_time_starts,0.0006666666666666666
+Compress,30,DPT,6.270666666666666
+Compress,30,DPT_TIME,6.270666666666666
+Compress,30,FAST,1.6646666666666667
+Compress,30,fast_time_starts,1.7043333333333333
+Compress,30,Fastazi-S,6.2876666666666665
+Compress,30,fastazi_s_time_starts,19.310333333333332
+Compress,30,FAST_T_starts,1.7043333333333333
+Compress,30,DPTT_ekstazi_t,6.270333333333333
+Compress,30,DPTT_t_starts,25.560666666666666
+Compress,31,Selection,6.69
+Compress,31,sel_time_starts,19.14
+Compress,31,Full prioritization,0.024333333333333332
+Compress,31,prio_p_time_starts,0.025
+Compress,31,Sel. prioritization,0.005000000000000001
+Compress,31,prio_s_time_starts,0.013000000000000001
+Compress,31,FAST preparation,0.11
+Compress,31,fast_prep_time_starts,0.12
+Compress,31,Build time,32.71
+Compress,31,build_time_starts,32.68
+Compress,31,Test time,34.75
+Compress,31,test_time_starts,35.01
+Compress,31,DPTT_time,0.0003333333333333333
+Compress,31,DPTT_ekstazi_time,0.0006666666666666666
+Compress,31,DPTT_time_starts,0.0003333333333333333
+Compress,31,DPT,6.690333333333334
+Compress,31,DPT_TIME,6.690333333333334
+Compress,31,FAST,0.13433333333333333
+Compress,31,fast_time_starts,0.145
+Compress,31,Fastazi-S,6.695
+Compress,31,fastazi_s_time_starts,19.153000000000002
+Compress,31,FAST_T_starts,0.145
+Compress,31,DPTT_ekstazi_t,6.690666666666667
+Compress,31,DPTT_t_starts,25.830333333333336
+Compress,32,Selection,6.24
+Compress,32,sel_time_starts,17.55
+Compress,32,Full prioritization,0.024333333333333332
+Compress,32,prio_p_time_starts,0.024333333333333332
+Compress,32,Sel. prioritization,0.011333333333333332
+Compress,32,prio_s_time_starts,0.015333333333333332
+Compress,32,FAST preparation,0.23
+Compress,32,fast_prep_time_starts,0.24000000000000002
+Compress,32,Build time,33.510000000000005
+Compress,32,build_time_starts,32.93
+Compress,32,Test time,38.660000000000004
+Compress,32,test_time_starts,37.040000000000006
+Compress,32,DPTT_time,0.0003333333333333333
+Compress,32,DPTT_ekstazi_time,0.0006666666666666666
+Compress,32,DPTT_time_starts,0.0003333333333333333
+Compress,32,DPT,6.240333333333334
+Compress,32,DPT_TIME,6.240333333333334
+Compress,32,FAST,0.25433333333333336
+Compress,32,fast_time_starts,0.26433333333333336
+Compress,32,Fastazi-S,6.251333333333333
+Compress,32,fastazi_s_time_starts,17.565333333333335
+Compress,32,FAST_T_starts,0.26433333333333336
+Compress,32,DPTT_ekstazi_t,6.240666666666667
+Compress,32,DPTT_t_starts,23.790333333333336
+Compress,33,Selection,6.6499999999999995
+Compress,33,sel_time_starts,19.28
+Compress,33,Full prioritization,0.024666666666666667
+Compress,33,prio_p_time_starts,0.025
+Compress,33,Sel. prioritization,0.004333333333333333
+Compress,33,prio_s_time_starts,0.004666666666666667
+Compress,33,FAST preparation,0.09999999999999999
+Compress,33,fast_prep_time_starts,0.13
+Compress,33,Build time,31.54
+Compress,33,build_time_starts,31.02
+Compress,33,Test time,27.86
+Compress,33,test_time_starts,36.31
+Compress,33,DPTT_time,0.0006666666666666666
+Compress,33,DPTT_ekstazi_time,0.0006666666666666666
+Compress,33,DPTT_time_starts,0.0006666666666666666
+Compress,33,DPT,6.650666666666666
+Compress,33,DPT_TIME,6.650666666666666
+Compress,33,FAST,0.12466666666666666
+Compress,33,fast_time_starts,0.155
+Compress,33,Fastazi-S,6.654333333333333
+Compress,33,fastazi_s_time_starts,19.284666666666666
+Compress,33,FAST_T_starts,0.155
+Compress,33,DPTT_ekstazi_t,6.650666666666666
+Compress,33,DPTT_t_starts,25.930666666666667
+Compress,34,Selection,6.489999999999999
+Compress,34,sel_time_starts,20.299999999999997
+Compress,34,Full prioritization,0.025
+Compress,34,prio_p_time_starts,0.024666666666666667
+Compress,34,Sel. prioritization,0.009666666666666667
+Compress,34,prio_s_time_starts,0.015333333333333334
+Compress,34,FAST preparation,0.18000000000000002
+Compress,34,fast_prep_time_starts,0.19
+Compress,34,Build time,32.510000000000005
+Compress,34,build_time_starts,32.22
+Compress,34,Test time,39.769999999999996
+Compress,34,test_time_starts,37.019999999999996
+Compress,34,DPTT_time,0.0006666666666666666
+Compress,34,DPTT_ekstazi_time,0.0003333333333333333
+Compress,34,DPTT_time_starts,0.0003333333333333333
+Compress,34,DPT,6.490666666666666
+Compress,34,DPT_TIME,6.490666666666666
+Compress,34,FAST,0.20500000000000002
+Compress,34,fast_time_starts,0.21466666666666667
+Compress,34,Fastazi-S,6.499666666666666
+Compress,34,fastazi_s_time_starts,20.31533333333333
+Compress,34,FAST_T_starts,0.21466666666666667
+Compress,34,DPTT_ekstazi_t,6.490333333333333
+Compress,34,DPTT_t_starts,26.79033333333333
+Compress,35,Selection,6.3
+Compress,35,sel_time_starts,18.96
+Compress,35,Full prioritization,0.025
+Compress,35,prio_p_time_starts,0.026000000000000002
+Compress,35,Sel. prioritization,0.014000000000000002
+Compress,35,prio_s_time_starts,0.015000000000000001
+Compress,35,FAST preparation,0.34
+Compress,35,fast_prep_time_starts,0.35000000000000003
+Compress,35,Build time,32.01
+Compress,35,build_time_starts,33.64
+Compress,35,Test time,44.86
+Compress,35,test_time_starts,37.230000000000004
+Compress,35,DPTT_time,0.0006666666666666666
+Compress,35,DPTT_ekstazi_time,0.0006666666666666666
+Compress,35,DPTT_time_starts,0.0006666666666666666
+Compress,35,DPT,6.300666666666666
+Compress,35,DPT_TIME,6.300666666666666
+Compress,35,FAST,0.36500000000000005
+Compress,35,fast_time_starts,0.37600000000000006
+Compress,35,Fastazi-S,6.314
+Compress,35,fastazi_s_time_starts,18.975
+Compress,35,FAST_T_starts,0.37600000000000006
+Compress,35,DPTT_ekstazi_t,6.300666666666666
+Compress,35,DPTT_t_starts,25.26066666666667
+Compress,36,Selection,6.18
+Compress,36,sel_time_starts,19.41
+Compress,36,Full prioritization,0.02666666666666667
+Compress,36,prio_p_time_starts,0.022000000000000002
+Compress,36,Sel. prioritization,0.027000000000000003
+Compress,36,prio_s_time_starts,0.022333333333333334
+Compress,36,FAST preparation,2.03
+Compress,36,fast_prep_time_starts,2.14
+Compress,36,Build time,33.72
+Compress,36,build_time_starts,35.07
+Compress,36,Test time,55.69
+Compress,36,test_time_starts,40.12
+Compress,36,DPTT_time,0.0006666666666666666
+Compress,36,DPTT_ekstazi_time,0.0006666666666666666
+Compress,36,DPTT_time_starts,0.0006666666666666666
+Compress,36,DPT,6.180666666666666
+Compress,36,DPT_TIME,6.180666666666666
+Compress,36,FAST,2.0566666666666666
+Compress,36,fast_time_starts,2.162
+Compress,36,Fastazi-S,6.207
+Compress,36,fastazi_s_time_starts,19.432333333333332
+Compress,36,FAST_T_starts,2.162
+Compress,36,DPTT_ekstazi_t,6.180666666666666
+Compress,36,DPTT_t_starts,25.590666666666667
+Compress,37,Selection,6.890000000000001
+Compress,37,sel_time_starts,19.47
+Compress,37,Full prioritization,0.028666666666666667
+Compress,37,prio_p_time_starts,0.022666666666666665
+Compress,37,Sel. prioritization,0.008666666666666666
+Compress,37,prio_s_time_starts,0.011666666666666667
+Compress,37,FAST preparation,0.13
+Compress,37,fast_prep_time_starts,0.17
+Compress,37,Build time,35.330000000000005
+Compress,37,build_time_starts,32.85
+Compress,37,Test time,42.67
+Compress,37,test_time_starts,41.58
+Compress,37,DPTT_time,0.0003333333333333333
+Compress,37,DPTT_ekstazi_time,0.0006666666666666666
+Compress,37,DPTT_time_starts,0.0003333333333333333
+Compress,37,DPT,6.890333333333334
+Compress,37,DPT_TIME,6.890333333333334
+Compress,37,FAST,0.15866666666666668
+Compress,37,fast_time_starts,0.19266666666666668
+Compress,37,Fastazi-S,6.898666666666667
+Compress,37,fastazi_s_time_starts,19.481666666666666
+Compress,37,FAST_T_starts,0.19266666666666668
+Compress,37,DPTT_ekstazi_t,6.890666666666667
+Compress,37,DPTT_t_starts,26.360333333333333
+Compress,38,Selection,7.33
+Compress,38,sel_time_starts,19.12
+Compress,38,Full prioritization,0.028333333333333335
+Compress,38,prio_p_time_starts,0.02266666666666667
+Compress,38,Sel. prioritization,0.004666666666666667
+Compress,38,prio_s_time_starts,0.011666666666666667
+Compress,38,FAST preparation,0.11
+Compress,38,fast_prep_time_starts,0.12
+Compress,38,Build time,34.38999999999999
+Compress,38,build_time_starts,32.62
+Compress,38,Test time,33.33
+Compress,38,test_time_starts,42.199999999999996
+Compress,38,DPTT_time,0.0006666666666666666
+Compress,38,DPTT_ekstazi_time,0.0006666666666666666
+Compress,38,DPTT_time_starts,0.0003333333333333333
+Compress,38,DPT,7.330666666666667
+Compress,38,DPT_TIME,7.330666666666667
+Compress,38,FAST,0.13833333333333334
+Compress,38,fast_time_starts,0.14266666666666666
+Compress,38,Fastazi-S,7.334666666666667
+Compress,38,fastazi_s_time_starts,19.131666666666668
+Compress,38,FAST_T_starts,0.14266666666666666
+Compress,38,DPTT_ekstazi_t,7.330666666666667
+Compress,38,DPTT_t_starts,26.450333333333333
+Compress,39,Selection,6.949999999999999
+Compress,39,sel_time_starts,18.39
+Compress,39,Full prioritization,0.028
+Compress,39,prio_p_time_starts,0.02266666666666667
+Compress,39,Sel. prioritization,0.008333333333333333
+Compress,39,prio_s_time_starts,0.013666666666666667
+Compress,39,FAST preparation,0.21
+Compress,39,fast_prep_time_starts,0.2
+Compress,39,Build time,34.71
+Compress,39,build_time_starts,31.75
+Compress,39,Test time,40.989999999999995
+Compress,39,test_time_starts,41.04
+Compress,39,DPTT_time,0.0003333333333333333
+Compress,39,DPTT_ekstazi_time,0.0006666666666666666
+Compress,39,DPTT_time_starts,0.0003333333333333333
+Compress,39,DPT,6.950333333333333
+Compress,39,DPT_TIME,6.950333333333333
+Compress,39,FAST,0.238
+Compress,39,fast_time_starts,0.22266666666666668
+Compress,39,Fastazi-S,6.958333333333333
+Compress,39,fastazi_s_time_starts,18.403666666666666
+Compress,39,FAST_T_starts,0.22266666666666668
+Compress,39,DPTT_ekstazi_t,6.950666666666666
+Compress,39,DPTT_t_starts,25.340333333333334
+Compress,40,Selection,6.17
+Compress,40,sel_time_starts,22.67
+Compress,40,Full prioritization,0.028333333333333332
+Compress,40,prio_p_time_starts,0.024
+Compress,40,Sel. prioritization,0.027000000000000003
+Compress,40,prio_s_time_starts,0.024
+Compress,40,FAST preparation,1.02
+Compress,40,fast_prep_time_starts,1.06
+Compress,40,Build time,36.35
+Compress,40,build_time_starts,36.11
+Compress,40,Test time,59.64
+Compress,40,test_time_starts,42.300000000000004
+Compress,40,DPTT_time,0.0006666666666666666
+Compress,40,DPTT_ekstazi_time,0.0006666666666666666
+Compress,40,DPTT_time_starts,0.0006666666666666666
+Compress,40,DPT,6.1706666666666665
+Compress,40,DPT_TIME,6.1706666666666665
+Compress,40,FAST,1.0483333333333333
+Compress,40,fast_time_starts,1.084
+Compress,40,Fastazi-S,6.197
+Compress,40,fastazi_s_time_starts,22.694000000000003
+Compress,40,FAST_T_starts,1.084
+Compress,40,DPTT_ekstazi_t,6.1706666666666665
+Compress,40,DPTT_t_starts,28.84066666666667
+Compress,41,Selection,6.44
+Compress,41,sel_time_starts,23.25
+Compress,41,Full prioritization,0.027000000000000003
+Compress,41,prio_p_time_starts,0.026333333333333334
+Compress,41,Sel. prioritization,0.016666666666666666
+Compress,41,prio_s_time_starts,0.017
+Compress,41,FAST preparation,0.66
+Compress,41,fast_prep_time_starts,0.72
+Compress,41,Build time,37.26
+Compress,41,build_time_starts,38.459999999999994
+Compress,41,Test time,59.04
+Compress,41,test_time_starts,45.81
+Compress,41,DPTT_time,0.0006666666666666666
+Compress,41,DPTT_ekstazi_time,0.0003333333333333333
+Compress,41,DPTT_time_starts,0.0006666666666666666
+Compress,41,DPT,6.440666666666667
+Compress,41,DPT_TIME,6.440666666666667
+Compress,41,FAST,0.687
+Compress,41,fast_time_starts,0.7463333333333333
+Compress,41,Fastazi-S,6.456666666666667
+Compress,41,fastazi_s_time_starts,23.267
+Compress,41,FAST_T_starts,0.7463333333333333
+Compress,41,DPTT_ekstazi_t,6.440333333333334
+Compress,41,DPTT_t_starts,29.69066666666667
+Compress,42,Selection,6.859999999999999
+Compress,42,sel_time_starts,22.89
+Compress,42,Full prioritization,0.02666666666666667
+Compress,42,prio_p_time_starts,0.029333333333333333
+Compress,42,Sel. prioritization,0.014666666666666666
+Compress,42,prio_s_time_starts,0.018666666666666668
+Compress,42,FAST preparation,0.24000000000000002
+Compress,42,fast_prep_time_starts,0.29000000000000004
+Compress,42,Build time,46.17
+Compress,42,build_time_starts,46.08
+Compress,42,Test time,80.12
+Compress,42,test_time_starts,71.78
+Compress,42,DPTT_time,0.0003333333333333333
+Compress,42,DPTT_ekstazi_time,0.0003333333333333333
+Compress,42,DPTT_time_starts,0.0003333333333333333
+Compress,42,DPT,6.860333333333333
+Compress,42,DPT_TIME,6.860333333333333
+Compress,42,FAST,0.26666666666666666
+Compress,42,fast_time_starts,0.31933333333333336
+Compress,42,Fastazi-S,6.874666666666666
+Compress,42,fastazi_s_time_starts,22.90866666666667
+Compress,42,FAST_T_starts,0.31933333333333336
+Compress,42,DPTT_ekstazi_t,6.860333333333333
+Compress,42,DPTT_t_starts,29.750333333333334
+Compress,43,Selection,6.2700000000000005
+Compress,43,sel_time_starts,24.970000000000002
+Compress,43,Full prioritization,0.033666666666666664
+Compress,43,prio_p_time_starts,0.03166666666666667
+Compress,43,Sel. prioritization,0.023333333333333334
+Compress,43,prio_s_time_starts,0.024666666666666667
+Compress,43,FAST preparation,0.9400000000000001
+Compress,43,fast_prep_time_starts,1.0
+Compress,43,Build time,46.47
+Compress,43,build_time_starts,45.31
+Compress,43,Test time,93.17999999999999
+Compress,43,test_time_starts,81.38
+Compress,43,DPTT_time,0.0006666666666666666
+Compress,43,DPTT_ekstazi_time,0.0006666666666666666
+Compress,43,DPTT_time_starts,0.0003333333333333333
+Compress,43,DPT,6.270666666666667
+Compress,43,DPT_TIME,6.270666666666667
+Compress,43,FAST,0.9736666666666667
+Compress,43,fast_time_starts,1.0316666666666667
+Compress,43,Fastazi-S,6.293333333333334
+Compress,43,fastazi_s_time_starts,24.99466666666667
+Compress,43,FAST_T_starts,1.0316666666666667
+Compress,43,DPTT_ekstazi_t,6.270666666666667
+Compress,43,DPTT_t_starts,31.240333333333336
+Compress,44,Selection,7.279999999999999
+Compress,44,sel_time_starts,23.72
+Compress,44,Full prioritization,0.035
+Compress,44,prio_p_time_starts,0.035333333333333335
+Compress,44,Sel. prioritization,0.005333333333333333
+Compress,44,prio_s_time_starts,0.006333333333333333
+Compress,44,FAST preparation,0.25
+Compress,44,fast_prep_time_starts,0.26
+Compress,44,Build time,46.82
+Compress,44,build_time_starts,46.089999999999996
+Compress,44,Test time,54.21
+Compress,44,test_time_starts,81.62
+Compress,44,DPTT_time,0.0006666666666666666
+Compress,44,DPTT_ekstazi_time,0.0006666666666666666
+Compress,44,DPTT_time_starts,0.0006666666666666666
+Compress,44,DPT,7.280666666666666
+Compress,44,DPT_TIME,7.280666666666666
+Compress,44,FAST,0.28500000000000003
+Compress,44,fast_time_starts,0.29533333333333334
+Compress,44,Fastazi-S,7.285333333333333
+Compress,44,fastazi_s_time_starts,23.726333333333333
+Compress,44,FAST_T_starts,0.29533333333333334
+Compress,44,DPTT_ekstazi_t,7.280666666666666
+Compress,44,DPTT_t_starts,31.000666666666667
+Compress,45,Selection,7.79
+Compress,45,sel_time_starts,25.87
+Compress,45,Full prioritization,0.036000000000000004
+Compress,45,prio_p_time_starts,0.034666666666666665
+Compress,45,Sel. prioritization,0.004666666666666666
+Compress,45,prio_s_time_starts,0.014999999999999998
+Compress,45,FAST preparation,0.09
+Compress,45,fast_prep_time_starts,0.14
+Compress,45,Build time,47.26
+Compress,45,build_time_starts,42.69
+Compress,45,Test time,45.52
+Compress,45,test_time_starts,79.64
+Compress,45,DPTT_time,0.0006666666666666666
+Compress,45,DPTT_ekstazi_time,0.0003333333333333333
+Compress,45,DPTT_time_starts,0.0003333333333333333
+Compress,45,DPT,7.790666666666667
+Compress,45,DPT_TIME,7.790666666666667
+Compress,45,FAST,0.126
+Compress,45,fast_time_starts,0.1746666666666667
+Compress,45,Fastazi-S,7.794666666666667
+Compress,45,fastazi_s_time_starts,25.885
+Compress,45,FAST_T_starts,0.1746666666666667
+Compress,45,DPTT_ekstazi_t,7.790333333333334
+Compress,45,DPTT_t_starts,33.660333333333334
+Compress,46,Selection,7.14
+Compress,46,sel_time_starts,25.21
+Compress,46,Full prioritization,0.036000000000000004
+Compress,46,prio_p_time_starts,0.036333333333333336
+Compress,46,Sel. prioritization,0.012000000000000002
+Compress,46,prio_s_time_starts,0.019333333333333334
+Compress,46,FAST preparation,0.38
+Compress,46,fast_prep_time_starts,0.44
+Compress,46,Build time,46.74
+Compress,46,build_time_starts,49.629999999999995
+Compress,46,Test time,65.73
+Compress,46,test_time_starts,77.85
+Compress,46,DPTT_time,0.0006666666666666666
+Compress,46,DPTT_ekstazi_time,0.0006666666666666666
+Compress,46,DPTT_time_starts,0.0006666666666666666
+Compress,46,DPT,7.140666666666666
+Compress,46,DPT_TIME,7.140666666666666
+Compress,46,FAST,0.41600000000000004
+Compress,46,fast_time_starts,0.47633333333333333
+Compress,46,Fastazi-S,7.151999999999999
+Compress,46,fastazi_s_time_starts,25.229333333333333
+Compress,46,FAST_T_starts,0.47633333333333333
+Compress,46,DPTT_ekstazi_t,7.140666666666666
+Compress,46,DPTT_t_starts,32.35066666666667
+Compress,47,Selection,6.640000000000001
+Compress,47,sel_time_starts,20.68
+Compress,47,Full prioritization,0.043000000000000003
+Compress,47,prio_p_time_starts,0.046000000000000006
+Compress,47,Sel. prioritization,0.024333333333333332
+Compress,47,prio_s_time_starts,0.029333333333333333
+Compress,47,FAST preparation,1.03
+Compress,47,fast_prep_time_starts,1.09
+Compress,47,Build time,40.65
+Compress,47,build_time_starts,45.16
+Compress,47,Test time,78.19999999999999
+Compress,47,test_time_starts,70.00999999999999
+Compress,47,DPTT_time,0.0006666666666666666
+Compress,47,DPTT_ekstazi_time,0.0006666666666666666
+Compress,47,DPTT_time_starts,0.0006666666666666666
+Compress,47,DPT,6.640666666666667
+Compress,47,DPT_TIME,6.640666666666667
+Compress,47,FAST,1.073
+Compress,47,fast_time_starts,1.1360000000000001
+Compress,47,Fastazi-S,6.664333333333334
+Compress,47,fastazi_s_time_starts,20.709333333333333
+Compress,47,FAST_T_starts,1.1360000000000001
+Compress,47,DPTT_ekstazi_t,6.640666666666667
+Compress,47,DPTT_t_starts,27.320666666666668

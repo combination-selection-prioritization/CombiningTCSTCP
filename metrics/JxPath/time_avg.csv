@@ -1,0 +1,25 @@
+Project, Suite, Time
+JxPath,Selection,5.7600
+JxPath,sel_time_starts,10.7533
+JxPath,Full prioritization,0.0120
+JxPath,prio_p_time_starts,0.0133
+JxPath,Sel. prioritization,0.0071
+JxPath,prio_s_time_starts,0.0086
+JxPath,FAST preparation,0.0900
+JxPath,fast_prep_time_starts,0.1067
+JxPath,Build time,23.6100
+JxPath,build_time_starts,23.9700
+JxPath,Test time,25.0300
+JxPath,test_time_starts,21.8333
+JxPath,DPTT_time,0.0007
+JxPath,DPTT_ekstazi_time,0.0006
+JxPath,DPTT_time_starts,0.0004
+JxPath,DPT_TIME,5.7607
+JxPath,FAST,0.1020
+JxPath,fast_time_starts,0.1200
+JxPath,Fastazi-S,5.7671
+JxPath,fastazi_s_time_starts,10.7619
+JxPath,FAST_T_starts,0.1200
+JxPath,DPTT_ekstazi_t,5.7606
+JxPath,DPTT_t_starts,16.5138
+JxPath,DPT,5.7607

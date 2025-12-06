@@ -1,0 +1,25 @@
+Project, Suite, Time
+Collections,Selection,6.3500
+Collections,sel_time_starts,39.8500
+Collections,Full prioritization,0.0903
+Collections,prio_p_time_starts,0.0773
+Collections,Sel. prioritization,0.0400
+Collections,prio_s_time_starts,0.0360
+Collections,FAST preparation,1.9000
+Collections,fast_prep_time_starts,1.9100
+Collections,Build time,50.0300
+Collections,build_time_starts,53.3100
+Collections,Test time,84.8400
+Collections,test_time_starts,79.0300
+Collections,DPTT_time,0.0010
+Collections,DPTT_ekstazi_time,0.0007
+Collections,DPTT_time_starts,0.0003
+Collections,DPT_TIME,6.3510
+Collections,FAST,1.9903
+Collections,fast_time_starts,1.9873
+Collections,Fastazi-S,6.3900
+Collections,fastazi_s_time_starts,39.8860
+Collections,FAST_T_starts,1.9873
+Collections,DPTT_ekstazi_t,6.3507
+Collections,DPTT_t_starts,46.2003
+Collections,DPT,6.3510

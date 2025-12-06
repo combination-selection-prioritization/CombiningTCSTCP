@@ -1,0 +1,313 @@
+Project, Version, Suite, Time
+Lang,15,Selection,6.21
+Lang,15,sel_time_starts,10.33
+Lang,15,Full prioritization,0.02033333333333333
+Lang,15,prio_p_time_starts,0.024
+Lang,15,Sel. prioritization,0.012666666666666666
+Lang,15,prio_s_time_starts,0.016
+Lang,15,FAST preparation,0.4
+Lang,15,fast_prep_time_starts,0.44
+Lang,15,Build time,30.700000000000003
+Lang,15,build_time_starts,28.32
+Lang,15,Test time,29.189999999999998
+Lang,15,test_time_starts,19.54
+Lang,15,DPTT_time,0.0006666666666666666
+Lang,15,DPTT_ekstazi_time,0.0006666666666666666
+Lang,15,DPTT_time_starts,0.0006666666666666666
+Lang,15,DPT,6.210666666666667
+Lang,15,DPT_TIME,6.210666666666667
+Lang,15,FAST,0.42033333333333334
+Lang,15,fast_time_starts,0.464
+Lang,15,Fastazi-S,6.222666666666667
+Lang,15,fastazi_s_time_starts,10.346
+Lang,15,FAST_T_starts,0.464
+Lang,15,DPTT_ekstazi_t,6.210666666666667
+Lang,15,DPTT_t_starts,16.540666666666667
+Lang,16,Selection,5.68
+Lang,16,sel_time_starts,9.86
+Lang,16,Full prioritization,0.023
+Lang,16,prio_p_time_starts,0.02266666666666667
+Lang,16,Sel. prioritization,0.02266666666666667
+Lang,16,prio_s_time_starts,0.022000000000000002
+Lang,16,FAST preparation,2.95
+Lang,16,fast_prep_time_starts,3.0199999999999996
+Lang,16,Build time,30.71
+Lang,16,build_time_starts,29.93
+Lang,16,Test time,29.200000000000003
+Lang,16,test_time_starts,20.9
+Lang,16,DPTT_time,0.0006666666666666666
+Lang,16,DPTT_ekstazi_time,0.0006666666666666666
+Lang,16,DPTT_time_starts,0.0003333333333333333
+Lang,16,DPT,5.680666666666666
+Lang,16,DPT_TIME,5.680666666666666
+Lang,16,FAST,2.9730000000000003
+Lang,16,fast_time_starts,3.0426666666666664
+Lang,16,Fastazi-S,5.7026666666666666
+Lang,16,fastazi_s_time_starts,9.882
+Lang,16,FAST_T_starts,3.0426666666666664
+Lang,16,DPTT_ekstazi_t,5.680666666666666
+Lang,16,DPTT_t_starts,15.540333333333333
+Lang,17,Selection,6.28
+Lang,17,sel_time_starts,10.47
+Lang,17,Full prioritization,0.023000000000000003
+Lang,17,prio_p_time_starts,0.02366666666666667
+Lang,17,Sel. prioritization,0.007666666666666666
+Lang,17,prio_s_time_starts,0.014
+Lang,17,FAST preparation,0.33
+Lang,17,fast_prep_time_starts,0.4
+Lang,17,Build time,29.76
+Lang,17,build_time_starts,29.15
+Lang,17,Test time,26.31
+Lang,17,test_time_starts,21.03
+Lang,17,DPTT_time,0.0006666666666666666
+Lang,17,DPTT_ekstazi_time,0.0003333333333333333
+Lang,17,DPTT_time_starts,0.0003333333333333333
+Lang,17,DPT,6.280666666666667
+Lang,17,DPT_TIME,6.280666666666667
+Lang,17,FAST,0.35300000000000004
+Lang,17,fast_time_starts,0.4236666666666667
+Lang,17,Fastazi-S,6.2876666666666665
+Lang,17,fastazi_s_time_starts,10.484
+Lang,17,FAST_T_starts,0.4236666666666667
+Lang,17,DPTT_ekstazi_t,6.280333333333334
+Lang,17,DPTT_t_starts,16.750333333333334
+Lang,18,Selection,6.35
+Lang,18,sel_time_starts,10.44
+Lang,18,Full prioritization,0.02266666666666667
+Lang,18,prio_p_time_starts,0.023000000000000003
+Lang,18,Sel. prioritization,0.007000000000000001
+Lang,18,prio_s_time_starts,0.013333333333333334
+Lang,18,FAST preparation,0.27
+Lang,18,fast_prep_time_starts,0.31
+Lang,18,Build time,30.09
+Lang,18,build_time_starts,29.759999999999998
+Lang,18,Test time,19.77
+Lang,18,test_time_starts,21.779999999999998
+Lang,18,DPTT_time,0.0006666666666666666
+Lang,18,DPTT_ekstazi_time,0.0006666666666666666
+Lang,18,DPTT_time_starts,0.0006666666666666666
+Lang,18,DPT,6.350666666666666
+Lang,18,DPT_TIME,6.350666666666666
+Lang,18,FAST,0.2926666666666667
+Lang,18,fast_time_starts,0.333
+Lang,18,Fastazi-S,6.356999999999999
+Lang,18,fastazi_s_time_starts,10.453333333333333
+Lang,18,FAST_T_starts,0.333
+Lang,18,DPTT_ekstazi_t,6.350666666666666
+Lang,18,DPTT_t_starts,16.790666666666667
+Lang,19,Selection,6.12
+Lang,19,sel_time_starts,10.0
+Lang,19,Full prioritization,0.025
+Lang,19,prio_p_time_starts,0.020666666666666667
+Lang,19,Sel. prioritization,0.019000000000000003
+Lang,19,prio_s_time_starts,0.018666666666666668
+Lang,19,FAST preparation,2.42
+Lang,19,fast_prep_time_starts,2.5
+Lang,19,Build time,29.689999999999998
+Lang,19,build_time_starts,30.069999999999997
+Lang,19,Test time,32.54
+Lang,19,test_time_starts,20.93
+Lang,19,DPTT_time,0.0003333333333333333
+Lang,19,DPTT_ekstazi_time,0.0003333333333333333
+Lang,19,DPTT_time_starts,0.0006666666666666666
+Lang,19,DPT,6.120333333333334
+Lang,19,DPT_TIME,6.120333333333334
+Lang,19,FAST,2.445
+Lang,19,fast_time_starts,2.5206666666666666
+Lang,19,Fastazi-S,6.139
+Lang,19,fastazi_s_time_starts,10.018666666666666
+Lang,19,FAST_T_starts,2.5206666666666666
+Lang,19,DPTT_ekstazi_t,6.120333333333334
+Lang,19,DPTT_t_starts,16.12066666666667
+Lang,20,Selection,6.26
+Lang,20,sel_time_starts,10.32
+Lang,20,Full prioritization,0.024666666666666667
+Lang,20,prio_p_time_starts,0.021
+Lang,20,Sel. prioritization,0.010000000000000002
+Lang,20,prio_s_time_starts,0.013666666666666666
+Lang,20,FAST preparation,0.58
+Lang,20,fast_prep_time_starts,0.63
+Lang,20,Build time,30.56
+Lang,20,build_time_starts,31.02
+Lang,20,Test time,25.709999999999997
+Lang,20,test_time_starts,21.57
+Lang,20,DPTT_time,0.0006666666666666666
+Lang,20,DPTT_ekstazi_time,0.0003333333333333333
+Lang,20,DPTT_time_starts,0.0003333333333333333
+Lang,20,DPT,6.260666666666666
+Lang,20,DPT_TIME,6.260666666666666
+Lang,20,FAST,0.6046666666666666
+Lang,20,fast_time_starts,0.651
+Lang,20,Fastazi-S,6.27
+Lang,20,fastazi_s_time_starts,10.333666666666668
+Lang,20,FAST_T_starts,0.651
+Lang,20,DPTT_ekstazi_t,6.2603333333333335
+Lang,20,DPTT_t_starts,16.580333333333336
+Lang,21,Selection,6.06
+Lang,21,sel_time_starts,10.610000000000001
+Lang,21,Full prioritization,0.025
+Lang,21,prio_p_time_starts,0.021
+Lang,21,Sel. prioritization,0.013666666666666667
+Lang,21,prio_s_time_starts,0.014
+Lang,21,FAST preparation,0.74
+Lang,21,fast_prep_time_starts,0.81
+Lang,21,Build time,31.4
+Lang,21,build_time_starts,30.9
+Lang,21,Test time,28.06
+Lang,21,test_time_starts,22.09
+Lang,21,DPTT_time,0.0006666666666666666
+Lang,21,DPTT_ekstazi_time,0.0003333333333333333
+Lang,21,DPTT_time_starts,0.0003333333333333333
+Lang,21,DPT,6.060666666666666
+Lang,21,DPT_TIME,6.060666666666666
+Lang,21,FAST,0.765
+Lang,21,fast_time_starts,0.8310000000000001
+Lang,21,Fastazi-S,6.073666666666666
+Lang,21,fastazi_s_time_starts,10.624
+Lang,21,FAST_T_starts,0.8310000000000001
+Lang,21,DPTT_ekstazi_t,6.060333333333333
+Lang,21,DPTT_t_starts,16.670333333333335
+Lang,22,Selection,6.21
+Lang,22,sel_time_starts,10.49
+Lang,22,Full prioritization,0.025333333333333333
+Lang,22,prio_p_time_starts,0.02033333333333333
+Lang,22,Sel. prioritization,0.005666666666666666
+Lang,22,prio_s_time_starts,0.013
+Lang,22,FAST preparation,0.18000000000000002
+Lang,22,fast_prep_time_starts,0.23
+Lang,22,Build time,32.8
+Lang,22,build_time_starts,31.62
+Lang,22,Test time,18.09
+Lang,22,test_time_starts,20.2
+Lang,22,DPTT_time,0.0006666666666666666
+Lang,22,DPTT_ekstazi_time,0.0006666666666666666
+Lang,22,DPTT_time_starts,0.0003333333333333333
+Lang,22,DPT,6.210666666666667
+Lang,22,DPT_TIME,6.210666666666667
+Lang,22,FAST,0.20533333333333337
+Lang,22,fast_time_starts,0.25033333333333335
+Lang,22,Fastazi-S,6.2156666666666665
+Lang,22,fastazi_s_time_starts,10.503
+Lang,22,FAST_T_starts,0.25033333333333335
+Lang,22,DPTT_ekstazi_t,6.210666666666667
+Lang,22,DPTT_t_starts,16.700333333333333
+Lang,23,Selection,6.08
+Lang,23,sel_time_starts,10.420000000000002
+Lang,23,Full prioritization,0.025333333333333333
+Lang,23,prio_p_time_starts,0.020666666666666667
+Lang,23,Sel. prioritization,0.005333333333333333
+Lang,23,prio_s_time_starts,0.013000000000000001
+Lang,23,FAST preparation,0.15
+Lang,23,fast_prep_time_starts,0.16
+Lang,23,Build time,32.910000000000004
+Lang,23,build_time_starts,29.509999999999998
+Lang,23,Test time,14.76
+Lang,23,test_time_starts,21.369999999999997
+Lang,23,DPTT_time,0.0003333333333333333
+Lang,23,DPTT_ekstazi_time,0.0006666666666666666
+Lang,23,DPTT_time_starts,0.0006666666666666666
+Lang,23,DPT,6.080333333333334
+Lang,23,DPT_TIME,6.080333333333334
+Lang,23,FAST,0.17533333333333334
+Lang,23,fast_time_starts,0.18066666666666667
+Lang,23,Fastazi-S,6.085333333333334
+Lang,23,fastazi_s_time_starts,10.433000000000002
+Lang,23,FAST_T_starts,0.18066666666666667
+Lang,23,DPTT_ekstazi_t,6.080666666666667
+Lang,23,DPTT_t_starts,16.500666666666667
+Lang,24,Selection,6.369999999999999
+Lang,24,sel_time_starts,12.38
+Lang,24,Full prioritization,0.026333333333333334
+Lang,24,prio_p_time_starts,0.022000000000000002
+Lang,24,Sel. prioritization,0.014000000000000002
+Lang,24,prio_s_time_starts,0.014666666666666666
+Lang,24,FAST preparation,0.52
+Lang,24,fast_prep_time_starts,0.55
+Lang,24,Build time,36.650000000000006
+Lang,24,build_time_starts,33.949999999999996
+Lang,24,Test time,31.47
+Lang,24,test_time_starts,24.89
+Lang,24,DPTT_time,0.0006666666666666666
+Lang,24,DPTT_ekstazi_time,0.0006666666666666666
+Lang,24,DPTT_time_starts,0.0006666666666666666
+Lang,24,DPT,6.370666666666666
+Lang,24,DPT_TIME,6.370666666666666
+Lang,24,FAST,0.5463333333333333
+Lang,24,fast_time_starts,0.5720000000000001
+Lang,24,Fastazi-S,6.3839999999999995
+Lang,24,fastazi_s_time_starts,12.394666666666668
+Lang,24,FAST_T_starts,0.5720000000000001
+Lang,24,DPTT_ekstazi_t,6.370666666666666
+Lang,24,DPTT_t_starts,18.750666666666667
+Lang,25,Selection,6.369999999999999
+Lang,25,sel_time_starts,11.049999999999999
+Lang,25,Full prioritization,0.027333333333333334
+Lang,25,prio_p_time_starts,0.021666666666666667
+Lang,25,Sel. prioritization,0.006333333333333333
+Lang,25,prio_s_time_starts,0.013
+Lang,25,FAST preparation,0.33
+Lang,25,fast_prep_time_starts,0.33
+Lang,25,Build time,35.769999999999996
+Lang,25,build_time_starts,32.35
+Lang,25,Test time,22.39
+Lang,25,test_time_starts,22.130000000000003
+Lang,25,DPTT_time,0.0006666666666666666
+Lang,25,DPTT_ekstazi_time,0.0006666666666666666
+Lang,25,DPTT_time_starts,0.0003333333333333333
+Lang,25,DPT,6.370666666666666
+Lang,25,DPT_TIME,6.370666666666666
+Lang,25,FAST,0.35733333333333334
+Lang,25,fast_time_starts,0.3516666666666667
+Lang,25,Fastazi-S,6.376333333333332
+Lang,25,fastazi_s_time_starts,11.062999999999999
+Lang,25,FAST_T_starts,0.3516666666666667
+Lang,25,DPTT_ekstazi_t,6.370666666666666
+Lang,25,DPTT_t_starts,17.420333333333332
+Lang,26,Selection,6.27
+Lang,26,sel_time_starts,11.05
+Lang,26,Full prioritization,0.02766666666666667
+Lang,26,prio_p_time_starts,0.02266666666666667
+Lang,26,Sel. prioritization,0.014666666666666666
+Lang,26,prio_s_time_starts,0.016666666666666666
+Lang,26,FAST preparation,0.59
+Lang,26,fast_prep_time_starts,0.6
+Lang,26,Build time,32.6
+Lang,26,build_time_starts,33.480000000000004
+Lang,26,Test time,33.0
+Lang,26,test_time_starts,23.49
+Lang,26,DPTT_time,0.0006666666666666666
+Lang,26,DPTT_ekstazi_time,0.0006666666666666666
+Lang,26,DPTT_time_starts,0.0006666666666666666
+Lang,26,DPT,6.270666666666666
+Lang,26,DPT_TIME,6.270666666666666
+Lang,26,FAST,0.6176666666666666
+Lang,26,fast_time_starts,0.6226666666666667
+Lang,26,Fastazi-S,6.284666666666666
+Lang,26,fastazi_s_time_starts,11.066666666666668
+Lang,26,FAST_T_starts,0.6226666666666667
+Lang,26,DPTT_ekstazi_t,6.270666666666666
+Lang,26,DPTT_t_starts,17.320666666666668
+Lang,27,Selection,6.51
+Lang,27,sel_time_starts,11.549999999999999
+Lang,27,Full prioritization,0.028000000000000004
+Lang,27,prio_p_time_starts,0.024000000000000004
+Lang,27,Sel. prioritization,0.006666666666666667
+Lang,27,prio_s_time_starts,0.014000000000000002
+Lang,27,FAST preparation,0.19999999999999998
+Lang,27,fast_prep_time_starts,0.24000000000000002
+Lang,27,Build time,35.38
+Lang,27,build_time_starts,33.620000000000005
+Lang,27,Test time,23.709999999999997
+Lang,27,test_time_starts,23.21
+Lang,27,DPTT_time,0.0003333333333333333
+Lang,27,DPTT_ekstazi_time,0.0003333333333333333
+Lang,27,DPTT_time_starts,0.0006666666666666666
+Lang,27,DPT,6.5103333333333335
+Lang,27,DPT_TIME,6.5103333333333335
+Lang,27,FAST,0.22799999999999998
+Lang,27,fast_time_starts,0.264
+Lang,27,Fastazi-S,6.516666666666667
+Lang,27,fastazi_s_time_starts,11.563999999999998
+Lang,27,FAST_T_starts,0.264
+Lang,27,DPTT_ekstazi_t,6.5103333333333335
+Lang,27,DPTT_t_starts,18.060666666666666

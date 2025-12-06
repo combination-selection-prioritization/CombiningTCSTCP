@@ -1,0 +1,25 @@
+Project, Version, Suite, Count, Time
+Compress,9,Selection,46,0.0
+Compress,9,sel_time_starts,46,12.35
+Compress,9,Full prioritization,46,0.016666666666666666
+Compress,9,prio_p_time_starts,46,0.012333333333333333
+Compress,9,Sel. prioritization,46,0.016
+Compress,9,prio_s_time_starts,46,0.012333333333333333
+Compress,9,FAST preparation,46,1.04
+Compress,9,fast_prep_time_starts,46,1.04
+Compress,9,Build time,46,27.29
+Compress,9,build_time_starts,46,28.16
+Compress,9,Test time,46,23.28
+Compress,9,test_time_starts,46,18.18
+Compress,9,DPTT_time,46,0.0006666666666666666
+Compress,9,DPTT_ekstazi_time,46,0.0006666666666666666
+Compress,9,DPTT_time_starts,46,0.0006666666666666666
+Compress,9,DPT,46,0.0006666666666666666
+Compress,9,DPT_TIME,46,0.0006666666666666666
+Compress,9,FAST,46,1.0566666666666666
+Compress,9,fast_time_starts,46,1.0523333333333333
+Compress,9,Fastazi-S,46,1.056
+Compress,9,fastazi_s_time_starts,46,12.362333333333334
+Compress,9,FAST_T_starts,46,1.0523333333333333
+Compress,9,DPTT_ekstazi_t,46,0.0006666666666666666
+Compress,9,DPTT_t_starts,46,12.350666666666667

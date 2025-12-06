@@ -1,0 +1,73 @@
+Project, Version, Suite, Time
+JxPath,20,Selection,5.8500000000000005
+JxPath,20,sel_time_starts,10.620000000000001
+JxPath,20,Full prioritization,0.011666666666666665
+JxPath,20,prio_p_time_starts,0.012666666666666666
+JxPath,20,Sel. prioritization,0.007666666666666667
+JxPath,20,prio_s_time_starts,0.008666666666666666
+JxPath,20,FAST preparation,0.11
+JxPath,20,fast_prep_time_starts,0.11
+JxPath,20,Build time,23.29
+JxPath,20,build_time_starts,23.919999999999998
+JxPath,20,Test time,25.470000000000002
+JxPath,20,test_time_starts,22.259999999999998
+JxPath,20,DPTT_time,0.0006666666666666666
+JxPath,20,DPTT_ekstazi_time,0.0006666666666666666
+JxPath,20,DPTT_time_starts,0.0006666666666666666
+JxPath,20,DPT,5.850666666666667
+JxPath,20,DPT_TIME,5.850666666666667
+JxPath,20,FAST,0.12166666666666667
+JxPath,20,fast_time_starts,0.12266666666666667
+JxPath,20,Fastazi-S,5.857666666666667
+JxPath,20,fastazi_s_time_starts,10.628666666666668
+JxPath,20,FAST_T_starts,0.12266666666666667
+JxPath,20,DPTT_ekstazi_t,5.850666666666667
+JxPath,20,DPTT_t_starts,16.47066666666667
+JxPath,21,Selection,5.98
+JxPath,21,sel_time_starts,10.55
+JxPath,21,Full prioritization,0.012000000000000002
+JxPath,21,prio_p_time_starts,0.013666666666666666
+JxPath,21,Sel. prioritization,0.006
+JxPath,21,prio_s_time_starts,0.008333333333333333
+JxPath,21,FAST preparation,0.09999999999999999
+JxPath,21,fast_prep_time_starts,0.14
+JxPath,21,Build time,23.86
+JxPath,21,build_time_starts,23.86
+JxPath,21,Test time,21.779999999999998
+JxPath,21,test_time_starts,21.53
+JxPath,21,DPTT_time,0.0006666666666666666
+JxPath,21,DPTT_ekstazi_time,0.0003333333333333333
+JxPath,21,DPTT_time_starts,0.0003333333333333333
+JxPath,21,DPT,5.980666666666667
+JxPath,21,DPT_TIME,5.980666666666667
+JxPath,21,FAST,0.11199999999999999
+JxPath,21,fast_time_starts,0.15366666666666667
+JxPath,21,Fastazi-S,5.986000000000001
+JxPath,21,fastazi_s_time_starts,10.558333333333334
+JxPath,21,FAST_T_starts,0.15366666666666667
+JxPath,21,DPTT_ekstazi_t,5.980333333333334
+JxPath,21,DPTT_t_starts,16.530333333333335
+JxPath,22,Selection,5.45
+JxPath,22,sel_time_starts,11.09
+JxPath,22,Full prioritization,0.012333333333333333
+JxPath,22,prio_p_time_starts,0.013666666666666666
+JxPath,22,Sel. prioritization,0.007666666666666666
+JxPath,22,prio_s_time_starts,0.008666666666666666
+JxPath,22,FAST preparation,0.060000000000000005
+JxPath,22,fast_prep_time_starts,0.06999999999999999
+JxPath,22,Build time,23.68
+JxPath,22,build_time_starts,24.130000000000003
+JxPath,22,Test time,27.84
+JxPath,22,test_time_starts,21.709999999999997
+JxPath,22,DPTT_time,0.0006666666666666666
+JxPath,22,DPTT_ekstazi_time,0.0006666666666666666
+JxPath,22,DPTT_time_starts,0.0003333333333333333
+JxPath,22,DPT,5.450666666666667
+JxPath,22,DPT_TIME,5.450666666666667
+JxPath,22,FAST,0.07233333333333333
+JxPath,22,fast_time_starts,0.08366666666666665
+JxPath,22,Fastazi-S,5.457666666666666
+JxPath,22,fastazi_s_time_starts,11.098666666666666
+JxPath,22,FAST_T_starts,0.08366666666666665
+JxPath,22,DPTT_ekstazi_t,5.450666666666667
+JxPath,22,DPTT_t_starts,16.540333333333333

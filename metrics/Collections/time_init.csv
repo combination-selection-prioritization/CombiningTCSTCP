@@ -1,0 +1,25 @@
+Project, Version, Suite, Count, Time
+Collections,25,Selection,194,0.0
+Collections,25,sel_time_starts,194,31.650000000000002
+Collections,25,Full prioritization,194,0.06766666666666667
+Collections,25,prio_p_time_starts,194,0.12666666666666665
+Collections,25,Sel. prioritization,194,0.051000000000000004
+Collections,25,prio_s_time_starts,194,0.08733333333333333
+Collections,25,FAST preparation,194,5.07
+Collections,25,fast_prep_time_starts,194,5.15
+Collections,25,Build time,194,51.699999999999996
+Collections,25,build_time_starts,194,44.2
+Collections,25,Test time,194,96.59
+Collections,25,test_time_starts,194,72.42999999999999
+Collections,25,DPTT_time,194,0.0006666666666666666
+Collections,25,DPTT_ekstazi_time,194,0.0006666666666666666
+Collections,25,DPTT_time_starts,194,0.0006666666666666666
+Collections,25,DPT,194,0.0006666666666666666
+Collections,25,DPT_TIME,194,0.0006666666666666666
+Collections,25,FAST,194,5.137666666666667
+Collections,25,fast_time_starts,194,5.276666666666667
+Collections,25,Fastazi-S,194,5.121
+Collections,25,fastazi_s_time_starts,194,31.737333333333336
+Collections,25,FAST_T_starts,194,5.276666666666667
+Collections,25,DPTT_ekstazi_t,194,0.0006666666666666666
+Collections,25,DPTT_t_starts,194,31.65066666666667

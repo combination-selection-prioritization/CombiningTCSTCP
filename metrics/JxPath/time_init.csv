@@ -1,0 +1,25 @@
+Project, Version, Suite, Count, Time
+JxPath,19,Selection,45,0.0
+JxPath,19,sel_time_starts,45,9.549999999999999
+JxPath,19,Full prioritization,45,0.011
+JxPath,19,prio_p_time_starts,45,0.012333333333333333
+JxPath,19,Sel. prioritization,45,0.007333333333333333
+JxPath,19,prio_s_time_starts,45,0.008333333333333333
+JxPath,19,FAST preparation,45,1.12
+JxPath,19,fast_prep_time_starts,45,1.15
+JxPath,19,Build time,45,21.39
+JxPath,19,build_time_starts,45,21.59
+JxPath,19,Test time,45,21.82
+JxPath,19,test_time_starts,45,20.099999999999998
+JxPath,19,DPTT_time,45,0.0006666666666666666
+JxPath,19,DPTT_ekstazi_time,45,0.0003333333333333333
+JxPath,19,DPTT_time_starts,45,0.0003333333333333333
+JxPath,19,DPT,45,0.0006666666666666666
+JxPath,19,DPT_TIME,45,0.0006666666666666666
+JxPath,19,FAST,45,1.131
+JxPath,19,fast_time_starts,45,1.1623333333333332
+JxPath,19,Fastazi-S,45,1.1273333333333335
+JxPath,19,fastazi_s_time_starts,45,9.558333333333332
+JxPath,19,FAST_T_starts,45,1.1623333333333332
+JxPath,19,DPTT_ekstazi_t,45,0.0003333333333333333
+JxPath,19,DPTT_t_starts,45,9.550333333333333

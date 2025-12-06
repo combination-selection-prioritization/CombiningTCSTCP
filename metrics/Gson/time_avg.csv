@@ -1,0 +1,25 @@
+Project, Suite, Time
+Gson,Selection,6.3147
+Gson,sel_time_starts,22.9782
+Gson,Full prioritization,0.0268
+Gson,prio_p_time_starts,0.0269
+Gson,Sel. prioritization,0.0193
+Gson,prio_s_time_starts,0.0240
+Gson,FAST preparation,0.2835
+Gson,fast_prep_time_starts,0.3082
+Gson,Build time,26.8224
+Gson,build_time_starts,26.4447
+Gson,Test time,37.3365
+Gson,test_time_starts,30.9371
+Gson,DPTT_time,0.0005
+Gson,DPTT_ekstazi_time,0.0006
+Gson,DPTT_time_starts,0.0005
+Gson,DPT_TIME,6.3152
+Gson,FAST,0.3103
+Gson,fast_time_starts,0.3351
+Gson,Fastazi-S,6.3340
+Gson,fastazi_s_time_starts,23.0023
+Gson,FAST_T_starts,0.3351
+Gson,DPTT_ekstazi_t,6.3153
+Gson,DPTT_t_starts,29.2935
+Gson,DPT,6.3152

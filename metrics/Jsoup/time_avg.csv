@@ -1,0 +1,25 @@
+Project, Suite, Time
+Jsoup,Selection,5.6773
+Jsoup,sel_time_starts,17.4882
+Jsoup,Full prioritization,0.0076
+Jsoup,prio_p_time_starts,0.0075
+Jsoup,Sel. prioritization,0.0062
+Jsoup,prio_s_time_starts,0.0070
+Jsoup,FAST preparation,0.2468
+Jsoup,fast_prep_time_starts,0.2510
+Jsoup,Build time,39.1792
+Jsoup,build_time_starts,38.5508
+Jsoup,Test time,42.8829
+Jsoup,test_time_starts,37.7809
+Jsoup,DPTT_time,0.0006
+Jsoup,DPTT_ekstazi_time,0.0005
+Jsoup,DPTT_time_starts,0.0005
+Jsoup,DPT_TIME,5.6779
+Jsoup,FAST,0.2544
+Jsoup,fast_time_starts,0.2584
+Jsoup,Fastazi-S,5.6835
+Jsoup,fastazi_s_time_starts,17.4951
+Jsoup,FAST_T_starts,0.2584
+Jsoup,DPTT_ekstazi_t,5.6778
+Jsoup,DPTT_t_starts,23.1659
+Jsoup,DPT,5.6779

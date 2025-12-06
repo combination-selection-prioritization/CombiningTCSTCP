@@ -1,0 +1,25 @@
+Project, Suite, Time
+Time,Selection,6.4868
+Time,sel_time_starts,23.8895
+Time,Full prioritization,0.0459
+Time,prio_p_time_starts,0.0444
+Time,Sel. prioritization,0.0271
+Time,prio_s_time_starts,0.0031
+Time,FAST preparation,1.7627
+Time,fast_prep_time_starts,1.8486
+Time,Build time,74.7309
+Time,build_time_starts,71.4832
+Time,Test time,62.8418
+Time,test_time_starts,49.6941
+Time,DPTT_time,0.0007
+Time,DPTT_ekstazi_time,0.0006
+Time,DPTT_time_starts,0.0005
+Time,DPT_TIME,6.4875
+Time,FAST,1.8086
+Time,fast_time_starts,1.8930
+Time,Fastazi-S,6.7498
+Time,fastazi_s_time_starts,23.8926
+Time,FAST_T_starts,1.8930
+Time,DPTT_ekstazi_t,6.4874
+Time,DPTT_t_starts,30.3769
+Time,DPT,6.4875

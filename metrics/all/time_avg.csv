@@ -1,0 +1,241 @@
+Project, Suite, Time
+Cli,Selection,5.4214
+Cli,sel_time_starts,11.6003
+Cli,Full prioritization,0.0084
+Cli,prio_p_time_starts,0.0090
+Cli,Sel. prioritization,0.0065
+Cli,prio_s_time_starts,0.0075
+Cli,FAST preparation,0.2110
+Cli,fast_prep_time_starts,0.2176
+Cli,Build time,18.2531
+Cli,build_time_starts,18.6317
+Cli,Test time,17.7072
+Cli,test_time_starts,15.1238
+Cli,DPTT_time,0.0006
+Cli,DPTT_ekstazi_time,0.0005
+Cli,DPTT_time_starts,0.0004
+Cli,DPT_TIME,5.4220
+Cli,FAST,0.2195
+Cli,fast_time_starts,0.2266
+Cli,Fastazi-S,5.4279
+Cli,fastazi_s_time_starts,11.6079
+Cli,FAST_T_starts,0.2266
+Cli,DPTT_ekstazi_t,5.4219
+Cli,DPTT_t_starts,17.0221
+Cli,DPT,5.4220
+Codec,Selection,6.1657
+Codec,sel_time_starts,16.2000
+Codec,Full prioritization,0.0139
+Codec,prio_p_time_starts,0.0157
+Codec,Sel. prioritization,0.0068
+Codec,prio_s_time_starts,0.0082
+Codec,FAST preparation,0.6929
+Codec,fast_prep_time_starts,0.7043
+Codec,Build time,28.1014
+Codec,build_time_starts,28.0600
+Codec,Test time,41.5300
+Codec,test_time_starts,41.1457
+Codec,DPTT_time,0.0005
+Codec,DPTT_ekstazi_time,0.0004
+Codec,DPTT_time_starts,0.0004
+Codec,DPT_TIME,6.1662
+Codec,FAST,0.7068
+Codec,fast_time_starts,0.7200
+Codec,Fastazi-S,6.1725
+Codec,fastazi_s_time_starts,16.2082
+Codec,FAST_T_starts,0.7200
+Codec,DPTT_ekstazi_t,6.1661
+Codec,DPTT_t_starts,22.3661
+Codec,DPT,6.1662
+Collections,Selection,6.3500
+Collections,sel_time_starts,39.8500
+Collections,Full prioritization,0.0903
+Collections,prio_p_time_starts,0.0773
+Collections,Sel. prioritization,0.0400
+Collections,prio_s_time_starts,0.0360
+Collections,FAST preparation,1.9000
+Collections,fast_prep_time_starts,1.9100
+Collections,Build time,50.0300
+Collections,build_time_starts,53.3100
+Collections,Test time,84.8400
+Collections,test_time_starts,79.0300
+Collections,DPTT_time,0.0010
+Collections,DPTT_ekstazi_time,0.0007
+Collections,DPTT_time_starts,0.0003
+Collections,DPT_TIME,6.3510
+Collections,FAST,1.9903
+Collections,fast_time_starts,1.9873
+Collections,Fastazi-S,6.3900
+Collections,fastazi_s_time_starts,39.8860
+Collections,FAST_T_starts,1.9873
+Collections,DPTT_ekstazi_t,6.3507
+Collections,DPTT_t_starts,46.2003
+Collections,DPT,6.3510
+Compress,Selection,6.3116
+Compress,sel_time_starts,17.6045
+Compress,Full prioritization,0.0230
+Compress,prio_p_time_starts,0.0224
+Compress,Sel. prioritization,0.0113
+Compress,prio_s_time_starts,0.0137
+Compress,FAST preparation,0.4121
+Compress,fast_prep_time_starts,0.4389
+Compress,Build time,32.5939
+Compress,build_time_starts,32.3287
+Compress,Test time,39.6016
+Compress,test_time_starts,36.8311
+Compress,DPTT_time,0.0005
+Compress,DPTT_ekstazi_time,0.0006
+Compress,DPTT_time_starts,0.0005
+Compress,DPT_TIME,6.3121
+Compress,FAST,0.4351
+Compress,fast_time_starts,0.4613
+Compress,Fastazi-S,6.3228
+Compress,fastazi_s_time_starts,17.6182
+Compress,FAST_T_starts,0.4613
+Compress,DPTT_ekstazi_t,6.3122
+Compress,DPTT_t_starts,23.9166
+Compress,DPT,6.3121
+Gson,Selection,6.3147
+Gson,sel_time_starts,22.9782
+Gson,Full prioritization,0.0268
+Gson,prio_p_time_starts,0.0269
+Gson,Sel. prioritization,0.0193
+Gson,prio_s_time_starts,0.0240
+Gson,FAST preparation,0.2835
+Gson,fast_prep_time_starts,0.3082
+Gson,Build time,26.8224
+Gson,build_time_starts,26.4447
+Gson,Test time,37.3365
+Gson,test_time_starts,30.9371
+Gson,DPTT_time,0.0005
+Gson,DPTT_ekstazi_time,0.0006
+Gson,DPTT_time_starts,0.0005
+Gson,DPT_TIME,6.3152
+Gson,FAST,0.3103
+Gson,fast_time_starts,0.3351
+Gson,Fastazi-S,6.3340
+Gson,fastazi_s_time_starts,23.0023
+Gson,FAST_T_starts,0.3351
+Gson,DPTT_ekstazi_t,6.3153
+Gson,DPTT_t_starts,29.2935
+Gson,DPT,6.3152
+Jsoup,Selection,5.6773
+Jsoup,sel_time_starts,17.4882
+Jsoup,Full prioritization,0.0076
+Jsoup,prio_p_time_starts,0.0075
+Jsoup,Sel. prioritization,0.0062
+Jsoup,prio_s_time_starts,0.0070
+Jsoup,FAST preparation,0.2468
+Jsoup,fast_prep_time_starts,0.2510
+Jsoup,Build time,39.1792
+Jsoup,build_time_starts,38.5508
+Jsoup,Test time,42.8829
+Jsoup,test_time_starts,37.7809
+Jsoup,DPTT_time,0.0006
+Jsoup,DPTT_ekstazi_time,0.0005
+Jsoup,DPTT_time_starts,0.0005
+Jsoup,DPT_TIME,5.6779
+Jsoup,FAST,0.2544
+Jsoup,fast_time_starts,0.2584
+Jsoup,Fastazi-S,5.6835
+Jsoup,fastazi_s_time_starts,17.4951
+Jsoup,FAST_T_starts,0.2584
+Jsoup,DPTT_ekstazi_t,5.6778
+Jsoup,DPTT_t_starts,23.1659
+Jsoup,DPT,5.6779
+JxPath,Selection,5.7600
+JxPath,sel_time_starts,10.7533
+JxPath,Full prioritization,0.0120
+JxPath,prio_p_time_starts,0.0133
+JxPath,Sel. prioritization,0.0071
+JxPath,prio_s_time_starts,0.0086
+JxPath,FAST preparation,0.0900
+JxPath,fast_prep_time_starts,0.1067
+JxPath,Build time,23.6100
+JxPath,build_time_starts,23.9700
+JxPath,Test time,25.0300
+JxPath,test_time_starts,21.8333
+JxPath,DPTT_time,0.0007
+JxPath,DPTT_ekstazi_time,0.0006
+JxPath,DPTT_time_starts,0.0004
+JxPath,DPT_TIME,5.7607
+JxPath,FAST,0.1020
+JxPath,fast_time_starts,0.1200
+JxPath,Fastazi-S,5.7671
+JxPath,fastazi_s_time_starts,10.7619
+JxPath,FAST_T_starts,0.1200
+JxPath,DPTT_ekstazi_t,5.7606
+JxPath,DPTT_t_starts,16.5138
+JxPath,DPT,5.7607
+Lang,Selection,6.2131
+Lang,sel_time_starts,10.6900
+Lang,Full prioritization,0.0249
+Lang,prio_p_time_starts,0.0221
+Lang,Sel. prioritization,0.0112
+Lang,prio_s_time_starts,0.0151
+Lang,FAST preparation,0.7431
+Lang,fast_prep_time_starts,0.7862
+Lang,Build time,32.2323
+Lang,build_time_starts,31.0523
+Lang,Test time,25.7077
+Lang,test_time_starts,21.7792
+Lang,DPTT_time,0.0006
+Lang,DPTT_ekstazi_time,0.0005
+Lang,DPTT_time_starts,0.0005
+Lang,DPT_TIME,6.2137
+Lang,FAST,0.7680
+Lang,fast_time_starts,0.8083
+Lang,Fastazi-S,6.2243
+Lang,fastazi_s_time_starts,10.7051
+Lang,FAST_T_starts,0.8083
+Lang,DPTT_ekstazi_t,6.2136
+Lang,DPTT_t_starts,16.9036
+Lang,DPT,6.2137
+Math,Selection,6.8641
+Math,sel_time_starts,16.1076
+Math,Full prioritization,0.2025
+Math,prio_p_time_starts,0.1907
+Math,Sel. prioritization,0.0718
+Math,prio_s_time_starts,0.0948
+Math,FAST preparation,1.3944
+Math,fast_prep_time_starts,1.5101
+Math,Build time,45.0662
+Math,build_time_starts,44.2726
+Math,Test time,136.4187
+Math,test_time_starts,100.3740
+Math,DPTT_time,0.0009
+Math,DPTT_ekstazi_time,0.0007
+Math,DPTT_time_starts,0.0006
+Math,DPT_TIME,6.8650
+Math,FAST,1.5969
+Math,fast_time_starts,1.7008
+Math,Fastazi-S,6.9810
+Math,fastazi_s_time_starts,16.2023
+Math,FAST_T_starts,1.7008
+Math,DPTT_ekstazi_t,6.8647
+Math,DPTT_t_starts,22.9723
+Math,DPT,6.8650
+Time,Selection,6.4868
+Time,sel_time_starts,23.8895
+Time,Full prioritization,0.0459
+Time,prio_p_time_starts,0.0444
+Time,Sel. prioritization,0.0271
+Time,prio_s_time_starts,0.0031
+Time,FAST preparation,1.7627
+Time,fast_prep_time_starts,1.8486
+Time,Build time,74.7309
+Time,build_time_starts,71.4832
+Time,Test time,62.8418
+Time,test_time_starts,49.6941
+Time,DPTT_time,0.0007
+Time,DPTT_ekstazi_time,0.0006
+Time,DPTT_time_starts,0.0005
+Time,DPT_TIME,6.4875
+Time,FAST,1.8086
+Time,fast_time_starts,1.8930
+Time,Fastazi-S,6.7498
+Time,fastazi_s_time_starts,23.8926
+Time,FAST_T_starts,1.8930
+Time,DPTT_ekstazi_t,6.4874
+Time,DPTT_t_starts,30.3769
+Time,DPT,6.4875

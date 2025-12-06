@@ -1,0 +1,25 @@
+Project, Version, Suite, Count, Time
+Time,4,Selection,147,0.0
+Time,4,sel_time_starts,147,13.100000000000001
+Time,4,Full prioritization,147,0.03933333333333333
+Time,4,prio_p_time_starts,147,0.043333333333333335
+Time,4,Sel. prioritization,147,0.03066666666666667
+Time,4,prio_s_time_starts,147,0.0033333333333333335
+Time,4,FAST preparation,147,13.780000000000001
+Time,4,fast_prep_time_starts,147,14.110000000000001
+Time,4,Build time,147,72.52000000000001
+Time,4,build_time_starts,147,72.59
+Time,4,Test time,147,50.99
+Time,4,test_time_starts,147,25.66
+Time,4,DPTT_time,147,0.0006666666666666666
+Time,4,DPTT_ekstazi_time,147,0.0003333333333333333
+Time,4,DPTT_time_starts,147,0.0006666666666666666
+Time,4,DPT,147,0.0006666666666666666
+Time,4,DPT_TIME,147,0.0006666666666666666
+Time,4,FAST,147,13.819333333333335
+Time,4,fast_time_starts,147,14.153333333333334
+Time,4,Fastazi-S,147,13.810666666666668
+Time,4,fastazi_s_time_starts,147,14.113333333333335
+Time,4,FAST_T_starts,147,14.153333333333334
+Time,4,DPTT_ekstazi_t,147,0.0003333333333333333
+Time,4,DPTT_t_starts,147,13.100666666666669

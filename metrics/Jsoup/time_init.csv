@@ -1,0 +1,25 @@
+Project, Version, Suite, Count, Time
+Jsoup,1,Selection,12,0.0
+Jsoup,1,sel_time_starts,12,8.6
+Jsoup,1,Full prioritization,12,0.004666666666666667
+Jsoup,1,prio_p_time_starts,12,0.005666666666666666
+Jsoup,1,Sel. prioritization,12,0.004666666666666667
+Jsoup,1,prio_s_time_starts,12,0.005666666666666666
+Jsoup,1,FAST preparation,12,0.24
+Jsoup,1,fast_prep_time_starts,12,0.24000000000000002
+Jsoup,1,Build time,12,24.5
+Jsoup,1,build_time_starts,12,25.6
+Jsoup,1,Test time,12,25.200000000000003
+Jsoup,1,test_time_starts,12,21.689999999999998
+Jsoup,1,DPTT_time,12,0.0003333333333333333
+Jsoup,1,DPTT_ekstazi_time,12,0.0006666666666666666
+Jsoup,1,DPTT_time_starts,12,0.0003333333333333333
+Jsoup,1,DPT,12,0.0003333333333333333
+Jsoup,1,DPT_TIME,12,0.0003333333333333333
+Jsoup,1,FAST,12,0.24466666666666667
+Jsoup,1,fast_time_starts,12,0.24566666666666667
+Jsoup,1,Fastazi-S,12,0.24466666666666667
+Jsoup,1,fastazi_s_time_starts,12,8.605666666666666
+Jsoup,1,FAST_T_starts,12,0.24566666666666667
+Jsoup,1,DPTT_ekstazi_t,12,0.0006666666666666666
+Jsoup,1,DPTT_t_starts,12,8.600333333333333

@@ -1,0 +1,2209 @@
+Project, Version, Suite, Time
+Jsoup,2,Selection,5.29
+Jsoup,2,sel_time_starts,8.77
+Jsoup,2,Full prioritization,0.005
+Jsoup,2,prio_p_time_starts,0.005333333333333333
+Jsoup,2,Sel. prioritization,0.004666666666666666
+Jsoup,2,prio_s_time_starts,0.004666666666666667
+Jsoup,2,FAST preparation,0.08
+Jsoup,2,fast_prep_time_starts,0.07
+Jsoup,2,Build time,24.75
+Jsoup,2,build_time_starts,23.89
+Jsoup,2,Test time,25.47
+Jsoup,2,test_time_starts,22.139999999999997
+Jsoup,2,DPTT_time,0.0006666666666666666
+Jsoup,2,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,2,DPTT_time_starts,0.0006666666666666666
+Jsoup,2,DPT,5.290666666666667
+Jsoup,2,DPT_TIME,5.290666666666667
+Jsoup,2,FAST,0.085
+Jsoup,2,fast_time_starts,0.07533333333333334
+Jsoup,2,Fastazi-S,5.294666666666667
+Jsoup,2,fastazi_s_time_starts,8.774666666666667
+Jsoup,2,FAST_T_starts,0.07533333333333334
+Jsoup,2,DPTT_ekstazi_t,5.290666666666667
+Jsoup,2,DPTT_t_starts,14.060666666666666
+Jsoup,3,Selection,5.2
+Jsoup,3,sel_time_starts,8.81
+Jsoup,3,Full prioritization,0.004666666666666667
+Jsoup,3,prio_p_time_starts,0.005
+Jsoup,3,Sel. prioritization,0.004333333333333333
+Jsoup,3,prio_s_time_starts,0.004333333333333333
+Jsoup,3,FAST preparation,0.17
+Jsoup,3,fast_prep_time_starts,0.16
+Jsoup,3,Build time,25.2
+Jsoup,3,build_time_starts,24.599999999999998
+Jsoup,3,Test time,24.28
+Jsoup,3,test_time_starts,22.07
+Jsoup,3,DPTT_time,0.0006666666666666666
+Jsoup,3,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,3,DPTT_time_starts,0.0003333333333333333
+Jsoup,3,DPT,5.200666666666667
+Jsoup,3,DPT_TIME,5.200666666666667
+Jsoup,3,FAST,0.1746666666666667
+Jsoup,3,fast_time_starts,0.165
+Jsoup,3,Fastazi-S,5.2043333333333335
+Jsoup,3,fastazi_s_time_starts,8.814333333333334
+Jsoup,3,FAST_T_starts,0.165
+Jsoup,3,DPTT_ekstazi_t,5.200333333333334
+Jsoup,3,DPTT_t_starts,14.010333333333335
+Jsoup,4,Selection,5.32
+Jsoup,4,sel_time_starts,8.690000000000001
+Jsoup,4,Full prioritization,0.005333333333333333
+Jsoup,4,prio_p_time_starts,0.005
+Jsoup,4,Sel. prioritization,0.005333333333333333
+Jsoup,4,prio_s_time_starts,0.005000000000000001
+Jsoup,4,FAST preparation,0.32
+Jsoup,4,fast_prep_time_starts,0.31
+Jsoup,4,Build time,26.02
+Jsoup,4,build_time_starts,26.900000000000002
+Jsoup,4,Test time,25.67
+Jsoup,4,test_time_starts,22.49
+Jsoup,4,DPTT_time,0.0006666666666666666
+Jsoup,4,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,4,DPTT_time_starts,0.0003333333333333333
+Jsoup,4,DPT,5.320666666666667
+Jsoup,4,DPT_TIME,5.320666666666667
+Jsoup,4,FAST,0.32533333333333336
+Jsoup,4,fast_time_starts,0.315
+Jsoup,4,Fastazi-S,5.325333333333334
+Jsoup,4,fastazi_s_time_starts,8.695000000000002
+Jsoup,4,FAST_T_starts,0.315
+Jsoup,4,DPTT_ekstazi_t,5.320666666666667
+Jsoup,4,DPTT_t_starts,14.010333333333335
+Jsoup,5,Selection,5.37
+Jsoup,5,sel_time_starts,8.7
+Jsoup,5,Full prioritization,0.005666666666666667
+Jsoup,5,prio_p_time_starts,0.005333333333333333
+Jsoup,5,Sel. prioritization,0.004333333333333333
+Jsoup,5,prio_s_time_starts,0.005000000000000001
+Jsoup,5,FAST preparation,0.09
+Jsoup,5,fast_prep_time_starts,0.1
+Jsoup,5,Build time,27.06
+Jsoup,5,build_time_starts,25.93
+Jsoup,5,Test time,25.95
+Jsoup,5,test_time_starts,22.98
+Jsoup,5,DPTT_time,0.0006666666666666666
+Jsoup,5,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,5,DPTT_time_starts,0.0003333333333333333
+Jsoup,5,DPT,5.370666666666667
+Jsoup,5,DPT_TIME,5.370666666666667
+Jsoup,5,FAST,0.09566666666666666
+Jsoup,5,fast_time_starts,0.10533333333333333
+Jsoup,5,Fastazi-S,5.374333333333333
+Jsoup,5,fastazi_s_time_starts,8.705
+Jsoup,5,FAST_T_starts,0.10533333333333333
+Jsoup,5,DPTT_ekstazi_t,5.370666666666667
+Jsoup,5,DPTT_t_starts,14.070333333333334
+Jsoup,6,Selection,5.1
+Jsoup,6,sel_time_starts,8.23
+Jsoup,6,Full prioritization,0.005333333333333333
+Jsoup,6,prio_p_time_starts,0.005666666666666667
+Jsoup,6,Sel. prioritization,0.005333333333333333
+Jsoup,6,prio_s_time_starts,0.005666666666666666
+Jsoup,6,FAST preparation,0.33
+Jsoup,6,fast_prep_time_starts,0.34
+Jsoup,6,Build time,28.389999999999997
+Jsoup,6,build_time_starts,27.880000000000003
+Jsoup,6,Test time,27.35
+Jsoup,6,test_time_starts,23.97
+Jsoup,6,DPTT_time,0.0006666666666666666
+Jsoup,6,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,6,DPTT_time_starts,0.0003333333333333333
+Jsoup,6,DPT,5.100666666666666
+Jsoup,6,DPT_TIME,5.100666666666666
+Jsoup,6,FAST,0.33533333333333337
+Jsoup,6,fast_time_starts,0.3456666666666667
+Jsoup,6,Fastazi-S,5.105333333333333
+Jsoup,6,fastazi_s_time_starts,8.235666666666667
+Jsoup,6,FAST_T_starts,0.3456666666666667
+Jsoup,6,DPTT_ekstazi_t,5.100333333333333
+Jsoup,6,DPTT_t_starts,13.330333333333334
+Jsoup,7,Selection,5.11
+Jsoup,7,sel_time_starts,8.9
+Jsoup,7,Full prioritization,0.006333333333333333
+Jsoup,7,prio_p_time_starts,0.006333333333333333
+Jsoup,7,Sel. prioritization,0.005666666666666667
+Jsoup,7,prio_s_time_starts,0.005666666666666667
+Jsoup,7,FAST preparation,0.08
+Jsoup,7,fast_prep_time_starts,0.07
+Jsoup,7,Build time,28.07
+Jsoup,7,build_time_starts,28.619999999999997
+Jsoup,7,Test time,28.07
+Jsoup,7,test_time_starts,24.14
+Jsoup,7,DPTT_time,0.0006666666666666666
+Jsoup,7,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,7,DPTT_time_starts,0.0003333333333333333
+Jsoup,7,DPT,5.110666666666667
+Jsoup,7,DPT_TIME,5.110666666666667
+Jsoup,7,FAST,0.08633333333333333
+Jsoup,7,fast_time_starts,0.07633333333333334
+Jsoup,7,Fastazi-S,5.115666666666667
+Jsoup,7,fastazi_s_time_starts,8.905666666666667
+Jsoup,7,FAST_T_starts,0.07633333333333334
+Jsoup,7,DPTT_ekstazi_t,5.110666666666667
+Jsoup,7,DPTT_t_starts,14.010333333333335
+Jsoup,8,Selection,5.55
+Jsoup,8,sel_time_starts,8.11
+Jsoup,8,Full prioritization,0.006333333333333333
+Jsoup,8,prio_p_time_starts,0.006
+Jsoup,8,Sel. prioritization,0.004666666666666666
+Jsoup,8,prio_s_time_starts,0.005666666666666666
+Jsoup,8,FAST preparation,0.08
+Jsoup,8,fast_prep_time_starts,0.08
+Jsoup,8,Build time,29.419999999999998
+Jsoup,8,build_time_starts,28.18
+Jsoup,8,Test time,27.28
+Jsoup,8,test_time_starts,23.88
+Jsoup,8,DPTT_time,0.0006666666666666666
+Jsoup,8,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,8,DPTT_time_starts,0.0006666666666666666
+Jsoup,8,DPT,5.550666666666666
+Jsoup,8,DPT_TIME,5.550666666666666
+Jsoup,8,FAST,0.08633333333333333
+Jsoup,8,fast_time_starts,0.08600000000000001
+Jsoup,8,Fastazi-S,5.554666666666667
+Jsoup,8,fastazi_s_time_starts,8.115666666666666
+Jsoup,8,FAST_T_starts,0.08600000000000001
+Jsoup,8,DPTT_ekstazi_t,5.550666666666666
+Jsoup,8,DPTT_t_starts,13.660666666666668
+Jsoup,9,Selection,5.5
+Jsoup,9,sel_time_starts,8.739999999999998
+Jsoup,9,Full prioritization,0.006
+Jsoup,9,prio_p_time_starts,0.006333333333333333
+Jsoup,9,Sel. prioritization,0.004666666666666666
+Jsoup,9,prio_s_time_starts,0.005
+Jsoup,9,FAST preparation,0.05
+Jsoup,9,fast_prep_time_starts,0.05
+Jsoup,9,Build time,29.419999999999998
+Jsoup,9,build_time_starts,28.279999999999998
+Jsoup,9,Test time,25.55
+Jsoup,9,test_time_starts,24.61
+Jsoup,9,DPTT_time,0.0006666666666666666
+Jsoup,9,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,9,DPTT_time_starts,0.0003333333333333333
+Jsoup,9,DPT,5.500666666666667
+Jsoup,9,DPT_TIME,5.500666666666667
+Jsoup,9,FAST,0.056
+Jsoup,9,fast_time_starts,0.05633333333333333
+Jsoup,9,Fastazi-S,5.504666666666667
+Jsoup,9,fastazi_s_time_starts,8.745
+Jsoup,9,FAST_T_starts,0.05633333333333333
+Jsoup,9,DPTT_ekstazi_t,5.500666666666667
+Jsoup,9,DPTT_t_starts,14.240333333333332
+Jsoup,10,Selection,5.33
+Jsoup,10,sel_time_starts,8.87
+Jsoup,10,Full prioritization,0.006333333333333333
+Jsoup,10,prio_p_time_starts,0.005666666666666667
+Jsoup,10,Sel. prioritization,0.005
+Jsoup,10,prio_s_time_starts,0.005
+Jsoup,10,FAST preparation,0.12
+Jsoup,10,fast_prep_time_starts,0.12
+Jsoup,10,Build time,28.51
+Jsoup,10,build_time_starts,28.560000000000002
+Jsoup,10,Test time,27.62
+Jsoup,10,test_time_starts,23.42
+Jsoup,10,DPTT_time,0.0006666666666666666
+Jsoup,10,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,10,DPTT_time_starts,0.0003333333333333333
+Jsoup,10,DPT,5.330666666666667
+Jsoup,10,DPT_TIME,5.330666666666667
+Jsoup,10,FAST,0.12633333333333333
+Jsoup,10,fast_time_starts,0.12566666666666665
+Jsoup,10,Fastazi-S,5.335
+Jsoup,10,fastazi_s_time_starts,8.875
+Jsoup,10,FAST_T_starts,0.12566666666666665
+Jsoup,10,DPTT_ekstazi_t,5.330666666666667
+Jsoup,10,DPTT_t_starts,14.200333333333333
+Jsoup,11,Selection,5.42
+Jsoup,11,sel_time_starts,8.629999999999999
+Jsoup,11,Full prioritization,0.005666666666666667
+Jsoup,11,prio_p_time_starts,0.006
+Jsoup,11,Sel. prioritization,0.005333333333333333
+Jsoup,11,prio_s_time_starts,0.005333333333333333
+Jsoup,11,FAST preparation,0.22
+Jsoup,11,fast_prep_time_starts,0.23
+Jsoup,11,Build time,29.23
+Jsoup,11,build_time_starts,27.57
+Jsoup,11,Test time,27.91
+Jsoup,11,test_time_starts,24.22
+Jsoup,11,DPTT_time,0.0003333333333333333
+Jsoup,11,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,11,DPTT_time_starts,0.0003333333333333333
+Jsoup,11,DPT,5.420333333333334
+Jsoup,11,DPT_TIME,5.420333333333334
+Jsoup,11,FAST,0.22566666666666668
+Jsoup,11,fast_time_starts,0.23600000000000002
+Jsoup,11,Fastazi-S,5.425333333333334
+Jsoup,11,fastazi_s_time_starts,8.635333333333332
+Jsoup,11,FAST_T_starts,0.23600000000000002
+Jsoup,11,DPTT_ekstazi_t,5.420333333333334
+Jsoup,11,DPTT_t_starts,14.050333333333333
+Jsoup,12,Selection,5.56
+Jsoup,12,sel_time_starts,8.19
+Jsoup,12,Full prioritization,0.006
+Jsoup,12,prio_p_time_starts,0.006
+Jsoup,12,Sel. prioritization,0.005333333333333333
+Jsoup,12,prio_s_time_starts,0.005666666666666667
+Jsoup,12,FAST preparation,0.23
+Jsoup,12,fast_prep_time_starts,0.23
+Jsoup,12,Build time,30.91
+Jsoup,12,build_time_starts,30.71
+Jsoup,12,Test time,29.62
+Jsoup,12,test_time_starts,25.99
+Jsoup,12,DPTT_time,0.0006666666666666666
+Jsoup,12,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,12,DPTT_time_starts,0.0006666666666666666
+Jsoup,12,DPT,5.560666666666666
+Jsoup,12,DPT_TIME,5.560666666666666
+Jsoup,12,FAST,0.23600000000000002
+Jsoup,12,fast_time_starts,0.23600000000000002
+Jsoup,12,Fastazi-S,5.565333333333333
+Jsoup,12,fastazi_s_time_starts,8.195666666666666
+Jsoup,12,FAST_T_starts,0.23600000000000002
+Jsoup,12,DPTT_ekstazi_t,5.560666666666666
+Jsoup,12,DPTT_t_starts,13.750666666666667
+Jsoup,13,Selection,5.57
+Jsoup,13,sel_time_starts,8.67
+Jsoup,13,Full prioritization,0.006
+Jsoup,13,prio_p_time_starts,0.006000000000000001
+Jsoup,13,Sel. prioritization,0.006000000000000001
+Jsoup,13,prio_s_time_starts,0.005666666666666666
+Jsoup,13,FAST preparation,0.39
+Jsoup,13,fast_prep_time_starts,0.4
+Jsoup,13,Build time,31.17
+Jsoup,13,build_time_starts,31.049999999999997
+Jsoup,13,Test time,29.990000000000002
+Jsoup,13,test_time_starts,25.98
+Jsoup,13,DPTT_time,0.0006666666666666666
+Jsoup,13,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,13,DPTT_time_starts,0.0003333333333333333
+Jsoup,13,DPT,5.570666666666667
+Jsoup,13,DPT_TIME,5.570666666666667
+Jsoup,13,FAST,0.396
+Jsoup,13,fast_time_starts,0.406
+Jsoup,13,Fastazi-S,5.5760000000000005
+Jsoup,13,fastazi_s_time_starts,8.675666666666666
+Jsoup,13,FAST_T_starts,0.406
+Jsoup,13,DPTT_ekstazi_t,5.570333333333334
+Jsoup,13,DPTT_t_starts,14.240333333333334
+Jsoup,14,Selection,5.220000000000001
+Jsoup,14,sel_time_starts,8.66
+Jsoup,14,Full prioritization,0.006333333333333333
+Jsoup,14,prio_p_time_starts,0.006
+Jsoup,14,Sel. prioritization,0.004666666666666666
+Jsoup,14,prio_s_time_starts,0.005333333333333333
+Jsoup,14,FAST preparation,0.17
+Jsoup,14,fast_prep_time_starts,0.18
+Jsoup,14,Build time,32.14
+Jsoup,14,build_time_starts,32.21
+Jsoup,14,Test time,31.47
+Jsoup,14,test_time_starts,25.91
+Jsoup,14,DPTT_time,0.0003333333333333333
+Jsoup,14,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,14,DPTT_time_starts,0.0006666666666666666
+Jsoup,14,DPT,5.220333333333334
+Jsoup,14,DPT_TIME,5.220333333333334
+Jsoup,14,FAST,0.17633333333333334
+Jsoup,14,fast_time_starts,0.186
+Jsoup,14,Fastazi-S,5.224666666666668
+Jsoup,14,fastazi_s_time_starts,8.665333333333333
+Jsoup,14,FAST_T_starts,0.186
+Jsoup,14,DPTT_ekstazi_t,5.220666666666667
+Jsoup,14,DPTT_t_starts,13.880666666666668
+Jsoup,15,Selection,5.380000000000001
+Jsoup,15,sel_time_starts,11.100000000000001
+Jsoup,15,Full prioritization,0.006
+Jsoup,15,prio_p_time_starts,0.005333333333333333
+Jsoup,15,Sel. prioritization,0.004666666666666667
+Jsoup,15,prio_s_time_starts,0.005333333333333333
+Jsoup,15,FAST preparation,0.18
+Jsoup,15,fast_prep_time_starts,0.18
+Jsoup,15,Build time,34.36
+Jsoup,15,build_time_starts,34.09
+Jsoup,15,Test time,33.38
+Jsoup,15,test_time_starts,28.68
+Jsoup,15,DPTT_time,0.0003333333333333333
+Jsoup,15,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,15,DPTT_time_starts,0.0003333333333333333
+Jsoup,15,DPT,5.3803333333333345
+Jsoup,15,DPT_TIME,5.3803333333333345
+Jsoup,15,FAST,0.186
+Jsoup,15,fast_time_starts,0.18533333333333332
+Jsoup,15,Fastazi-S,5.384666666666668
+Jsoup,15,fastazi_s_time_starts,11.105333333333334
+Jsoup,15,FAST_T_starts,0.18533333333333332
+Jsoup,15,DPTT_ekstazi_t,5.380666666666667
+Jsoup,15,DPTT_t_starts,16.480333333333334
+Jsoup,16,Selection,5.68
+Jsoup,16,sel_time_starts,11.51
+Jsoup,16,Full prioritization,0.006
+Jsoup,16,prio_p_time_starts,0.006666666666666666
+Jsoup,16,Sel. prioritization,0.005333333333333333
+Jsoup,16,prio_s_time_starts,0.005666666666666667
+Jsoup,16,FAST preparation,0.15
+Jsoup,16,fast_prep_time_starts,0.15
+Jsoup,16,Build time,34.260000000000005
+Jsoup,16,build_time_starts,34.28
+Jsoup,16,Test time,34.04
+Jsoup,16,test_time_starts,28.05
+Jsoup,16,DPTT_time,0.0006666666666666666
+Jsoup,16,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,16,DPTT_time_starts,0.0006666666666666666
+Jsoup,16,DPT,5.680666666666666
+Jsoup,16,DPT_TIME,5.680666666666666
+Jsoup,16,FAST,0.156
+Jsoup,16,fast_time_starts,0.15666666666666665
+Jsoup,16,Fastazi-S,5.685333333333333
+Jsoup,16,fastazi_s_time_starts,11.515666666666666
+Jsoup,16,FAST_T_starts,0.15666666666666665
+Jsoup,16,DPTT_ekstazi_t,5.680666666666666
+Jsoup,16,DPTT_t_starts,17.190666666666665
+Jsoup,17,Selection,5.84
+Jsoup,17,sel_time_starts,11.5
+Jsoup,17,Full prioritization,0.006333333333333333
+Jsoup,17,prio_p_time_starts,0.006666666666666667
+Jsoup,17,Sel. prioritization,0.004666666666666666
+Jsoup,17,prio_s_time_starts,0.005333333333333333
+Jsoup,17,FAST preparation,0.14
+Jsoup,17,fast_prep_time_starts,0.13
+Jsoup,17,Build time,33.47
+Jsoup,17,build_time_starts,33.739999999999995
+Jsoup,17,Test time,33.699999999999996
+Jsoup,17,test_time_starts,28.02
+Jsoup,17,DPTT_time,0.0003333333333333333
+Jsoup,17,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,17,DPTT_time_starts,0.0003333333333333333
+Jsoup,17,DPT,5.840333333333334
+Jsoup,17,DPT_TIME,5.840333333333334
+Jsoup,17,FAST,0.14633333333333334
+Jsoup,17,fast_time_starts,0.13666666666666666
+Jsoup,17,Fastazi-S,5.844666666666667
+Jsoup,17,fastazi_s_time_starts,11.505333333333333
+Jsoup,17,FAST_T_starts,0.13666666666666666
+Jsoup,17,DPTT_ekstazi_t,5.8406666666666665
+Jsoup,17,DPTT_t_starts,17.340333333333334
+Jsoup,18,Selection,5.73
+Jsoup,18,sel_time_starts,11.37
+Jsoup,18,Full prioritization,0.007
+Jsoup,18,prio_p_time_starts,0.006
+Jsoup,18,Sel. prioritization,0.004666666666666667
+Jsoup,18,prio_s_time_starts,0.005666666666666667
+Jsoup,18,FAST preparation,0.14
+Jsoup,18,fast_prep_time_starts,0.14
+Jsoup,18,Build time,33.81
+Jsoup,18,build_time_starts,32.9
+Jsoup,18,Test time,34.48
+Jsoup,18,test_time_starts,28.18
+Jsoup,18,DPTT_time,0.0006666666666666666
+Jsoup,18,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,18,DPTT_time_starts,0.0003333333333333333
+Jsoup,18,DPT,5.730666666666667
+Jsoup,18,DPT_TIME,5.730666666666667
+Jsoup,18,FAST,0.14700000000000002
+Jsoup,18,fast_time_starts,0.14600000000000002
+Jsoup,18,Fastazi-S,5.7346666666666675
+Jsoup,18,fastazi_s_time_starts,11.375666666666666
+Jsoup,18,FAST_T_starts,0.14600000000000002
+Jsoup,18,DPTT_ekstazi_t,5.730333333333334
+Jsoup,18,DPTT_t_starts,17.10033333333333
+Jsoup,19,Selection,5.61
+Jsoup,19,sel_time_starts,11.299999999999999
+Jsoup,19,Full prioritization,0.006666666666666667
+Jsoup,19,prio_p_time_starts,0.006333333333333333
+Jsoup,19,Sel. prioritization,0.005333333333333333
+Jsoup,19,prio_s_time_starts,0.005333333333333333
+Jsoup,19,FAST preparation,0.19999999999999998
+Jsoup,19,fast_prep_time_starts,0.19
+Jsoup,19,Build time,33.71
+Jsoup,19,build_time_starts,33.96
+Jsoup,19,Test time,34.67
+Jsoup,19,test_time_starts,29.03
+Jsoup,19,DPTT_time,0.0006666666666666666
+Jsoup,19,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,19,DPTT_time_starts,0.0003333333333333333
+Jsoup,19,DPT,5.610666666666667
+Jsoup,19,DPT_TIME,5.610666666666667
+Jsoup,19,FAST,0.20666666666666664
+Jsoup,19,fast_time_starts,0.19633333333333333
+Jsoup,19,Fastazi-S,5.615333333333334
+Jsoup,19,fastazi_s_time_starts,11.305333333333332
+Jsoup,19,FAST_T_starts,0.19633333333333333
+Jsoup,19,DPTT_ekstazi_t,5.610666666666667
+Jsoup,19,DPTT_t_starts,16.910333333333334
+Jsoup,20,Selection,5.470000000000001
+Jsoup,20,sel_time_starts,11.540000000000001
+Jsoup,20,Full prioritization,0.006666666666666667
+Jsoup,20,prio_p_time_starts,0.006333333333333333
+Jsoup,20,Sel. prioritization,0.006
+Jsoup,20,prio_s_time_starts,0.006000000000000001
+Jsoup,20,FAST preparation,0.31
+Jsoup,20,fast_prep_time_starts,0.31
+Jsoup,20,Build time,34.029999999999994
+Jsoup,20,build_time_starts,33.82
+Jsoup,20,Test time,33.69
+Jsoup,20,test_time_starts,28.27
+Jsoup,20,DPTT_time,0.0006666666666666666
+Jsoup,20,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,20,DPTT_time_starts,0.0003333333333333333
+Jsoup,20,DPT,5.470666666666667
+Jsoup,20,DPT_TIME,5.470666666666667
+Jsoup,20,FAST,0.31666666666666665
+Jsoup,20,fast_time_starts,0.31633333333333336
+Jsoup,20,Fastazi-S,5.476000000000001
+Jsoup,20,fastazi_s_time_starts,11.546000000000001
+Jsoup,20,FAST_T_starts,0.31633333333333336
+Jsoup,20,DPTT_ekstazi_t,5.470333333333334
+Jsoup,20,DPTT_t_starts,17.010333333333335
+Jsoup,21,Selection,5.79
+Jsoup,21,sel_time_starts,11.120000000000001
+Jsoup,21,Full prioritization,0.007
+Jsoup,21,prio_p_time_starts,0.006666666666666666
+Jsoup,21,Sel. prioritization,0.005666666666666667
+Jsoup,21,prio_s_time_starts,0.006000000000000001
+Jsoup,21,FAST preparation,0.19
+Jsoup,21,fast_prep_time_starts,0.2
+Jsoup,21,Build time,34.64
+Jsoup,21,build_time_starts,34.88
+Jsoup,21,Test time,34.25
+Jsoup,21,test_time_starts,28.490000000000002
+Jsoup,21,DPTT_time,0.0006666666666666666
+Jsoup,21,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,21,DPTT_time_starts,0.0003333333333333333
+Jsoup,21,DPT,5.790666666666667
+Jsoup,21,DPT_TIME,5.790666666666667
+Jsoup,21,FAST,0.197
+Jsoup,21,fast_time_starts,0.20666666666666667
+Jsoup,21,Fastazi-S,5.7956666666666665
+Jsoup,21,fastazi_s_time_starts,11.126000000000001
+Jsoup,21,FAST_T_starts,0.20666666666666667
+Jsoup,21,DPTT_ekstazi_t,5.790333333333334
+Jsoup,21,DPTT_t_starts,16.910333333333334
+Jsoup,22,Selection,5.63
+Jsoup,22,sel_time_starts,11.729999999999999
+Jsoup,22,Full prioritization,0.006666666666666666
+Jsoup,22,prio_p_time_starts,0.006666666666666667
+Jsoup,22,Sel. prioritization,0.005666666666666666
+Jsoup,22,prio_s_time_starts,0.006000000000000001
+Jsoup,22,FAST preparation,0.18
+Jsoup,22,fast_prep_time_starts,0.19
+Jsoup,22,Build time,34.92
+Jsoup,22,build_time_starts,33.510000000000005
+Jsoup,22,Test time,33.940000000000005
+Jsoup,22,test_time_starts,27.98
+Jsoup,22,DPTT_time,0.0003333333333333333
+Jsoup,22,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,22,DPTT_time_starts,0.0006666666666666666
+Jsoup,22,DPT,5.630333333333334
+Jsoup,22,DPT_TIME,5.630333333333334
+Jsoup,22,FAST,0.18666666666666665
+Jsoup,22,fast_time_starts,0.19666666666666666
+Jsoup,22,Fastazi-S,5.635666666666666
+Jsoup,22,fastazi_s_time_starts,11.735999999999999
+Jsoup,22,FAST_T_starts,0.19666666666666666
+Jsoup,22,DPTT_ekstazi_t,5.630333333333334
+Jsoup,22,DPTT_t_starts,17.360666666666667
+Jsoup,23,Selection,5.3100000000000005
+Jsoup,23,sel_time_starts,11.76
+Jsoup,23,Full prioritization,0.007
+Jsoup,23,prio_p_time_starts,0.007000000000000001
+Jsoup,23,Sel. prioritization,0.005
+Jsoup,23,prio_s_time_starts,0.006333333333333333
+Jsoup,23,FAST preparation,0.060000000000000005
+Jsoup,23,fast_prep_time_starts,0.05
+Jsoup,23,Build time,35.22
+Jsoup,23,build_time_starts,33.59
+Jsoup,23,Test time,34.02
+Jsoup,23,test_time_starts,29.14
+Jsoup,23,DPTT_time,0.0003333333333333333
+Jsoup,23,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,23,DPTT_time_starts,0.0006666666666666666
+Jsoup,23,DPT,5.310333333333334
+Jsoup,23,DPT_TIME,5.310333333333334
+Jsoup,23,FAST,0.067
+Jsoup,23,fast_time_starts,0.057
+Jsoup,23,Fastazi-S,5.315
+Jsoup,23,fastazi_s_time_starts,11.766333333333334
+Jsoup,23,FAST_T_starts,0.057
+Jsoup,23,DPTT_ekstazi_t,5.310666666666667
+Jsoup,23,DPTT_t_starts,17.070666666666668
+Jsoup,24,Selection,5.87
+Jsoup,24,sel_time_starts,11.33
+Jsoup,24,Full prioritization,0.007000000000000001
+Jsoup,24,prio_p_time_starts,0.007000000000000001
+Jsoup,24,Sel. prioritization,0.0033333333333333335
+Jsoup,24,prio_s_time_starts,0.005666666666666667
+Jsoup,24,FAST preparation,0.14
+Jsoup,24,fast_prep_time_starts,0.15
+Jsoup,24,Build time,34.4
+Jsoup,24,build_time_starts,38.71
+Jsoup,24,Test time,31.56
+Jsoup,24,test_time_starts,28.91
+Jsoup,24,DPTT_time,0.0006666666666666666
+Jsoup,24,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,24,DPTT_time_starts,0.0003333333333333333
+Jsoup,24,DPT,5.870666666666667
+Jsoup,24,DPT_TIME,5.870666666666667
+Jsoup,24,FAST,0.14700000000000002
+Jsoup,24,fast_time_starts,0.157
+Jsoup,24,Fastazi-S,5.873333333333333
+Jsoup,24,fastazi_s_time_starts,11.335666666666667
+Jsoup,24,FAST_T_starts,0.157
+Jsoup,24,DPTT_ekstazi_t,5.870666666666667
+Jsoup,24,DPTT_t_starts,17.200333333333333
+Jsoup,25,Selection,5.33
+Jsoup,25,sel_time_starts,11.0
+Jsoup,25,Full prioritization,0.007
+Jsoup,25,prio_p_time_starts,0.007
+Jsoup,25,Sel. prioritization,0.006333333333333333
+Jsoup,25,prio_s_time_starts,0.006333333333333333
+Jsoup,25,FAST preparation,0.19
+Jsoup,25,fast_prep_time_starts,0.18
+Jsoup,25,Build time,40.15
+Jsoup,25,build_time_starts,32.75
+Jsoup,25,Test time,34.22
+Jsoup,25,test_time_starts,28.759999999999998
+Jsoup,25,DPTT_time,0.0006666666666666666
+Jsoup,25,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,25,DPTT_time_starts,0.0006666666666666666
+Jsoup,25,DPT,5.330666666666667
+Jsoup,25,DPT_TIME,5.330666666666667
+Jsoup,25,FAST,0.197
+Jsoup,25,fast_time_starts,0.187
+Jsoup,25,Fastazi-S,5.336333333333333
+Jsoup,25,fastazi_s_time_starts,11.006333333333334
+Jsoup,25,FAST_T_starts,0.187
+Jsoup,25,DPTT_ekstazi_t,5.330333333333334
+Jsoup,25,DPTT_t_starts,16.330666666666666
+Jsoup,26,Selection,5.64
+Jsoup,26,sel_time_starts,10.879999999999999
+Jsoup,26,Full prioritization,0.006666666666666667
+Jsoup,26,prio_p_time_starts,0.007
+Jsoup,26,Sel. prioritization,0.005666666666666667
+Jsoup,26,prio_s_time_starts,0.006333333333333333
+Jsoup,26,FAST preparation,0.21000000000000002
+Jsoup,26,fast_prep_time_starts,0.21
+Jsoup,26,Build time,35.62
+Jsoup,26,build_time_starts,33.4
+Jsoup,26,Test time,33.08
+Jsoup,26,test_time_starts,29.39
+Jsoup,26,DPTT_time,0.0003333333333333333
+Jsoup,26,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,26,DPTT_time_starts,0.0003333333333333333
+Jsoup,26,DPT,5.640333333333333
+Jsoup,26,DPT_TIME,5.640333333333333
+Jsoup,26,FAST,0.21666666666666667
+Jsoup,26,fast_time_starts,0.217
+Jsoup,26,Fastazi-S,5.645666666666666
+Jsoup,26,fastazi_s_time_starts,10.886333333333333
+Jsoup,26,FAST_T_starts,0.217
+Jsoup,26,DPTT_ekstazi_t,5.640666666666666
+Jsoup,26,DPTT_t_starts,16.520333333333333
+Jsoup,27,Selection,5.48
+Jsoup,27,sel_time_starts,11.35
+Jsoup,27,Full prioritization,0.007
+Jsoup,27,prio_p_time_starts,0.006666666666666667
+Jsoup,27,Sel. prioritization,0.005666666666666666
+Jsoup,27,prio_s_time_starts,0.006333333333333333
+Jsoup,27,FAST preparation,0.09
+Jsoup,27,fast_prep_time_starts,0.1
+Jsoup,27,Build time,33.8
+Jsoup,27,build_time_starts,33.31
+Jsoup,27,Test time,33.739999999999995
+Jsoup,27,test_time_starts,27.990000000000002
+Jsoup,27,DPTT_time,0.0003333333333333333
+Jsoup,27,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,27,DPTT_time_starts,0.0003333333333333333
+Jsoup,27,DPT,5.480333333333334
+Jsoup,27,DPT_TIME,5.480333333333334
+Jsoup,27,FAST,0.097
+Jsoup,27,fast_time_starts,0.10666666666666667
+Jsoup,27,Fastazi-S,5.485666666666667
+Jsoup,27,fastazi_s_time_starts,11.356333333333334
+Jsoup,27,FAST_T_starts,0.10666666666666667
+Jsoup,27,DPTT_ekstazi_t,5.480333333333334
+Jsoup,27,DPTT_t_starts,16.830333333333336
+Jsoup,28,Selection,5.41
+Jsoup,28,sel_time_starts,11.05
+Jsoup,28,Full prioritization,0.006666666666666666
+Jsoup,28,prio_p_time_starts,0.006666666666666667
+Jsoup,28,Sel. prioritization,0.006
+Jsoup,28,prio_s_time_starts,0.006333333333333333
+Jsoup,28,FAST preparation,0.18000000000000002
+Jsoup,28,fast_prep_time_starts,0.19
+Jsoup,28,Build time,34.120000000000005
+Jsoup,28,build_time_starts,33.620000000000005
+Jsoup,28,Test time,32.98
+Jsoup,28,test_time_starts,28.990000000000002
+Jsoup,28,DPTT_time,0.0006666666666666666
+Jsoup,28,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,28,DPTT_time_starts,0.0003333333333333333
+Jsoup,28,DPT,5.410666666666667
+Jsoup,28,DPT_TIME,5.410666666666667
+Jsoup,28,FAST,0.18666666666666668
+Jsoup,28,fast_time_starts,0.19666666666666666
+Jsoup,28,Fastazi-S,5.416
+Jsoup,28,fastazi_s_time_starts,11.056333333333335
+Jsoup,28,FAST_T_starts,0.19666666666666666
+Jsoup,28,DPTT_ekstazi_t,5.410666666666667
+Jsoup,28,DPTT_t_starts,16.460333333333335
+Jsoup,29,Selection,5.41
+Jsoup,29,sel_time_starts,10.7
+Jsoup,29,Full prioritization,0.006666666666666667
+Jsoup,29,prio_p_time_starts,0.006666666666666667
+Jsoup,29,Sel. prioritization,0.005666666666666667
+Jsoup,29,prio_s_time_starts,0.006333333333333333
+Jsoup,29,FAST preparation,0.09
+Jsoup,29,fast_prep_time_starts,0.09
+Jsoup,29,Build time,33.76
+Jsoup,29,build_time_starts,32.6
+Jsoup,29,Test time,33.49
+Jsoup,29,test_time_starts,28.380000000000003
+Jsoup,29,DPTT_time,0.0003333333333333333
+Jsoup,29,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,29,DPTT_time_starts,0.0003333333333333333
+Jsoup,29,DPT,5.410333333333334
+Jsoup,29,DPT_TIME,5.410333333333334
+Jsoup,29,FAST,0.09666666666666666
+Jsoup,29,fast_time_starts,0.09666666666666666
+Jsoup,29,Fastazi-S,5.415666666666667
+Jsoup,29,fastazi_s_time_starts,10.706333333333333
+Jsoup,29,FAST_T_starts,0.09666666666666666
+Jsoup,29,DPTT_ekstazi_t,5.410666666666667
+Jsoup,29,DPTT_t_starts,16.110333333333333
+Jsoup,30,Selection,5.76
+Jsoup,30,sel_time_starts,11.41
+Jsoup,30,Full prioritization,0.006333333333333333
+Jsoup,30,prio_p_time_starts,0.006333333333333333
+Jsoup,30,Sel. prioritization,0.0036666666666666666
+Jsoup,30,prio_s_time_starts,0.005000000000000001
+Jsoup,30,FAST preparation,0.11
+Jsoup,30,fast_prep_time_starts,0.09999999999999999
+Jsoup,30,Build time,33.160000000000004
+Jsoup,30,build_time_starts,34.379999999999995
+Jsoup,30,Test time,29.04
+Jsoup,30,test_time_starts,27.79
+Jsoup,30,DPTT_time,0.0006666666666666666
+Jsoup,30,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,30,DPTT_time_starts,0.0003333333333333333
+Jsoup,30,DPT,5.760666666666666
+Jsoup,30,DPT_TIME,5.760666666666666
+Jsoup,30,FAST,0.11633333333333333
+Jsoup,30,fast_time_starts,0.10633333333333332
+Jsoup,30,Fastazi-S,5.7636666666666665
+Jsoup,30,fastazi_s_time_starts,11.415000000000001
+Jsoup,30,FAST_T_starts,0.10633333333333332
+Jsoup,30,DPTT_ekstazi_t,5.7603333333333335
+Jsoup,30,DPTT_t_starts,17.170333333333332
+Jsoup,31,Selection,5.83
+Jsoup,31,sel_time_starts,10.99
+Jsoup,31,Full prioritization,0.006666666666666667
+Jsoup,31,prio_p_time_starts,0.006666666666666666
+Jsoup,31,Sel. prioritization,0.0033333333333333335
+Jsoup,31,prio_s_time_starts,0.006
+Jsoup,31,FAST preparation,0.18
+Jsoup,31,fast_prep_time_starts,0.18
+Jsoup,31,Build time,36.84
+Jsoup,31,build_time_starts,33.9
+Jsoup,31,Test time,32.14
+Jsoup,31,test_time_starts,27.82
+Jsoup,31,DPTT_time,0.0006666666666666666
+Jsoup,31,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,31,DPTT_time_starts,0.0006666666666666666
+Jsoup,31,DPT,5.830666666666667
+Jsoup,31,DPT_TIME,5.830666666666667
+Jsoup,31,FAST,0.18666666666666665
+Jsoup,31,fast_time_starts,0.18666666666666665
+Jsoup,31,Fastazi-S,5.833333333333333
+Jsoup,31,fastazi_s_time_starts,10.996
+Jsoup,31,FAST_T_starts,0.18666666666666665
+Jsoup,31,DPTT_ekstazi_t,5.830666666666667
+Jsoup,31,DPTT_t_starts,16.820666666666668
+Jsoup,32,Selection,5.22
+Jsoup,32,sel_time_starts,10.75
+Jsoup,32,Full prioritization,0.006666666666666667
+Jsoup,32,prio_p_time_starts,0.006333333333333333
+Jsoup,32,Sel. prioritization,0.006
+Jsoup,32,prio_s_time_starts,0.006333333333333333
+Jsoup,32,FAST preparation,0.33
+Jsoup,32,fast_prep_time_starts,0.33
+Jsoup,32,Build time,33.64
+Jsoup,32,build_time_starts,33.809999999999995
+Jsoup,32,Test time,34.1
+Jsoup,32,test_time_starts,28.75
+Jsoup,32,DPTT_time,0.0003333333333333333
+Jsoup,32,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,32,DPTT_time_starts,0.0003333333333333333
+Jsoup,32,DPT,5.2203333333333335
+Jsoup,32,DPT_TIME,5.2203333333333335
+Jsoup,32,FAST,0.33666666666666667
+Jsoup,32,fast_time_starts,0.3363333333333334
+Jsoup,32,Fastazi-S,5.226
+Jsoup,32,fastazi_s_time_starts,10.756333333333334
+Jsoup,32,FAST_T_starts,0.3363333333333334
+Jsoup,32,DPTT_ekstazi_t,5.220666666666666
+Jsoup,32,DPTT_t_starts,15.970333333333333
+Jsoup,33,Selection,5.470000000000001
+Jsoup,33,sel_time_starts,10.979999999999999
+Jsoup,33,Full prioritization,0.007333333333333333
+Jsoup,33,prio_p_time_starts,0.006666666666666667
+Jsoup,33,Sel. prioritization,0.006666666666666666
+Jsoup,33,prio_s_time_starts,0.006666666666666667
+Jsoup,33,FAST preparation,0.55
+Jsoup,33,fast_prep_time_starts,0.55
+Jsoup,33,Build time,34.63
+Jsoup,33,build_time_starts,33.839999999999996
+Jsoup,33,Test time,33.9
+Jsoup,33,test_time_starts,28.13
+Jsoup,33,DPTT_time,0.0003333333333333333
+Jsoup,33,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,33,DPTT_time_starts,0.0003333333333333333
+Jsoup,33,DPT,5.470333333333334
+Jsoup,33,DPT_TIME,5.470333333333334
+Jsoup,33,FAST,0.5573333333333333
+Jsoup,33,fast_time_starts,0.5566666666666668
+Jsoup,33,Fastazi-S,5.4766666666666675
+Jsoup,33,fastazi_s_time_starts,10.986666666666665
+Jsoup,33,FAST_T_starts,0.5566666666666668
+Jsoup,33,DPTT_ekstazi_t,5.470666666666667
+Jsoup,33,DPTT_t_starts,16.450333333333333
+Jsoup,34,Selection,5.77
+Jsoup,34,sel_time_starts,11.93
+Jsoup,34,Full prioritization,0.007
+Jsoup,34,prio_p_time_starts,0.007333333333333333
+Jsoup,34,Sel. prioritization,0.005666666666666667
+Jsoup,34,prio_s_time_starts,0.006666666666666666
+Jsoup,34,FAST preparation,0.18
+Jsoup,34,fast_prep_time_starts,0.17
+Jsoup,34,Build time,34.33
+Jsoup,34,build_time_starts,34.39
+Jsoup,34,Test time,33.92
+Jsoup,34,test_time_starts,29.59
+Jsoup,34,DPTT_time,0.0006666666666666666
+Jsoup,34,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,34,DPTT_time_starts,0.0003333333333333333
+Jsoup,34,DPT,5.770666666666666
+Jsoup,34,DPT_TIME,5.770666666666666
+Jsoup,34,FAST,0.187
+Jsoup,34,fast_time_starts,0.17733333333333334
+Jsoup,34,Fastazi-S,5.775666666666666
+Jsoup,34,fastazi_s_time_starts,11.936666666666666
+Jsoup,34,FAST_T_starts,0.17733333333333334
+Jsoup,34,DPTT_ekstazi_t,5.770666666666666
+Jsoup,34,DPTT_t_starts,17.700333333333333
+Jsoup,35,Selection,5.4799999999999995
+Jsoup,35,sel_time_starts,11.15
+Jsoup,35,Full prioritization,0.007
+Jsoup,35,prio_p_time_starts,0.006666666666666667
+Jsoup,35,Sel. prioritization,0.006
+Jsoup,35,prio_s_time_starts,0.006333333333333333
+Jsoup,35,FAST preparation,0.16
+Jsoup,35,fast_prep_time_starts,0.16
+Jsoup,35,Build time,34.01
+Jsoup,35,build_time_starts,33.62
+Jsoup,35,Test time,34.68
+Jsoup,35,test_time_starts,28.939999999999998
+Jsoup,35,DPTT_time,0.0003333333333333333
+Jsoup,35,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,35,DPTT_time_starts,0.0006666666666666666
+Jsoup,35,DPT,5.480333333333333
+Jsoup,35,DPT_TIME,5.480333333333333
+Jsoup,35,FAST,0.167
+Jsoup,35,fast_time_starts,0.16666666666666666
+Jsoup,35,Fastazi-S,5.486
+Jsoup,35,fastazi_s_time_starts,11.156333333333334
+Jsoup,35,FAST_T_starts,0.16666666666666666
+Jsoup,35,DPTT_ekstazi_t,5.480666666666666
+Jsoup,35,DPTT_t_starts,16.630666666666666
+Jsoup,36,Selection,5.45
+Jsoup,36,sel_time_starts,11.479999999999999
+Jsoup,36,Full prioritization,0.007333333333333333
+Jsoup,36,prio_p_time_starts,0.007000000000000001
+Jsoup,36,Sel. prioritization,0.006666666666666666
+Jsoup,36,prio_s_time_starts,0.006666666666666666
+Jsoup,36,FAST preparation,0.28
+Jsoup,36,fast_prep_time_starts,0.27
+Jsoup,36,Build time,39.019999999999996
+Jsoup,36,build_time_starts,34.62
+Jsoup,36,Test time,34.43
+Jsoup,36,test_time_starts,28.970000000000002
+Jsoup,36,DPTT_time,0.0006666666666666666
+Jsoup,36,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,36,DPTT_time_starts,0.0006666666666666666
+Jsoup,36,DPT,5.450666666666667
+Jsoup,36,DPT_TIME,5.450666666666667
+Jsoup,36,FAST,0.2873333333333334
+Jsoup,36,fast_time_starts,0.277
+Jsoup,36,Fastazi-S,5.456666666666667
+Jsoup,36,fastazi_s_time_starts,11.486666666666665
+Jsoup,36,FAST_T_starts,0.277
+Jsoup,36,DPTT_ekstazi_t,5.450333333333334
+Jsoup,36,DPTT_t_starts,16.930666666666667
+Jsoup,37,Selection,5.65
+Jsoup,37,sel_time_starts,11.28
+Jsoup,37,Full prioritization,0.007
+Jsoup,37,prio_p_time_starts,0.007333333333333333
+Jsoup,37,Sel. prioritization,0.006333333333333333
+Jsoup,37,prio_s_time_starts,0.006666666666666667
+Jsoup,37,FAST preparation,0.18000000000000002
+Jsoup,37,fast_prep_time_starts,0.17
+Jsoup,37,Build time,34.64
+Jsoup,37,build_time_starts,34.82
+Jsoup,37,Test time,33.67
+Jsoup,37,test_time_starts,28.69
+Jsoup,37,DPTT_time,0.0006666666666666666
+Jsoup,37,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,37,DPTT_time_starts,0.0003333333333333333
+Jsoup,37,DPT,5.650666666666667
+Jsoup,37,DPT_TIME,5.650666666666667
+Jsoup,37,FAST,0.18700000000000003
+Jsoup,37,fast_time_starts,0.17733333333333334
+Jsoup,37,Fastazi-S,5.656333333333333
+Jsoup,37,fastazi_s_time_starts,11.286666666666665
+Jsoup,37,FAST_T_starts,0.17733333333333334
+Jsoup,37,DPTT_ekstazi_t,5.650666666666667
+Jsoup,37,DPTT_t_starts,16.930333333333333
+Jsoup,38,Selection,5.58
+Jsoup,38,sel_time_starts,11.03
+Jsoup,38,Full prioritization,0.007
+Jsoup,38,prio_p_time_starts,0.007333333333333333
+Jsoup,38,Sel. prioritization,0.005666666666666667
+Jsoup,38,prio_s_time_starts,0.006666666666666666
+Jsoup,38,FAST preparation,0.16
+Jsoup,38,fast_prep_time_starts,0.17
+Jsoup,38,Build time,35.230000000000004
+Jsoup,38,build_time_starts,34.15
+Jsoup,38,Test time,32.86
+Jsoup,38,test_time_starts,28.919999999999998
+Jsoup,38,DPTT_time,0.0006666666666666666
+Jsoup,38,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,38,DPTT_time_starts,0.0003333333333333333
+Jsoup,38,DPT,5.580666666666667
+Jsoup,38,DPT_TIME,5.580666666666667
+Jsoup,38,FAST,0.167
+Jsoup,38,fast_time_starts,0.17733333333333334
+Jsoup,38,Fastazi-S,5.585666666666667
+Jsoup,38,fastazi_s_time_starts,11.036666666666665
+Jsoup,38,FAST_T_starts,0.17733333333333334
+Jsoup,38,DPTT_ekstazi_t,5.580666666666667
+Jsoup,38,DPTT_t_starts,16.610333333333333
+Jsoup,39,Selection,5.35
+Jsoup,39,sel_time_starts,10.459999999999999
+Jsoup,39,Full prioritization,0.007000000000000001
+Jsoup,39,prio_p_time_starts,0.007
+Jsoup,39,Sel. prioritization,0.006333333333333333
+Jsoup,39,prio_s_time_starts,0.006666666666666667
+Jsoup,39,FAST preparation,0.33
+Jsoup,39,fast_prep_time_starts,0.33
+Jsoup,39,Build time,34.7
+Jsoup,39,build_time_starts,33.86
+Jsoup,39,Test time,33.97
+Jsoup,39,test_time_starts,30.150000000000002
+Jsoup,39,DPTT_time,0.0003333333333333333
+Jsoup,39,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,39,DPTT_time_starts,0.0003333333333333333
+Jsoup,39,DPT,5.350333333333333
+Jsoup,39,DPT_TIME,5.350333333333333
+Jsoup,39,FAST,0.337
+Jsoup,39,fast_time_starts,0.337
+Jsoup,39,Fastazi-S,5.356333333333333
+Jsoup,39,fastazi_s_time_starts,10.466666666666665
+Jsoup,39,FAST_T_starts,0.337
+Jsoup,39,DPTT_ekstazi_t,5.350666666666666
+Jsoup,39,DPTT_t_starts,15.810333333333332
+Jsoup,40,Selection,5.55
+Jsoup,40,sel_time_starts,10.84
+Jsoup,40,Full prioritization,0.007000000000000001
+Jsoup,40,prio_p_time_starts,0.006666666666666666
+Jsoup,40,Sel. prioritization,0.006
+Jsoup,40,prio_s_time_starts,0.006666666666666666
+Jsoup,40,FAST preparation,0.17
+Jsoup,40,fast_prep_time_starts,0.17
+Jsoup,40,Build time,37.58
+Jsoup,40,build_time_starts,32.97
+Jsoup,40,Test time,34.709999999999994
+Jsoup,40,test_time_starts,29.23
+Jsoup,40,DPTT_time,0.0006666666666666666
+Jsoup,40,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,40,DPTT_time_starts,0.0006666666666666666
+Jsoup,40,DPT,5.550666666666666
+Jsoup,40,DPT_TIME,5.550666666666666
+Jsoup,40,FAST,0.17700000000000002
+Jsoup,40,fast_time_starts,0.17666666666666667
+Jsoup,40,Fastazi-S,5.556
+Jsoup,40,fastazi_s_time_starts,10.846666666666666
+Jsoup,40,FAST_T_starts,0.17666666666666667
+Jsoup,40,DPTT_ekstazi_t,5.550666666666666
+Jsoup,40,DPTT_t_starts,16.390666666666668
+Jsoup,41,Selection,5.56
+Jsoup,41,sel_time_starts,12.59
+Jsoup,41,Full prioritization,0.007666666666666667
+Jsoup,41,prio_p_time_starts,0.007666666666666667
+Jsoup,41,Sel. prioritization,0.007666666666666667
+Jsoup,41,prio_s_time_starts,0.007
+Jsoup,41,FAST preparation,0.67
+Jsoup,41,fast_prep_time_starts,0.6900000000000001
+Jsoup,41,Build time,38.050000000000004
+Jsoup,41,build_time_starts,37.269999999999996
+Jsoup,41,Test time,37.76
+Jsoup,41,test_time_starts,30.32
+Jsoup,41,DPTT_time,0.0006666666666666666
+Jsoup,41,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,41,DPTT_time_starts,0.0006666666666666666
+Jsoup,41,DPT,5.560666666666666
+Jsoup,41,DPT_TIME,5.560666666666666
+Jsoup,41,FAST,0.6776666666666668
+Jsoup,41,fast_time_starts,0.6976666666666668
+Jsoup,41,Fastazi-S,5.567666666666666
+Jsoup,41,fastazi_s_time_starts,12.597
+Jsoup,41,FAST_T_starts,0.6976666666666668
+Jsoup,41,DPTT_ekstazi_t,5.560333333333333
+Jsoup,41,DPTT_t_starts,18.150666666666666
+Jsoup,42,Selection,5.82
+Jsoup,42,sel_time_starts,13.299999999999999
+Jsoup,42,Full prioritization,0.007666666666666667
+Jsoup,42,prio_p_time_starts,0.007333333333333333
+Jsoup,42,Sel. prioritization,0.006666666666666667
+Jsoup,42,prio_s_time_starts,0.006666666666666667
+Jsoup,42,FAST preparation,0.11
+Jsoup,42,fast_prep_time_starts,0.12
+Jsoup,42,Build time,37.56
+Jsoup,42,build_time_starts,37.9
+Jsoup,42,Test time,37.309999999999995
+Jsoup,42,test_time_starts,34.81
+Jsoup,42,DPTT_time,0.0006666666666666666
+Jsoup,42,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,42,DPTT_time_starts,0.0006666666666666666
+Jsoup,42,DPT,5.820666666666667
+Jsoup,42,DPT_TIME,5.820666666666667
+Jsoup,42,FAST,0.11766666666666667
+Jsoup,42,fast_time_starts,0.12733333333333333
+Jsoup,42,Fastazi-S,5.826666666666667
+Jsoup,42,fastazi_s_time_starts,13.306666666666665
+Jsoup,42,FAST_T_starts,0.12733333333333333
+Jsoup,42,DPTT_ekstazi_t,5.820333333333334
+Jsoup,42,DPTT_t_starts,19.120666666666665
+Jsoup,43,Selection,5.5600000000000005
+Jsoup,43,sel_time_starts,13.67
+Jsoup,43,Full prioritization,0.007666666666666667
+Jsoup,43,prio_p_time_starts,0.007333333333333333
+Jsoup,43,Sel. prioritization,0.007
+Jsoup,43,prio_s_time_starts,0.007
+Jsoup,43,FAST preparation,0.16
+Jsoup,43,fast_prep_time_starts,0.16
+Jsoup,43,Build time,39.02
+Jsoup,43,build_time_starts,38.44
+Jsoup,43,Test time,40.17
+Jsoup,43,test_time_starts,33.0
+Jsoup,43,DPTT_time,0.0003333333333333333
+Jsoup,43,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,43,DPTT_time_starts,0.0003333333333333333
+Jsoup,43,DPT,5.560333333333334
+Jsoup,43,DPT_TIME,5.560333333333334
+Jsoup,43,FAST,0.16766666666666666
+Jsoup,43,fast_time_starts,0.16733333333333333
+Jsoup,43,Fastazi-S,5.567
+Jsoup,43,fastazi_s_time_starts,13.677
+Jsoup,43,FAST_T_starts,0.16733333333333333
+Jsoup,43,DPTT_ekstazi_t,5.560666666666667
+Jsoup,43,DPTT_t_starts,19.230333333333334
+Jsoup,44,Selection,5.91
+Jsoup,44,sel_time_starts,12.91
+Jsoup,44,Full prioritization,0.007666666666666667
+Jsoup,44,prio_p_time_starts,0.007333333333333333
+Jsoup,44,Sel. prioritization,0.006
+Jsoup,44,prio_s_time_starts,0.006666666666666667
+Jsoup,44,FAST preparation,0.18
+Jsoup,44,fast_prep_time_starts,0.17
+Jsoup,44,Build time,39.28
+Jsoup,44,build_time_starts,41.79
+Jsoup,44,Test time,37.169999999999995
+Jsoup,44,test_time_starts,34.51
+Jsoup,44,DPTT_time,0.0003333333333333333
+Jsoup,44,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,44,DPTT_time_starts,0.0006666666666666666
+Jsoup,44,DPT,5.910333333333334
+Jsoup,44,DPT_TIME,5.910333333333334
+Jsoup,44,FAST,0.18766666666666665
+Jsoup,44,fast_time_starts,0.17733333333333334
+Jsoup,44,Fastazi-S,5.916
+Jsoup,44,fastazi_s_time_starts,12.916666666666666
+Jsoup,44,FAST_T_starts,0.17733333333333334
+Jsoup,44,DPTT_ekstazi_t,5.910666666666667
+Jsoup,44,DPTT_t_starts,18.820666666666668
+Jsoup,45,Selection,5.72
+Jsoup,45,sel_time_starts,13.379999999999999
+Jsoup,45,Full prioritization,0.007333333333333333
+Jsoup,45,prio_p_time_starts,0.007333333333333333
+Jsoup,45,Sel. prioritization,0.006666666666666667
+Jsoup,45,prio_s_time_starts,0.006666666666666667
+Jsoup,45,FAST preparation,0.37
+Jsoup,45,fast_prep_time_starts,0.36
+Jsoup,45,Build time,39.63
+Jsoup,45,build_time_starts,37.56
+Jsoup,45,Test time,39.52
+Jsoup,45,test_time_starts,31.85
+Jsoup,45,DPTT_time,0.0003333333333333333
+Jsoup,45,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,45,DPTT_time_starts,0.0003333333333333333
+Jsoup,45,DPT,5.7203333333333335
+Jsoup,45,DPT_TIME,5.7203333333333335
+Jsoup,45,FAST,0.37733333333333335
+Jsoup,45,fast_time_starts,0.36733333333333335
+Jsoup,45,Fastazi-S,5.726666666666667
+Jsoup,45,fastazi_s_time_starts,13.386666666666665
+Jsoup,45,FAST_T_starts,0.36733333333333335
+Jsoup,45,DPTT_ekstazi_t,5.720666666666666
+Jsoup,45,DPTT_t_starts,19.10033333333333
+Jsoup,46,Selection,5.37
+Jsoup,46,sel_time_starts,13.010000000000002
+Jsoup,46,Full prioritization,0.007666666666666667
+Jsoup,46,prio_p_time_starts,0.007333333333333333
+Jsoup,46,Sel. prioritization,0.005666666666666667
+Jsoup,46,prio_s_time_starts,0.006333333333333333
+Jsoup,46,FAST preparation,0.2
+Jsoup,46,fast_prep_time_starts,0.2
+Jsoup,46,Build time,39.5
+Jsoup,46,build_time_starts,38.75
+Jsoup,46,Test time,38.07
+Jsoup,46,test_time_starts,34.050000000000004
+Jsoup,46,DPTT_time,0.0006666666666666666
+Jsoup,46,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,46,DPTT_time_starts,0.0003333333333333333
+Jsoup,46,DPT,5.370666666666667
+Jsoup,46,DPT_TIME,5.370666666666667
+Jsoup,46,FAST,0.20766666666666667
+Jsoup,46,fast_time_starts,0.20733333333333334
+Jsoup,46,Fastazi-S,5.375666666666667
+Jsoup,46,fastazi_s_time_starts,13.016333333333336
+Jsoup,46,FAST_T_starts,0.20733333333333334
+Jsoup,46,DPTT_ekstazi_t,5.370333333333334
+Jsoup,46,DPTT_t_starts,18.380333333333336
+Jsoup,47,Selection,5.46
+Jsoup,47,sel_time_starts,13.34
+Jsoup,47,Full prioritization,0.007333333333333333
+Jsoup,47,prio_p_time_starts,0.007333333333333333
+Jsoup,47,Sel. prioritization,0.006666666666666667
+Jsoup,47,prio_s_time_starts,0.007
+Jsoup,47,FAST preparation,0.18000000000000002
+Jsoup,47,fast_prep_time_starts,0.2
+Jsoup,47,Build time,37.79
+Jsoup,47,build_time_starts,38.04
+Jsoup,47,Test time,39.67
+Jsoup,47,test_time_starts,31.96
+Jsoup,47,DPTT_time,0.0006666666666666666
+Jsoup,47,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,47,DPTT_time_starts,0.0006666666666666666
+Jsoup,47,DPT,5.460666666666667
+Jsoup,47,DPT_TIME,5.460666666666667
+Jsoup,47,FAST,0.18733333333333335
+Jsoup,47,fast_time_starts,0.20733333333333334
+Jsoup,47,Fastazi-S,5.466666666666667
+Jsoup,47,fastazi_s_time_starts,13.347
+Jsoup,47,FAST_T_starts,0.20733333333333334
+Jsoup,47,DPTT_ekstazi_t,5.460333333333334
+Jsoup,47,DPTT_t_starts,18.800666666666668
+Jsoup,48,Selection,5.89
+Jsoup,48,sel_time_starts,13.700000000000001
+Jsoup,48,Full prioritization,0.007333333333333333
+Jsoup,48,prio_p_time_starts,0.007333333333333333
+Jsoup,48,Sel. prioritization,0.007000000000000001
+Jsoup,48,prio_s_time_starts,0.007
+Jsoup,48,FAST preparation,0.22
+Jsoup,48,fast_prep_time_starts,0.23
+Jsoup,48,Build time,38.59
+Jsoup,48,build_time_starts,37.39
+Jsoup,48,Test time,38.019999999999996
+Jsoup,48,test_time_starts,34.33
+Jsoup,48,DPTT_time,0.0006666666666666666
+Jsoup,48,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,48,DPTT_time_starts,0.0006666666666666666
+Jsoup,48,DPT,5.890666666666666
+Jsoup,48,DPT_TIME,5.890666666666666
+Jsoup,48,FAST,0.22733333333333333
+Jsoup,48,fast_time_starts,0.23733333333333334
+Jsoup,48,Fastazi-S,5.896999999999999
+Jsoup,48,fastazi_s_time_starts,13.707
+Jsoup,48,FAST_T_starts,0.23733333333333334
+Jsoup,48,DPTT_ekstazi_t,5.890333333333333
+Jsoup,48,DPTT_t_starts,19.590666666666667
+Jsoup,49,Selection,5.489999999999999
+Jsoup,49,sel_time_starts,13.97
+Jsoup,49,Full prioritization,0.007666666666666667
+Jsoup,49,prio_p_time_starts,0.007333333333333333
+Jsoup,49,Sel. prioritization,0.007
+Jsoup,49,prio_s_time_starts,0.006666666666666667
+Jsoup,49,FAST preparation,0.38
+Jsoup,49,fast_prep_time_starts,0.38
+Jsoup,49,Build time,39.339999999999996
+Jsoup,49,build_time_starts,38.46
+Jsoup,49,Test time,37.010000000000005
+Jsoup,49,test_time_starts,32.99
+Jsoup,49,DPTT_time,0.0006666666666666666
+Jsoup,49,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,49,DPTT_time_starts,0.0003333333333333333
+Jsoup,49,DPT,5.490666666666666
+Jsoup,49,DPT_TIME,5.490666666666666
+Jsoup,49,FAST,0.38766666666666666
+Jsoup,49,fast_time_starts,0.38733333333333336
+Jsoup,49,Fastazi-S,5.496999999999999
+Jsoup,49,fastazi_s_time_starts,13.976666666666667
+Jsoup,49,FAST_T_starts,0.38733333333333336
+Jsoup,49,DPTT_ekstazi_t,5.490333333333333
+Jsoup,49,DPTT_t_starts,19.460333333333335
+Jsoup,50,Selection,5.57
+Jsoup,50,sel_time_starts,12.47
+Jsoup,50,Full prioritization,0.007333333333333333
+Jsoup,50,prio_p_time_starts,0.007333333333333334
+Jsoup,50,Sel. prioritization,0.006
+Jsoup,50,prio_s_time_starts,0.006666666666666666
+Jsoup,50,FAST preparation,0.22
+Jsoup,50,fast_prep_time_starts,0.21
+Jsoup,50,Build time,38.75
+Jsoup,50,build_time_starts,38.14
+Jsoup,50,Test time,38.160000000000004
+Jsoup,50,test_time_starts,31.03
+Jsoup,50,DPTT_time,0.0006666666666666666
+Jsoup,50,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,50,DPTT_time_starts,0.0003333333333333333
+Jsoup,50,DPT,5.570666666666667
+Jsoup,50,DPT_TIME,5.570666666666667
+Jsoup,50,FAST,0.22733333333333333
+Jsoup,50,fast_time_starts,0.21733333333333332
+Jsoup,50,Fastazi-S,5.5760000000000005
+Jsoup,50,fastazi_s_time_starts,12.476666666666667
+Jsoup,50,FAST_T_starts,0.21733333333333332
+Jsoup,50,DPTT_ekstazi_t,5.570666666666667
+Jsoup,50,DPTT_t_starts,18.040333333333336
+Jsoup,51,Selection,5.89
+Jsoup,51,sel_time_starts,12.92
+Jsoup,51,Full prioritization,0.007000000000000001
+Jsoup,51,prio_p_time_starts,0.007666666666666667
+Jsoup,51,Sel. prioritization,0.006333333333333333
+Jsoup,51,prio_s_time_starts,0.007333333333333333
+Jsoup,51,FAST preparation,0.18000000000000002
+Jsoup,51,fast_prep_time_starts,0.18
+Jsoup,51,Build time,40.78
+Jsoup,51,build_time_starts,39.69
+Jsoup,51,Test time,39.11
+Jsoup,51,test_time_starts,33.57
+Jsoup,51,DPTT_time,0.0006666666666666666
+Jsoup,51,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,51,DPTT_time_starts,0.0006666666666666666
+Jsoup,51,DPT,5.890666666666666
+Jsoup,51,DPT_TIME,5.890666666666666
+Jsoup,51,FAST,0.18700000000000003
+Jsoup,51,fast_time_starts,0.18766666666666665
+Jsoup,51,Fastazi-S,5.896333333333333
+Jsoup,51,fastazi_s_time_starts,12.927333333333333
+Jsoup,51,FAST_T_starts,0.18766666666666665
+Jsoup,51,DPTT_ekstazi_t,5.890333333333333
+Jsoup,51,DPTT_t_starts,18.810666666666666
+Jsoup,52,Selection,5.7
+Jsoup,52,sel_time_starts,13.67
+Jsoup,52,Full prioritization,0.007000000000000001
+Jsoup,52,prio_p_time_starts,0.007
+Jsoup,52,Sel. prioritization,0.006666666666666667
+Jsoup,52,prio_s_time_starts,0.007
+Jsoup,52,FAST preparation,0.46
+Jsoup,52,fast_prep_time_starts,0.46
+Jsoup,52,Build time,38.919999999999995
+Jsoup,52,build_time_starts,40.580000000000005
+Jsoup,52,Test time,37.760000000000005
+Jsoup,52,test_time_starts,32.690000000000005
+Jsoup,52,DPTT_time,0.0006666666666666666
+Jsoup,52,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,52,DPTT_time_starts,0.0006666666666666666
+Jsoup,52,DPT,5.700666666666667
+Jsoup,52,DPT_TIME,5.700666666666667
+Jsoup,52,FAST,0.467
+Jsoup,52,fast_time_starts,0.467
+Jsoup,52,Fastazi-S,5.706666666666667
+Jsoup,52,fastazi_s_time_starts,13.677
+Jsoup,52,FAST_T_starts,0.467
+Jsoup,52,DPTT_ekstazi_t,5.700333333333334
+Jsoup,52,DPTT_t_starts,19.37066666666667
+Jsoup,53,Selection,5.81
+Jsoup,53,sel_time_starts,14.299999999999999
+Jsoup,53,Full prioritization,0.007333333333333333
+Jsoup,53,prio_p_time_starts,0.007
+Jsoup,53,Sel. prioritization,0.005666666666666667
+Jsoup,53,prio_s_time_starts,0.007
+Jsoup,53,FAST preparation,0.13
+Jsoup,53,fast_prep_time_starts,0.13
+Jsoup,53,Build time,39.599999999999994
+Jsoup,53,build_time_starts,38.71
+Jsoup,53,Test time,37.09
+Jsoup,53,test_time_starts,32.73
+Jsoup,53,DPTT_time,0.0006666666666666666
+Jsoup,53,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,53,DPTT_time_starts,0.0003333333333333333
+Jsoup,53,DPT,5.810666666666666
+Jsoup,53,DPT_TIME,5.810666666666666
+Jsoup,53,FAST,0.13733333333333334
+Jsoup,53,fast_time_starts,0.137
+Jsoup,53,Fastazi-S,5.815666666666666
+Jsoup,53,fastazi_s_time_starts,14.306999999999999
+Jsoup,53,FAST_T_starts,0.137
+Jsoup,53,DPTT_ekstazi_t,5.810666666666666
+Jsoup,53,DPTT_t_starts,20.110333333333333
+Jsoup,54,Selection,5.79
+Jsoup,54,sel_time_starts,13.180000000000001
+Jsoup,54,Full prioritization,0.007666666666666667
+Jsoup,54,prio_p_time_starts,0.007333333333333333
+Jsoup,54,Sel. prioritization,0.006000000000000001
+Jsoup,54,prio_s_time_starts,0.006666666666666666
+Jsoup,54,FAST preparation,0.29000000000000004
+Jsoup,54,fast_prep_time_starts,0.30000000000000004
+Jsoup,54,Build time,40.050000000000004
+Jsoup,54,build_time_starts,44.71
+Jsoup,54,Test time,37.04
+Jsoup,54,test_time_starts,31.85
+Jsoup,54,DPTT_time,0.0006666666666666666
+Jsoup,54,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,54,DPTT_time_starts,0.0003333333333333333
+Jsoup,54,DPT,5.790666666666667
+Jsoup,54,DPT_TIME,5.790666666666667
+Jsoup,54,FAST,0.2976666666666667
+Jsoup,54,fast_time_starts,0.3073333333333334
+Jsoup,54,Fastazi-S,5.796
+Jsoup,54,fastazi_s_time_starts,13.186666666666667
+Jsoup,54,FAST_T_starts,0.3073333333333334
+Jsoup,54,DPTT_ekstazi_t,5.790333333333334
+Jsoup,54,DPTT_t_starts,18.970333333333336
+Jsoup,55,Selection,5.45
+Jsoup,55,sel_time_starts,13.02
+Jsoup,55,Full prioritization,0.007333333333333333
+Jsoup,55,prio_p_time_starts,0.007666666666666667
+Jsoup,55,Sel. prioritization,0.007000000000000001
+Jsoup,55,prio_s_time_starts,0.007333333333333333
+Jsoup,55,FAST preparation,0.56
+Jsoup,55,fast_prep_time_starts,0.55
+Jsoup,55,Build time,40.58
+Jsoup,55,build_time_starts,37.81
+Jsoup,55,Test time,38.32
+Jsoup,55,test_time_starts,35.67
+Jsoup,55,DPTT_time,0.0006666666666666666
+Jsoup,55,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,55,DPTT_time_starts,0.0006666666666666666
+Jsoup,55,DPT,5.450666666666667
+Jsoup,55,DPT_TIME,5.450666666666667
+Jsoup,55,FAST,0.5673333333333334
+Jsoup,55,fast_time_starts,0.5576666666666668
+Jsoup,55,Fastazi-S,5.457
+Jsoup,55,fastazi_s_time_starts,13.027333333333333
+Jsoup,55,FAST_T_starts,0.5576666666666668
+Jsoup,55,DPTT_ekstazi_t,5.450666666666667
+Jsoup,55,DPTT_t_starts,18.470666666666666
+Jsoup,56,Selection,5.66
+Jsoup,56,sel_time_starts,26.84
+Jsoup,56,Full prioritization,0.007333333333333334
+Jsoup,56,prio_p_time_starts,0.007333333333333333
+Jsoup,56,Sel. prioritization,0.007333333333333334
+Jsoup,56,prio_s_time_starts,0.007333333333333333
+Jsoup,56,FAST preparation,0.25
+Jsoup,56,fast_prep_time_starts,0.25
+Jsoup,56,Build time,43.949999999999996
+Jsoup,56,build_time_starts,42.129999999999995
+Jsoup,56,Test time,51.57
+Jsoup,56,test_time_starts,44.36000000000001
+Jsoup,56,DPTT_time,0.0006666666666666666
+Jsoup,56,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,56,DPTT_time_starts,0.0006666666666666666
+Jsoup,56,DPT,5.660666666666667
+Jsoup,56,DPT_TIME,5.660666666666667
+Jsoup,56,FAST,0.25733333333333336
+Jsoup,56,fast_time_starts,0.25733333333333336
+Jsoup,56,Fastazi-S,5.667333333333334
+Jsoup,56,fastazi_s_time_starts,26.84733333333333
+Jsoup,56,FAST_T_starts,0.25733333333333336
+Jsoup,56,DPTT_ekstazi_t,5.660666666666667
+Jsoup,56,DPTT_t_starts,32.50066666666667
+Jsoup,57,Selection,5.61
+Jsoup,57,sel_time_starts,26.689999999999998
+Jsoup,57,Full prioritization,0.008
+Jsoup,57,prio_p_time_starts,0.007666666666666667
+Jsoup,57,Sel. prioritization,0.006666666666666667
+Jsoup,57,prio_s_time_starts,0.006666666666666666
+Jsoup,57,FAST preparation,0.15000000000000002
+Jsoup,57,fast_prep_time_starts,0.15
+Jsoup,57,Build time,41.78
+Jsoup,57,build_time_starts,43.26
+Jsoup,57,Test time,51.65
+Jsoup,57,test_time_starts,46.349999999999994
+Jsoup,57,DPTT_time,0.0006666666666666666
+Jsoup,57,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,57,DPTT_time_starts,0.0006666666666666666
+Jsoup,57,DPT,5.610666666666667
+Jsoup,57,DPT_TIME,5.610666666666667
+Jsoup,57,FAST,0.15800000000000003
+Jsoup,57,fast_time_starts,0.15766666666666665
+Jsoup,57,Fastazi-S,5.616666666666667
+Jsoup,57,fastazi_s_time_starts,26.696666666666665
+Jsoup,57,FAST_T_starts,0.15766666666666665
+Jsoup,57,DPTT_ekstazi_t,5.610333333333334
+Jsoup,57,DPTT_t_starts,32.300666666666665
+Jsoup,58,Selection,5.8500000000000005
+Jsoup,58,sel_time_starts,25.96
+Jsoup,58,Full prioritization,0.007666666666666667
+Jsoup,58,prio_p_time_starts,0.007333333333333333
+Jsoup,58,Sel. prioritization,0.006666666666666667
+Jsoup,58,prio_s_time_starts,0.007000000000000001
+Jsoup,58,FAST preparation,0.45
+Jsoup,58,fast_prep_time_starts,0.59
+Jsoup,58,Build time,44.13
+Jsoup,58,build_time_starts,44.160000000000004
+Jsoup,58,Test time,53.339999999999996
+Jsoup,58,test_time_starts,44.18
+Jsoup,58,DPTT_time,0.0006666666666666666
+Jsoup,58,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,58,DPTT_time_starts,0.0003333333333333333
+Jsoup,58,DPT,5.850666666666667
+Jsoup,58,DPT_TIME,5.850666666666667
+Jsoup,58,FAST,0.45766666666666667
+Jsoup,58,fast_time_starts,0.5973333333333333
+Jsoup,58,Fastazi-S,5.856666666666667
+Jsoup,58,fastazi_s_time_starts,25.967000000000002
+Jsoup,58,FAST_T_starts,0.5973333333333333
+Jsoup,58,DPTT_ekstazi_t,5.850666666666667
+Jsoup,58,DPTT_t_starts,31.810333333333336
+Jsoup,59,Selection,5.55
+Jsoup,59,sel_time_starts,25.98
+Jsoup,59,Full prioritization,0.007333333333333333
+Jsoup,59,prio_p_time_starts,0.007333333333333333
+Jsoup,59,Sel. prioritization,0.006666666666666667
+Jsoup,59,prio_s_time_starts,0.007333333333333333
+Jsoup,59,FAST preparation,0.34
+Jsoup,59,fast_prep_time_starts,0.32
+Jsoup,59,Build time,41.49
+Jsoup,59,build_time_starts,44.68
+Jsoup,59,Test time,51.28
+Jsoup,59,test_time_starts,48.97
+Jsoup,59,DPTT_time,0.0003333333333333333
+Jsoup,59,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,59,DPTT_time_starts,0.0003333333333333333
+Jsoup,59,DPT,5.550333333333334
+Jsoup,59,DPT_TIME,5.550333333333334
+Jsoup,59,FAST,0.3473333333333334
+Jsoup,59,fast_time_starts,0.32733333333333337
+Jsoup,59,Fastazi-S,5.556666666666667
+Jsoup,59,fastazi_s_time_starts,25.987333333333332
+Jsoup,59,FAST_T_starts,0.32733333333333337
+Jsoup,59,DPTT_ekstazi_t,5.550333333333334
+Jsoup,59,DPTT_t_starts,31.530333333333335
+Jsoup,60,Selection,5.71
+Jsoup,60,sel_time_starts,24.87
+Jsoup,60,Full prioritization,0.007
+Jsoup,60,prio_p_time_starts,0.007333333333333333
+Jsoup,60,Sel. prioritization,0.007000000000000001
+Jsoup,60,prio_s_time_starts,0.007000000000000001
+Jsoup,60,FAST preparation,0.16999999999999998
+Jsoup,60,fast_prep_time_starts,0.19
+Jsoup,60,Build time,43.15
+Jsoup,60,build_time_starts,40.87
+Jsoup,60,Test time,49.330000000000005
+Jsoup,60,test_time_starts,44.68
+Jsoup,60,DPTT_time,0.0003333333333333333
+Jsoup,60,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,60,DPTT_time_starts,0.0003333333333333333
+Jsoup,60,DPT,5.710333333333334
+Jsoup,60,DPT_TIME,5.710333333333334
+Jsoup,60,FAST,0.177
+Jsoup,60,fast_time_starts,0.19733333333333333
+Jsoup,60,Fastazi-S,5.717
+Jsoup,60,fastazi_s_time_starts,24.877000000000002
+Jsoup,60,FAST_T_starts,0.19733333333333333
+Jsoup,60,DPTT_ekstazi_t,5.710333333333334
+Jsoup,60,DPTT_t_starts,30.580333333333336
+Jsoup,61,Selection,5.510000000000001
+Jsoup,61,sel_time_starts,25.05
+Jsoup,61,Full prioritization,0.007
+Jsoup,61,prio_p_time_starts,0.007666666666666666
+Jsoup,61,Sel. prioritization,0.006666666666666667
+Jsoup,61,prio_s_time_starts,0.007000000000000001
+Jsoup,61,FAST preparation,0.16
+Jsoup,61,fast_prep_time_starts,0.15
+Jsoup,61,Build time,44.46
+Jsoup,61,build_time_starts,45.92
+Jsoup,61,Test time,50.79
+Jsoup,61,test_time_starts,44.71
+Jsoup,61,DPTT_time,0.0006666666666666666
+Jsoup,61,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,61,DPTT_time_starts,0.0006666666666666666
+Jsoup,61,DPT,5.510666666666667
+Jsoup,61,DPT_TIME,5.510666666666667
+Jsoup,61,FAST,0.167
+Jsoup,61,fast_time_starts,0.15766666666666665
+Jsoup,61,Fastazi-S,5.5166666666666675
+Jsoup,61,fastazi_s_time_starts,25.057000000000002
+Jsoup,61,FAST_T_starts,0.15766666666666665
+Jsoup,61,DPTT_ekstazi_t,5.510666666666667
+Jsoup,61,DPTT_t_starts,30.56066666666667
+Jsoup,62,Selection,6.090000000000001
+Jsoup,62,sel_time_starts,24.779999999999998
+Jsoup,62,Full prioritization,0.007666666666666666
+Jsoup,62,prio_p_time_starts,0.007
+Jsoup,62,Sel. prioritization,0.006666666666666667
+Jsoup,62,prio_s_time_starts,0.009000000000000001
+Jsoup,62,FAST preparation,0.42000000000000004
+Jsoup,62,fast_prep_time_starts,0.43
+Jsoup,62,Build time,42.98
+Jsoup,62,build_time_starts,46.95
+Jsoup,62,Test time,51.199999999999996
+Jsoup,62,test_time_starts,45.54
+Jsoup,62,DPTT_time,0.0006666666666666666
+Jsoup,62,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,62,DPTT_time_starts,0.0003333333333333333
+Jsoup,62,DPT,6.090666666666667
+Jsoup,62,DPT_TIME,6.090666666666667
+Jsoup,62,FAST,0.4276666666666667
+Jsoup,62,fast_time_starts,0.437
+Jsoup,62,Fastazi-S,6.096666666666668
+Jsoup,62,fastazi_s_time_starts,24.788999999999998
+Jsoup,62,FAST_T_starts,0.437
+Jsoup,62,DPTT_ekstazi_t,6.0903333333333345
+Jsoup,62,DPTT_t_starts,30.87033333333333
+Jsoup,63,Selection,5.7
+Jsoup,63,sel_time_starts,25.54
+Jsoup,63,Full prioritization,0.007666666666666667
+Jsoup,63,prio_p_time_starts,0.007
+Jsoup,63,Sel. prioritization,0.007666666666666667
+Jsoup,63,prio_s_time_starts,0.006666666666666666
+Jsoup,63,FAST preparation,0.58
+Jsoup,63,fast_prep_time_starts,0.56
+Jsoup,63,Build time,46.14
+Jsoup,63,build_time_starts,46.09
+Jsoup,63,Test time,52.73
+Jsoup,63,test_time_starts,47.96
+Jsoup,63,DPTT_time,0.0003333333333333333
+Jsoup,63,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,63,DPTT_time_starts,0.0003333333333333333
+Jsoup,63,DPT,5.700333333333334
+Jsoup,63,DPT_TIME,5.700333333333334
+Jsoup,63,FAST,0.5876666666666667
+Jsoup,63,fast_time_starts,0.5670000000000001
+Jsoup,63,Fastazi-S,5.707666666666666
+Jsoup,63,fastazi_s_time_starts,25.546666666666667
+Jsoup,63,FAST_T_starts,0.5670000000000001
+Jsoup,63,DPTT_ekstazi_t,5.700666666666667
+Jsoup,63,DPTT_t_starts,31.240333333333332
+Jsoup,64,Selection,5.63
+Jsoup,64,sel_time_starts,27.35
+Jsoup,64,Full prioritization,0.007333333333333333
+Jsoup,64,prio_p_time_starts,0.007
+Jsoup,64,Sel. prioritization,0.006333333333333333
+Jsoup,64,prio_s_time_starts,0.007000000000000001
+Jsoup,64,FAST preparation,0.2
+Jsoup,64,fast_prep_time_starts,0.2
+Jsoup,64,Build time,44.19
+Jsoup,64,build_time_starts,45.160000000000004
+Jsoup,64,Test time,53.51
+Jsoup,64,test_time_starts,47.58
+Jsoup,64,DPTT_time,0.0003333333333333333
+Jsoup,64,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,64,DPTT_time_starts,0.0003333333333333333
+Jsoup,64,DPT,5.630333333333334
+Jsoup,64,DPT_TIME,5.630333333333334
+Jsoup,64,FAST,0.20733333333333334
+Jsoup,64,fast_time_starts,0.20700000000000002
+Jsoup,64,Fastazi-S,5.636333333333333
+Jsoup,64,fastazi_s_time_starts,27.357000000000003
+Jsoup,64,FAST_T_starts,0.20700000000000002
+Jsoup,64,DPTT_ekstazi_t,5.6306666666666665
+Jsoup,64,DPTT_t_starts,32.980333333333334
+Jsoup,65,Selection,5.420000000000001
+Jsoup,65,sel_time_starts,27.97
+Jsoup,65,Full prioritization,0.007333333333333333
+Jsoup,65,prio_p_time_starts,0.007
+Jsoup,65,Sel. prioritization,0.007333333333333334
+Jsoup,65,prio_s_time_starts,0.007
+Jsoup,65,FAST preparation,0.53
+Jsoup,65,fast_prep_time_starts,0.54
+Jsoup,65,Build time,45.85
+Jsoup,65,build_time_starts,45.15
+Jsoup,65,Test time,53.81999999999999
+Jsoup,65,test_time_starts,58.160000000000004
+Jsoup,65,DPTT_time,0.0006666666666666666
+Jsoup,65,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,65,DPTT_time_starts,0.0006666666666666666
+Jsoup,65,DPT,5.420666666666667
+Jsoup,65,DPT_TIME,5.420666666666667
+Jsoup,65,FAST,0.5373333333333333
+Jsoup,65,fast_time_starts,0.547
+Jsoup,65,Fastazi-S,5.427333333333334
+Jsoup,65,fastazi_s_time_starts,27.977
+Jsoup,65,FAST_T_starts,0.547
+Jsoup,65,DPTT_ekstazi_t,5.420333333333335
+Jsoup,65,DPTT_t_starts,33.39066666666667
+Jsoup,66,Selection,5.6
+Jsoup,66,sel_time_starts,26.580000000000002
+Jsoup,66,Full prioritization,0.007333333333333333
+Jsoup,66,prio_p_time_starts,0.007000000000000001
+Jsoup,66,Sel. prioritization,0.007
+Jsoup,66,prio_s_time_starts,0.007
+Jsoup,66,FAST preparation,0.42
+Jsoup,66,fast_prep_time_starts,0.42
+Jsoup,66,Build time,48.54
+Jsoup,66,build_time_starts,47.309999999999995
+Jsoup,66,Test time,54.120000000000005
+Jsoup,66,test_time_starts,53.68
+Jsoup,66,DPTT_time,0.0006666666666666666
+Jsoup,66,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,66,DPTT_time_starts,0.0006666666666666666
+Jsoup,66,DPT,5.600666666666666
+Jsoup,66,DPT_TIME,5.600666666666666
+Jsoup,66,FAST,0.42733333333333334
+Jsoup,66,fast_time_starts,0.427
+Jsoup,66,Fastazi-S,5.606999999999999
+Jsoup,66,fastazi_s_time_starts,26.587000000000003
+Jsoup,66,FAST_T_starts,0.427
+Jsoup,66,DPTT_ekstazi_t,5.600333333333333
+Jsoup,66,DPTT_t_starts,32.18066666666667
+Jsoup,67,Selection,5.54
+Jsoup,67,sel_time_starts,26.0
+Jsoup,67,Full prioritization,0.008333333333333333
+Jsoup,67,prio_p_time_starts,0.008333333333333333
+Jsoup,67,Sel. prioritization,0.007333333333333334
+Jsoup,67,prio_s_time_starts,0.007666666666666667
+Jsoup,67,FAST preparation,0.36
+Jsoup,67,fast_prep_time_starts,0.36
+Jsoup,67,Build time,46.19
+Jsoup,67,build_time_starts,45.36
+Jsoup,67,Test time,58.370000000000005
+Jsoup,67,test_time_starts,50.04
+Jsoup,67,DPTT_time,0.0003333333333333333
+Jsoup,67,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,67,DPTT_time_starts,0.0003333333333333333
+Jsoup,67,DPT,5.540333333333334
+Jsoup,67,DPT_TIME,5.540333333333334
+Jsoup,67,FAST,0.36833333333333335
+Jsoup,67,fast_time_starts,0.36833333333333335
+Jsoup,67,Fastazi-S,5.5473333333333334
+Jsoup,67,fastazi_s_time_starts,26.007666666666665
+Jsoup,67,FAST_T_starts,0.36833333333333335
+Jsoup,67,DPTT_ekstazi_t,5.540666666666667
+Jsoup,67,DPTT_t_starts,31.540333333333333
+Jsoup,68,Selection,5.64
+Jsoup,68,sel_time_starts,26.58
+Jsoup,68,Full prioritization,0.008333333333333333
+Jsoup,68,prio_p_time_starts,0.008
+Jsoup,68,Sel. prioritization,0.007666666666666666
+Jsoup,68,prio_s_time_starts,0.008
+Jsoup,68,FAST preparation,0.46
+Jsoup,68,fast_prep_time_starts,0.48
+Jsoup,68,Build time,46.86
+Jsoup,68,build_time_starts,44.15
+Jsoup,68,Test time,54.8
+Jsoup,68,test_time_starts,47.42
+Jsoup,68,DPTT_time,0.0006666666666666666
+Jsoup,68,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,68,DPTT_time_starts,0.0003333333333333333
+Jsoup,68,DPT,5.640666666666666
+Jsoup,68,DPT_TIME,5.640666666666666
+Jsoup,68,FAST,0.4683333333333334
+Jsoup,68,fast_time_starts,0.488
+Jsoup,68,Fastazi-S,5.647666666666666
+Jsoup,68,fastazi_s_time_starts,26.587999999999997
+Jsoup,68,FAST_T_starts,0.488
+Jsoup,68,DPTT_ekstazi_t,5.640666666666666
+Jsoup,68,DPTT_t_starts,32.22033333333333
+Jsoup,69,Selection,5.78
+Jsoup,69,sel_time_starts,25.18
+Jsoup,69,Full prioritization,0.009333333333333334
+Jsoup,69,prio_p_time_starts,0.008666666666666666
+Jsoup,69,Sel. prioritization,0.006666666666666667
+Jsoup,69,prio_s_time_starts,0.008333333333333333
+Jsoup,69,FAST preparation,0.14
+Jsoup,69,fast_prep_time_starts,0.14
+Jsoup,69,Build time,45.29
+Jsoup,69,build_time_starts,45.25
+Jsoup,69,Test time,56.64
+Jsoup,69,test_time_starts,50.5
+Jsoup,69,DPTT_time,0.0006666666666666666
+Jsoup,69,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,69,DPTT_time_starts,0.0006666666666666666
+Jsoup,69,DPT,5.780666666666667
+Jsoup,69,DPT_TIME,5.780666666666667
+Jsoup,69,FAST,0.14933333333333335
+Jsoup,69,fast_time_starts,0.14866666666666667
+Jsoup,69,Fastazi-S,5.786666666666667
+Jsoup,69,fastazi_s_time_starts,25.188333333333333
+Jsoup,69,FAST_T_starts,0.14866666666666667
+Jsoup,69,DPTT_ekstazi_t,5.780333333333334
+Jsoup,69,DPTT_t_starts,30.96066666666667
+Jsoup,70,Selection,5.7700000000000005
+Jsoup,70,sel_time_starts,26.529999999999998
+Jsoup,70,Full prioritization,0.009333333333333332
+Jsoup,70,prio_p_time_starts,0.008666666666666666
+Jsoup,70,Sel. prioritization,0.006666666666666666
+Jsoup,70,prio_s_time_starts,0.008333333333333333
+Jsoup,70,FAST preparation,0.2
+Jsoup,70,fast_prep_time_starts,0.22
+Jsoup,70,Build time,43.779999999999994
+Jsoup,70,build_time_starts,43.300000000000004
+Jsoup,70,Test time,57.910000000000004
+Jsoup,70,test_time_starts,51.49
+Jsoup,70,DPTT_time,0.0006666666666666666
+Jsoup,70,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,70,DPTT_time_starts,0.0003333333333333333
+Jsoup,70,DPT,5.770666666666667
+Jsoup,70,DPT_TIME,5.770666666666667
+Jsoup,70,FAST,0.20933333333333334
+Jsoup,70,fast_time_starts,0.22866666666666666
+Jsoup,70,Fastazi-S,5.776666666666667
+Jsoup,70,fastazi_s_time_starts,26.53833333333333
+Jsoup,70,FAST_T_starts,0.22866666666666666
+Jsoup,70,DPTT_ekstazi_t,5.770666666666667
+Jsoup,70,DPTT_t_starts,32.300333333333334
+Jsoup,71,Selection,6.13
+Jsoup,71,sel_time_starts,26.28
+Jsoup,71,Full prioritization,0.009000000000000001
+Jsoup,71,prio_p_time_starts,0.009333333333333332
+Jsoup,71,Sel. prioritization,0.006333333333333333
+Jsoup,71,prio_s_time_starts,0.008666666666666666
+Jsoup,71,FAST preparation,0.12
+Jsoup,71,fast_prep_time_starts,0.13
+Jsoup,71,Build time,45.25
+Jsoup,71,build_time_starts,45.580000000000005
+Jsoup,71,Test time,56.959999999999994
+Jsoup,71,test_time_starts,51.31
+Jsoup,71,DPTT_time,0.0003333333333333333
+Jsoup,71,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,71,DPTT_time_starts,0.0003333333333333333
+Jsoup,71,DPT,6.130333333333334
+Jsoup,71,DPT_TIME,6.130333333333334
+Jsoup,71,FAST,0.129
+Jsoup,71,fast_time_starts,0.13933333333333334
+Jsoup,71,Fastazi-S,6.136333333333333
+Jsoup,71,fastazi_s_time_starts,26.288666666666668
+Jsoup,71,FAST_T_starts,0.13933333333333334
+Jsoup,71,DPTT_ekstazi_t,6.1306666666666665
+Jsoup,71,DPTT_t_starts,32.410333333333334
+Jsoup,72,Selection,6.35
+Jsoup,72,sel_time_starts,26.91
+Jsoup,72,Full prioritization,0.009666666666666665
+Jsoup,72,prio_p_time_starts,0.009333333333333334
+Jsoup,72,Sel. prioritization,0.007
+Jsoup,72,prio_s_time_starts,0.008
+Jsoup,72,FAST preparation,0.29000000000000004
+Jsoup,72,fast_prep_time_starts,0.29000000000000004
+Jsoup,72,Build time,44.53
+Jsoup,72,build_time_starts,41.85
+Jsoup,72,Test time,57.239999999999995
+Jsoup,72,test_time_starts,53.28
+Jsoup,72,DPTT_time,0.0006666666666666666
+Jsoup,72,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,72,DPTT_time_starts,0.0003333333333333333
+Jsoup,72,DPT,6.350666666666666
+Jsoup,72,DPT_TIME,6.350666666666666
+Jsoup,72,FAST,0.2996666666666667
+Jsoup,72,fast_time_starts,0.2993333333333334
+Jsoup,72,Fastazi-S,6.356999999999999
+Jsoup,72,fastazi_s_time_starts,26.918
+Jsoup,72,FAST_T_starts,0.2993333333333334
+Jsoup,72,DPTT_ekstazi_t,6.350666666666666
+Jsoup,72,DPTT_t_starts,33.260333333333335
+Jsoup,73,Selection,6.0
+Jsoup,73,sel_time_starts,26.86
+Jsoup,73,Full prioritization,0.009333333333333334
+Jsoup,73,prio_p_time_starts,0.009000000000000001
+Jsoup,73,Sel. prioritization,0.007
+Jsoup,73,prio_s_time_starts,0.008333333333333333
+Jsoup,73,FAST preparation,0.15
+Jsoup,73,fast_prep_time_starts,0.17
+Jsoup,73,Build time,48.9
+Jsoup,73,build_time_starts,43.620000000000005
+Jsoup,73,Test time,59.61000000000001
+Jsoup,73,test_time_starts,55.62
+Jsoup,73,DPTT_time,0.0003333333333333333
+Jsoup,73,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,73,DPTT_time_starts,0.0003333333333333333
+Jsoup,73,DPT,6.000333333333334
+Jsoup,73,DPT_TIME,6.000333333333334
+Jsoup,73,FAST,0.15933333333333333
+Jsoup,73,fast_time_starts,0.17900000000000002
+Jsoup,73,Fastazi-S,6.007
+Jsoup,73,fastazi_s_time_starts,26.868333333333332
+Jsoup,73,FAST_T_starts,0.17900000000000002
+Jsoup,73,DPTT_ekstazi_t,6.000666666666667
+Jsoup,73,DPTT_t_starts,32.86033333333333
+Jsoup,74,Selection,6.08
+Jsoup,74,sel_time_starts,27.75
+Jsoup,74,Full prioritization,0.009333333333333334
+Jsoup,74,prio_p_time_starts,0.009333333333333332
+Jsoup,74,Sel. prioritization,0.006666666666666667
+Jsoup,74,prio_s_time_starts,0.008666666666666666
+Jsoup,74,FAST preparation,0.18
+Jsoup,74,fast_prep_time_starts,0.17
+Jsoup,74,Build time,45.879999999999995
+Jsoup,74,build_time_starts,46.34
+Jsoup,74,Test time,58.72
+Jsoup,74,test_time_starts,58.589999999999996
+Jsoup,74,DPTT_time,0.0003333333333333333
+Jsoup,74,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,74,DPTT_time_starts,0.0006666666666666666
+Jsoup,74,DPT,6.080333333333334
+Jsoup,74,DPT_TIME,6.080333333333334
+Jsoup,74,FAST,0.18933333333333333
+Jsoup,74,fast_time_starts,0.17933333333333334
+Jsoup,74,Fastazi-S,6.086666666666667
+Jsoup,74,fastazi_s_time_starts,27.758666666666667
+Jsoup,74,FAST_T_starts,0.17933333333333334
+Jsoup,74,DPTT_ekstazi_t,6.080666666666667
+Jsoup,74,DPTT_t_starts,33.830666666666666
+Jsoup,75,Selection,5.73
+Jsoup,75,sel_time_starts,27.340000000000003
+Jsoup,75,Full prioritization,0.009333333333333334
+Jsoup,75,prio_p_time_starts,0.009333333333333334
+Jsoup,75,Sel. prioritization,0.008333333333333333
+Jsoup,75,prio_s_time_starts,0.008666666666666666
+Jsoup,75,FAST preparation,0.42
+Jsoup,75,fast_prep_time_starts,0.42
+Jsoup,75,Build time,46.699999999999996
+Jsoup,75,build_time_starts,46.23
+Jsoup,75,Test time,56.26
+Jsoup,75,test_time_starts,50.83
+Jsoup,75,DPTT_time,0.0003333333333333333
+Jsoup,75,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,75,DPTT_time_starts,0.0006666666666666666
+Jsoup,75,DPT,5.730333333333334
+Jsoup,75,DPT_TIME,5.730333333333334
+Jsoup,75,FAST,0.42933333333333334
+Jsoup,75,fast_time_starts,0.42933333333333334
+Jsoup,75,Fastazi-S,5.738333333333334
+Jsoup,75,fastazi_s_time_starts,27.34866666666667
+Jsoup,75,FAST_T_starts,0.42933333333333334
+Jsoup,75,DPTT_ekstazi_t,5.730333333333334
+Jsoup,75,DPTT_t_starts,33.07066666666667
+Jsoup,76,Selection,6.1
+Jsoup,76,sel_time_starts,26.92
+Jsoup,76,Full prioritization,0.009666666666666667
+Jsoup,76,prio_p_time_starts,0.009333333333333334
+Jsoup,76,Sel. prioritization,0.006666666666666667
+Jsoup,76,prio_s_time_starts,0.008333333333333333
+Jsoup,76,FAST preparation,0.32
+Jsoup,76,fast_prep_time_starts,0.35
+Jsoup,76,Build time,44.68
+Jsoup,76,build_time_starts,44.55
+Jsoup,76,Test time,59.77
+Jsoup,76,test_time_starts,50.78
+Jsoup,76,DPTT_time,0.0006666666666666666
+Jsoup,76,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,76,DPTT_time_starts,0.0006666666666666666
+Jsoup,76,DPT,6.100666666666666
+Jsoup,76,DPT_TIME,6.100666666666666
+Jsoup,76,FAST,0.32966666666666666
+Jsoup,76,fast_time_starts,0.35933333333333334
+Jsoup,76,Fastazi-S,6.1066666666666665
+Jsoup,76,fastazi_s_time_starts,26.928333333333335
+Jsoup,76,FAST_T_starts,0.35933333333333334
+Jsoup,76,DPTT_ekstazi_t,6.100333333333333
+Jsoup,76,DPTT_t_starts,33.02066666666667
+Jsoup,77,Selection,5.97
+Jsoup,77,sel_time_starts,26.7
+Jsoup,77,Full prioritization,0.009666666666666667
+Jsoup,77,prio_p_time_starts,0.009000000000000001
+Jsoup,77,Sel. prioritization,0.007
+Jsoup,77,prio_s_time_starts,0.009000000000000001
+Jsoup,77,FAST preparation,0.26
+Jsoup,77,fast_prep_time_starts,0.26
+Jsoup,77,Build time,45.51
+Jsoup,77,build_time_starts,46.53
+Jsoup,77,Test time,59.480000000000004
+Jsoup,77,test_time_starts,58.230000000000004
+Jsoup,77,DPTT_time,0.0006666666666666666
+Jsoup,77,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,77,DPTT_time_starts,0.0003333333333333333
+Jsoup,77,DPT,5.970666666666666
+Jsoup,77,DPT_TIME,5.970666666666666
+Jsoup,77,FAST,0.26966666666666667
+Jsoup,77,fast_time_starts,0.269
+Jsoup,77,Fastazi-S,5.976999999999999
+Jsoup,77,fastazi_s_time_starts,26.709
+Jsoup,77,FAST_T_starts,0.269
+Jsoup,77,DPTT_ekstazi_t,5.9703333333333335
+Jsoup,77,DPTT_t_starts,32.67033333333333
+Jsoup,78,Selection,5.97
+Jsoup,78,sel_time_starts,27.26
+Jsoup,78,Full prioritization,0.009666666666666665
+Jsoup,78,prio_p_time_starts,0.009000000000000001
+Jsoup,78,Sel. prioritization,0.007666666666666667
+Jsoup,78,prio_s_time_starts,0.009000000000000001
+Jsoup,78,FAST preparation,0.17
+Jsoup,78,fast_prep_time_starts,0.16
+Jsoup,78,Build time,47.8
+Jsoup,78,build_time_starts,45.95
+Jsoup,78,Test time,60.91
+Jsoup,78,test_time_starts,50.25
+Jsoup,78,DPTT_time,0.0006666666666666666
+Jsoup,78,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,78,DPTT_time_starts,0.0003333333333333333
+Jsoup,78,DPT,5.970666666666666
+Jsoup,78,DPT_TIME,5.970666666666666
+Jsoup,78,FAST,0.17966666666666667
+Jsoup,78,fast_time_starts,0.169
+Jsoup,78,Fastazi-S,5.977666666666666
+Jsoup,78,fastazi_s_time_starts,27.269000000000002
+Jsoup,78,FAST_T_starts,0.169
+Jsoup,78,DPTT_ekstazi_t,5.9703333333333335
+Jsoup,78,DPTT_t_starts,33.230333333333334
+Jsoup,79,Selection,6.01
+Jsoup,79,sel_time_starts,26.22
+Jsoup,79,Full prioritization,0.009333333333333334
+Jsoup,79,prio_p_time_starts,0.009000000000000001
+Jsoup,79,Sel. prioritization,0.006666666666666666
+Jsoup,79,prio_s_time_starts,0.008666666666666666
+Jsoup,79,FAST preparation,0.06999999999999999
+Jsoup,79,fast_prep_time_starts,0.07
+Jsoup,79,Build time,46.76
+Jsoup,79,build_time_starts,46.97
+Jsoup,79,Test time,61.21
+Jsoup,79,test_time_starts,50.41
+Jsoup,79,DPTT_time,0.0006666666666666666
+Jsoup,79,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,79,DPTT_time_starts,0.0003333333333333333
+Jsoup,79,DPT,6.010666666666666
+Jsoup,79,DPT_TIME,6.010666666666666
+Jsoup,79,FAST,0.07933333333333333
+Jsoup,79,fast_time_starts,0.07900000000000001
+Jsoup,79,Fastazi-S,6.016666666666667
+Jsoup,79,fastazi_s_time_starts,26.228666666666665
+Jsoup,79,FAST_T_starts,0.07900000000000001
+Jsoup,79,DPTT_ekstazi_t,6.010666666666666
+Jsoup,79,DPTT_t_starts,32.230333333333334
+Jsoup,80,Selection,5.75
+Jsoup,80,sel_time_starts,26.07
+Jsoup,80,Full prioritization,0.009333333333333334
+Jsoup,80,prio_p_time_starts,0.009000000000000001
+Jsoup,80,Sel. prioritization,0.006666666666666667
+Jsoup,80,prio_s_time_starts,0.008666666666666666
+Jsoup,80,FAST preparation,0.27
+Jsoup,80,fast_prep_time_starts,0.29000000000000004
+Jsoup,80,Build time,44.45
+Jsoup,80,build_time_starts,44.28
+Jsoup,80,Test time,57.0
+Jsoup,80,test_time_starts,49.5
+Jsoup,80,DPTT_time,0.0006666666666666666
+Jsoup,80,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,80,DPTT_time_starts,0.0003333333333333333
+Jsoup,80,DPT,5.750666666666667
+Jsoup,80,DPT_TIME,5.750666666666667
+Jsoup,80,FAST,0.2793333333333334
+Jsoup,80,fast_time_starts,0.29900000000000004
+Jsoup,80,Fastazi-S,5.756666666666667
+Jsoup,80,fastazi_s_time_starts,26.078666666666667
+Jsoup,80,FAST_T_starts,0.29900000000000004
+Jsoup,80,DPTT_ekstazi_t,5.750333333333334
+Jsoup,80,DPTT_t_starts,31.820333333333334
+Jsoup,81,Selection,5.51
+Jsoup,81,sel_time_starts,26.7
+Jsoup,81,Full prioritization,0.009000000000000001
+Jsoup,81,prio_p_time_starts,0.009333333333333334
+Jsoup,81,Sel. prioritization,0.008
+Jsoup,81,prio_s_time_starts,0.008666666666666666
+Jsoup,81,FAST preparation,0.51
+Jsoup,81,fast_prep_time_starts,0.51
+Jsoup,81,Build time,47.27
+Jsoup,81,build_time_starts,45.61
+Jsoup,81,Test time,55.26
+Jsoup,81,test_time_starts,54.25
+Jsoup,81,DPTT_time,0.0006666666666666666
+Jsoup,81,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,81,DPTT_time_starts,0.0003333333333333333
+Jsoup,81,DPT,5.510666666666666
+Jsoup,81,DPT_TIME,5.510666666666666
+Jsoup,81,FAST,0.519
+Jsoup,81,fast_time_starts,0.5193333333333333
+Jsoup,81,Fastazi-S,5.518
+Jsoup,81,fastazi_s_time_starts,26.708666666666666
+Jsoup,81,FAST_T_starts,0.5193333333333333
+Jsoup,81,DPTT_ekstazi_t,5.510666666666666
+Jsoup,81,DPTT_t_starts,32.21033333333333
+Jsoup,82,Selection,6.069999999999999
+Jsoup,82,sel_time_starts,25.95
+Jsoup,82,Full prioritization,0.009000000000000001
+Jsoup,82,prio_p_time_starts,0.009666666666666667
+Jsoup,82,Sel. prioritization,0.007666666666666667
+Jsoup,82,prio_s_time_starts,0.008666666666666666
+Jsoup,82,FAST preparation,0.27
+Jsoup,82,fast_prep_time_starts,0.28
+Jsoup,82,Build time,47.87
+Jsoup,82,build_time_starts,45.519999999999996
+Jsoup,82,Test time,59.64
+Jsoup,82,test_time_starts,52.92
+Jsoup,82,DPTT_time,0.0006666666666666666
+Jsoup,82,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,82,DPTT_time_starts,0.0003333333333333333
+Jsoup,82,DPT,6.070666666666666
+Jsoup,82,DPT_TIME,6.070666666666666
+Jsoup,82,FAST,0.279
+Jsoup,82,fast_time_starts,0.2896666666666667
+Jsoup,82,Fastazi-S,6.077666666666666
+Jsoup,82,fastazi_s_time_starts,25.958666666666666
+Jsoup,82,FAST_T_starts,0.2896666666666667
+Jsoup,82,DPTT_ekstazi_t,6.070666666666666
+Jsoup,82,DPTT_t_starts,32.02033333333333
+Jsoup,83,Selection,5.79
+Jsoup,83,sel_time_starts,25.64
+Jsoup,83,Full prioritization,0.009000000000000001
+Jsoup,83,prio_p_time_starts,0.009666666666666667
+Jsoup,83,Sel. prioritization,0.007
+Jsoup,83,prio_s_time_starts,0.009333333333333334
+Jsoup,83,FAST preparation,0.24
+Jsoup,83,fast_prep_time_starts,0.25
+Jsoup,83,Build time,43.72
+Jsoup,83,build_time_starts,44.35
+Jsoup,83,Test time,59.36
+Jsoup,83,test_time_starts,51.94
+Jsoup,83,DPTT_time,0.0006666666666666666
+Jsoup,83,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,83,DPTT_time_starts,0.0006666666666666666
+Jsoup,83,DPT,5.790666666666667
+Jsoup,83,DPT_TIME,5.790666666666667
+Jsoup,83,FAST,0.249
+Jsoup,83,fast_time_starts,0.25966666666666666
+Jsoup,83,Fastazi-S,5.797
+Jsoup,83,fastazi_s_time_starts,25.649333333333335
+Jsoup,83,FAST_T_starts,0.25966666666666666
+Jsoup,83,DPTT_ekstazi_t,5.790333333333334
+Jsoup,83,DPTT_t_starts,31.430666666666667
+Jsoup,84,Selection,6.390000000000001
+Jsoup,84,sel_time_starts,27.58
+Jsoup,84,Full prioritization,0.008666666666666666
+Jsoup,84,prio_p_time_starts,0.009333333333333334
+Jsoup,84,Sel. prioritization,0.0033333333333333335
+Jsoup,84,prio_s_time_starts,0.0033333333333333335
+Jsoup,84,FAST preparation,0.23
+Jsoup,84,fast_prep_time_starts,0.24000000000000002
+Jsoup,84,Build time,46.79
+Jsoup,84,build_time_starts,46.05
+Jsoup,84,Test time,54.65
+Jsoup,84,test_time_starts,50.339999999999996
+Jsoup,84,DPTT_time,0.0006666666666666666
+Jsoup,84,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,84,DPTT_time_starts,0.0003333333333333333
+Jsoup,84,DPT,6.390666666666667
+Jsoup,84,DPT_TIME,6.390666666666667
+Jsoup,84,FAST,0.23866666666666667
+Jsoup,84,fast_time_starts,0.24933333333333335
+Jsoup,84,Fastazi-S,6.3933333333333335
+Jsoup,84,fastazi_s_time_starts,27.583333333333332
+Jsoup,84,FAST_T_starts,0.24933333333333335
+Jsoup,84,DPTT_ekstazi_t,6.390333333333334
+Jsoup,84,DPTT_t_starts,33.97033333333333
+Jsoup,85,Selection,5.57
+Jsoup,85,sel_time_starts,26.5
+Jsoup,85,Full prioritization,0.009333333333333334
+Jsoup,85,prio_p_time_starts,0.009333333333333334
+Jsoup,85,Sel. prioritization,0.009000000000000001
+Jsoup,85,prio_s_time_starts,0.009333333333333334
+Jsoup,85,FAST preparation,0.56
+Jsoup,85,fast_prep_time_starts,0.58
+Jsoup,85,Build time,46.76
+Jsoup,85,build_time_starts,46.32
+Jsoup,85,Test time,60.900000000000006
+Jsoup,85,test_time_starts,51.08
+Jsoup,85,DPTT_time,0.0006666666666666666
+Jsoup,85,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,85,DPTT_time_starts,0.0003333333333333333
+Jsoup,85,DPT,5.570666666666667
+Jsoup,85,DPT_TIME,5.570666666666667
+Jsoup,85,FAST,0.5693333333333334
+Jsoup,85,fast_time_starts,0.5893333333333333
+Jsoup,85,Fastazi-S,5.579000000000001
+Jsoup,85,fastazi_s_time_starts,26.509333333333334
+Jsoup,85,FAST_T_starts,0.5893333333333333
+Jsoup,85,DPTT_ekstazi_t,5.570333333333334
+Jsoup,85,DPTT_t_starts,32.07033333333334
+Jsoup,86,Selection,6.5
+Jsoup,86,sel_time_starts,27.72
+Jsoup,86,Full prioritization,0.01
+Jsoup,86,prio_p_time_starts,0.009000000000000001
+Jsoup,86,Sel. prioritization,0.005333333333333333
+Jsoup,86,prio_s_time_starts,0.008666666666666666
+Jsoup,86,FAST preparation,0.28
+Jsoup,86,fast_prep_time_starts,0.28
+Jsoup,86,Build time,47.68
+Jsoup,86,build_time_starts,44.73
+Jsoup,86,Test time,53.87
+Jsoup,86,test_time_starts,48.6
+Jsoup,86,DPTT_time,0.0006666666666666666
+Jsoup,86,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,86,DPTT_time_starts,0.0003333333333333333
+Jsoup,86,DPT,6.500666666666667
+Jsoup,86,DPT_TIME,6.500666666666667
+Jsoup,86,FAST,0.29000000000000004
+Jsoup,86,fast_time_starts,0.28900000000000003
+Jsoup,86,Fastazi-S,6.505333333333334
+Jsoup,86,fastazi_s_time_starts,27.728666666666665
+Jsoup,86,FAST_T_starts,0.28900000000000003
+Jsoup,86,DPTT_ekstazi_t,6.500666666666667
+Jsoup,86,DPTT_t_starts,34.22033333333333
+Jsoup,87,Selection,5.7
+Jsoup,87,sel_time_starts,25.82
+Jsoup,87,Full prioritization,0.010000000000000002
+Jsoup,87,prio_p_time_starts,0.009666666666666667
+Jsoup,87,Sel. prioritization,0.008
+Jsoup,87,prio_s_time_starts,0.009000000000000001
+Jsoup,87,FAST preparation,0.22
+Jsoup,87,fast_prep_time_starts,0.25
+Jsoup,87,Build time,45.129999999999995
+Jsoup,87,build_time_starts,45.980000000000004
+Jsoup,87,Test time,58.18
+Jsoup,87,test_time_starts,49.160000000000004
+Jsoup,87,DPTT_time,0.0006666666666666666
+Jsoup,87,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,87,DPTT_time_starts,0.0003333333333333333
+Jsoup,87,DPT,5.700666666666667
+Jsoup,87,DPT_TIME,5.700666666666667
+Jsoup,87,FAST,0.23
+Jsoup,87,fast_time_starts,0.25966666666666666
+Jsoup,87,Fastazi-S,5.708
+Jsoup,87,fastazi_s_time_starts,25.829
+Jsoup,87,FAST_T_starts,0.25966666666666666
+Jsoup,87,DPTT_ekstazi_t,5.700666666666667
+Jsoup,87,DPTT_t_starts,31.520333333333333
+Jsoup,88,Selection,5.99
+Jsoup,88,sel_time_starts,26.060000000000002
+Jsoup,88,Full prioritization,0.009666666666666665
+Jsoup,88,prio_p_time_starts,0.009666666666666667
+Jsoup,88,Sel. prioritization,0.008333333333333333
+Jsoup,88,prio_s_time_starts,0.009333333333333334
+Jsoup,88,FAST preparation,0.25
+Jsoup,88,fast_prep_time_starts,0.26
+Jsoup,88,Build time,50.07
+Jsoup,88,build_time_starts,45.43
+Jsoup,88,Test time,59.03
+Jsoup,88,test_time_starts,49.730000000000004
+Jsoup,88,DPTT_time,0.0003333333333333333
+Jsoup,88,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,88,DPTT_time_starts,0.0006666666666666666
+Jsoup,88,DPT,5.990333333333334
+Jsoup,88,DPT_TIME,5.990333333333334
+Jsoup,88,FAST,0.25966666666666666
+Jsoup,88,fast_time_starts,0.26966666666666667
+Jsoup,88,Fastazi-S,5.998333333333334
+Jsoup,88,fastazi_s_time_starts,26.069333333333336
+Jsoup,88,FAST_T_starts,0.26966666666666667
+Jsoup,88,DPTT_ekstazi_t,5.990666666666667
+Jsoup,88,DPTT_t_starts,32.05066666666667
+Jsoup,89,Selection,6.36
+Jsoup,89,sel_time_starts,26.78
+Jsoup,89,Full prioritization,0.009666666666666665
+Jsoup,89,prio_p_time_starts,0.009666666666666667
+Jsoup,89,Sel. prioritization,0.006000000000000001
+Jsoup,89,prio_s_time_starts,0.009000000000000001
+Jsoup,89,FAST preparation,0.060000000000000005
+Jsoup,89,fast_prep_time_starts,0.06999999999999999
+Jsoup,89,Build time,44.71
+Jsoup,89,build_time_starts,45.0
+Jsoup,89,Test time,53.160000000000004
+Jsoup,89,test_time_starts,47.21
+Jsoup,89,DPTT_time,0.0006666666666666666
+Jsoup,89,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,89,DPTT_time_starts,0.0003333333333333333
+Jsoup,89,DPT,6.360666666666667
+Jsoup,89,DPT_TIME,6.360666666666667
+Jsoup,89,FAST,0.06966666666666667
+Jsoup,89,fast_time_starts,0.07966666666666666
+Jsoup,89,Fastazi-S,6.3660000000000005
+Jsoup,89,fastazi_s_time_starts,26.789
+Jsoup,89,FAST_T_starts,0.07966666666666666
+Jsoup,89,DPTT_ekstazi_t,6.360666666666667
+Jsoup,89,DPTT_t_starts,33.14033333333334
+Jsoup,90,Selection,5.94
+Jsoup,90,sel_time_starts,26.42
+Jsoup,90,Full prioritization,0.009333333333333334
+Jsoup,90,prio_p_time_starts,0.009333333333333334
+Jsoup,90,Sel. prioritization,0.007666666666666667
+Jsoup,90,prio_s_time_starts,0.009000000000000001
+Jsoup,90,FAST preparation,0.3
+Jsoup,90,fast_prep_time_starts,0.3
+Jsoup,90,Build time,47.160000000000004
+Jsoup,90,build_time_starts,45.419999999999995
+Jsoup,90,Test time,58.72
+Jsoup,90,test_time_starts,49.88
+Jsoup,90,DPTT_time,0.0006666666666666666
+Jsoup,90,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,90,DPTT_time_starts,0.0006666666666666666
+Jsoup,90,DPT,5.940666666666667
+Jsoup,90,DPT_TIME,5.940666666666667
+Jsoup,90,FAST,0.30933333333333335
+Jsoup,90,fast_time_starts,0.30933333333333335
+Jsoup,90,Fastazi-S,5.947666666666667
+Jsoup,90,fastazi_s_time_starts,26.429000000000002
+Jsoup,90,FAST_T_starts,0.30933333333333335
+Jsoup,90,DPTT_ekstazi_t,5.940666666666667
+Jsoup,90,DPTT_t_starts,32.36066666666667
+Jsoup,91,Selection,5.65
+Jsoup,91,sel_time_starts,25.36
+Jsoup,91,Full prioritization,0.009666666666666667
+Jsoup,91,prio_p_time_starts,0.009666666666666667
+Jsoup,91,Sel. prioritization,0.007666666666666667
+Jsoup,91,prio_s_time_starts,0.009333333333333334
+Jsoup,91,FAST preparation,0.15000000000000002
+Jsoup,91,fast_prep_time_starts,0.18000000000000002
+Jsoup,91,Build time,46.46
+Jsoup,91,build_time_starts,44.49
+Jsoup,91,Test time,59.26
+Jsoup,91,test_time_starts,51.66
+Jsoup,91,DPTT_time,0.0006666666666666666
+Jsoup,91,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,91,DPTT_time_starts,0.0006666666666666666
+Jsoup,91,DPT,5.650666666666667
+Jsoup,91,DPT_TIME,5.650666666666667
+Jsoup,91,FAST,0.15966666666666668
+Jsoup,91,fast_time_starts,0.18966666666666668
+Jsoup,91,Fastazi-S,5.657666666666667
+Jsoup,91,fastazi_s_time_starts,25.369333333333334
+Jsoup,91,FAST_T_starts,0.18966666666666668
+Jsoup,91,DPTT_ekstazi_t,5.650666666666667
+Jsoup,91,DPTT_t_starts,31.010666666666665
+Jsoup,92,Selection,6.12
+Jsoup,92,sel_time_starts,27.08
+Jsoup,92,Full prioritization,0.009666666666666667
+Jsoup,92,prio_p_time_starts,0.009333333333333334
+Jsoup,92,Sel. prioritization,0.008666666666666666
+Jsoup,92,prio_s_time_starts,0.009333333333333334
+Jsoup,92,FAST preparation,0.75
+Jsoup,92,fast_prep_time_starts,0.76
+Jsoup,92,Build time,47.559999999999995
+Jsoup,92,build_time_starts,47.07
+Jsoup,92,Test time,69.08
+Jsoup,92,test_time_starts,55.269999999999996
+Jsoup,92,DPTT_time,0.0006666666666666666
+Jsoup,92,DPTT_ekstazi_time,0.0003333333333333333
+Jsoup,92,DPTT_time_starts,0.0003333333333333333
+Jsoup,92,DPT,6.120666666666667
+Jsoup,92,DPT_TIME,6.120666666666667
+Jsoup,92,FAST,0.7596666666666667
+Jsoup,92,fast_time_starts,0.7693333333333333
+Jsoup,92,Fastazi-S,6.128666666666667
+Jsoup,92,fastazi_s_time_starts,27.089333333333332
+Jsoup,92,FAST_T_starts,0.7693333333333333
+Jsoup,92,DPTT_ekstazi_t,6.120333333333334
+Jsoup,92,DPTT_t_starts,33.20033333333333
+Jsoup,93,Selection,6.3500000000000005
+Jsoup,93,sel_time_starts,28.150000000000002
+Jsoup,93,Full prioritization,0.009333333333333334
+Jsoup,93,prio_p_time_starts,0.009666666666666665
+Jsoup,93,Sel. prioritization,0.0036666666666666666
+Jsoup,93,prio_s_time_starts,0.009000000000000001
+Jsoup,93,FAST preparation,0.09
+Jsoup,93,fast_prep_time_starts,0.08
+Jsoup,93,Build time,48.29
+Jsoup,93,build_time_starts,45.92
+Jsoup,93,Test time,54.83
+Jsoup,93,test_time_starts,56.98
+Jsoup,93,DPTT_time,0.0006666666666666666
+Jsoup,93,DPTT_ekstazi_time,0.0006666666666666666
+Jsoup,93,DPTT_time_starts,0.0006666666666666666
+Jsoup,93,DPT,6.350666666666667
+Jsoup,93,DPT_TIME,6.350666666666667
+Jsoup,93,FAST,0.09933333333333333
+Jsoup,93,fast_time_starts,0.08966666666666667
+Jsoup,93,Fastazi-S,6.353666666666667
+Jsoup,93,fastazi_s_time_starts,28.159000000000002
+Jsoup,93,FAST_T_starts,0.08966666666666667
+Jsoup,93,DPTT_ekstazi_t,6.350666666666667
+Jsoup,93,DPTT_t_starts,34.50066666666667

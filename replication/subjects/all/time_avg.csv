@@ -1,0 +1,81 @@
+Project,Group, Time
+Cli,Ekstazi,5.4214
+Codec,Ekstazi,6.1657
+Collections,Ekstazi,6.35
+Compress,Ekstazi,6.3116
+Gson,Ekstazi,6.3147
+Jsoup,Ekstazi,5.6773
+JxPath,Ekstazi,5.76
+Lang,Ekstazi,6.2131
+Math,Ekstazi,6.8641
+Time,Ekstazi,6.4868
+Cli,STARTS,11.6003
+Codec,STARTS,16.2
+Collections,STARTS,39.85
+Compress,STARTS,17.6045
+Gson,STARTS,22.9782
+Jsoup,STARTS,17.4882
+JxPath,STARTS,10.7533
+Lang,STARTS,10.69
+Math,STARTS,16.1076
+Time,STARTS,23.8895
+Cli,DPT,5.422
+Codec,DPT,6.1662
+Collections,DPT,6.351
+Compress,DPT,6.3121
+Gson,DPT,6.3152
+Jsoup,DPT,5.6779
+JxPath,DPT,5.7607
+Lang,DPT,6.2137
+Math,DPT,6.865
+Time,DPT,6.4875
+Cli,Ekstazi + DPT,5.422
+Codec,Ekstazi + DPT,6.1662
+Collections,Ekstazi + DPT,6.351
+Compress,Ekstazi + DPT,6.3121
+Gson,Ekstazi + DPT,6.3152
+Jsoup,Ekstazi + DPT,5.6779
+JxPath,Ekstazi + DPT,5.7607
+Lang,Ekstazi + DPT,6.2137
+Math,Ekstazi + DPT,6.865
+Time,Ekstazi + DPT,6.4875
+Cli,STARTS + DPT,17.0223
+Codec,STARTS + DPT,22.3662
+Collections,STARTS + DPT,46.201
+Compress,STARTS + DPT,23.9166
+Gson,STARTS + DPT,29.2934
+Jsoup,STARTS + DPT,23.1661
+JxPath,STARTS + DPT,16.514
+Lang,STARTS + DPT,16.9037
+Math,STARTS + DPT,22.9726
+Time,STARTS + DPT,30.377
+Cli,FAST,0.2194
+Codec,FAST,0.7068
+Collections,FAST,1.9903
+Compress,FAST,0.4351
+Gson,FAST,0.3103
+Jsoup,FAST,0.2544
+JxPath,FAST,0.102
+Lang,FAST,0.768
+Math,FAST,1.5969
+Time,FAST,1.8086
+Cli,Ekstazi + FAST,5.4298
+Codec,Ekstazi + FAST,6.1796
+Collections,Ekstazi + FAST,6.4403
+Compress,Ekstazi + FAST,6.3346
+Gson,Ekstazi + FAST,6.3415
+Jsoup,Ekstazi + FAST,5.6849
+JxPath,Ekstazi + FAST,5.772
+Lang,Ekstazi + FAST,6.238
+Math,Ekstazi + FAST,7.0666
+Time,Ekstazi + FAST,6.5327
+Cli,STARTS + FAST,11.6087
+Codec,STARTS + FAST,16.2139
+Collections,STARTS + FAST,39.9403
+Compress,STARTS + FAST,17.6275
+Gson,STARTS + FAST,23.005
+Jsoup,STARTS + FAST,17.4958
+JxPath,STARTS + FAST,10.7653
+Lang,STARTS + FAST,10.7149
+Math,STARTS + FAST,16.3101
+Time,STARTS + FAST,23.9354

@@ -1,0 +1,25 @@
+Project, Suite, Time
+Compress,Selection,6.3116
+Compress,sel_time_starts,17.6045
+Compress,Full prioritization,0.0230
+Compress,prio_p_time_starts,0.0224
+Compress,Sel. prioritization,0.0113
+Compress,prio_s_time_starts,0.0137
+Compress,FAST preparation,0.4121
+Compress,fast_prep_time_starts,0.4389
+Compress,Build time,32.5939
+Compress,build_time_starts,32.3287
+Compress,Test time,39.6016
+Compress,test_time_starts,36.8311
+Compress,DPTT_time,0.0005
+Compress,DPTT_ekstazi_time,0.0006
+Compress,DPTT_time_starts,0.0005
+Compress,DPT_TIME,6.3121
+Compress,FAST,0.4351
+Compress,fast_time_starts,0.4613
+Compress,Fastazi-S,6.3228
+Compress,fastazi_s_time_starts,17.6182
+Compress,FAST_T_starts,0.4613
+Compress,DPTT_ekstazi_t,6.3122
+Compress,DPTT_t_starts,23.9166
+Compress,DPT,6.3121

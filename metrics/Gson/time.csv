@@ -1,0 +1,409 @@
+Project, Version, Suite, Time
+Gson,2,Selection,5.819999999999999
+Gson,2,sel_time_starts,16.23
+Gson,2,Full prioritization,0.02266666666666667
+Gson,2,prio_p_time_starts,0.022000000000000002
+Gson,2,Sel. prioritization,0.022333333333333334
+Gson,2,prio_s_time_starts,0.02266666666666667
+Gson,2,FAST preparation,1.8900000000000001
+Gson,2,fast_prep_time_starts,1.91
+Gson,2,Build time,31.849999999999998
+Gson,2,build_time_starts,32.59
+Gson,2,Test time,38.96
+Gson,2,test_time_starts,30.87
+Gson,2,DPTT_time,0.0003333333333333333
+Gson,2,DPTT_ekstazi_time,0.0006666666666666666
+Gson,2,DPTT_time_starts,0.0003333333333333333
+Gson,2,DPT,5.820333333333333
+Gson,2,DPT_TIME,5.820333333333333
+Gson,2,FAST,1.9126666666666667
+Gson,2,fast_time_starts,1.932
+Gson,2,Fastazi-S,5.8423333333333325
+Gson,2,fastazi_s_time_starts,16.252666666666666
+Gson,2,FAST_T_starts,1.932
+Gson,2,DPTT_ekstazi_t,5.820666666666666
+Gson,2,DPTT_t_starts,22.050333333333334
+Gson,3,Selection,5.7
+Gson,3,sel_time_starts,16.03
+Gson,3,Full prioritization,0.02266666666666667
+Gson,3,prio_p_time_starts,0.023333333333333334
+Gson,3,Sel. prioritization,0.02266666666666667
+Gson,3,prio_s_time_starts,0.023333333333333334
+Gson,3,FAST preparation,0.62
+Gson,3,fast_prep_time_starts,0.64
+Gson,3,Build time,32.13
+Gson,3,build_time_starts,32.97
+Gson,3,Test time,42.050000000000004
+Gson,3,test_time_starts,33.48
+Gson,3,DPTT_time,0.0003333333333333333
+Gson,3,DPTT_ekstazi_time,0.0003333333333333333
+Gson,3,DPTT_time_starts,0.0003333333333333333
+Gson,3,DPT,5.700333333333334
+Gson,3,DPT_TIME,5.700333333333334
+Gson,3,FAST,0.6426666666666667
+Gson,3,fast_time_starts,0.6633333333333333
+Gson,3,Fastazi-S,5.722666666666667
+Gson,3,fastazi_s_time_starts,16.053333333333335
+Gson,3,FAST_T_starts,0.6633333333333333
+Gson,3,DPTT_ekstazi_t,5.700333333333334
+Gson,3,DPTT_t_starts,21.730333333333334
+Gson,4,Selection,5.859999999999999
+Gson,4,sel_time_starts,15.78
+Gson,4,Full prioritization,0.026000000000000002
+Gson,4,prio_p_time_starts,0.030000000000000002
+Gson,4,Sel. prioritization,0.024000000000000004
+Gson,4,prio_s_time_starts,0.025666666666666667
+Gson,4,FAST preparation,0.35000000000000003
+Gson,4,fast_prep_time_starts,0.51
+Gson,4,Build time,32.54
+Gson,4,build_time_starts,32.81
+Gson,4,Test time,39.99
+Gson,4,test_time_starts,33.52
+Gson,4,DPTT_time,0.0006666666666666666
+Gson,4,DPTT_ekstazi_time,0.0006666666666666666
+Gson,4,DPTT_time_starts,0.0006666666666666666
+Gson,4,DPT,5.860666666666666
+Gson,4,DPT_TIME,5.860666666666666
+Gson,4,FAST,0.37600000000000006
+Gson,4,fast_time_starts,0.54
+Gson,4,Fastazi-S,5.8839999999999995
+Gson,4,fastazi_s_time_starts,15.805666666666665
+Gson,4,FAST_T_starts,0.54
+Gson,4,DPTT_ekstazi_t,5.860666666666666
+Gson,4,DPTT_t_starts,21.640666666666668
+Gson,5,Selection,6.05
+Gson,5,sel_time_starts,17.189999999999998
+Gson,5,Full prioritization,0.026333333333333334
+Gson,5,prio_p_time_starts,0.024666666666666667
+Gson,5,Sel. prioritization,0.0030000000000000005
+Gson,5,prio_s_time_starts,0.021666666666666667
+Gson,5,FAST preparation,0.1
+Gson,5,fast_prep_time_starts,0.13
+Gson,5,Build time,31.430000000000003
+Gson,5,build_time_starts,36.160000000000004
+Gson,5,Test time,31.99
+Gson,5,test_time_starts,32.03
+Gson,5,DPTT_time,0.0003333333333333333
+Gson,5,DPTT_ekstazi_time,0.0006666666666666666
+Gson,5,DPTT_time_starts,0.0006666666666666666
+Gson,5,DPT,6.050333333333334
+Gson,5,DPT_TIME,6.050333333333334
+Gson,5,FAST,0.12633333333333335
+Gson,5,fast_time_starts,0.15466666666666667
+Gson,5,Fastazi-S,6.053
+Gson,5,fastazi_s_time_starts,17.211666666666666
+Gson,5,FAST_T_starts,0.15466666666666667
+Gson,5,DPTT_ekstazi_t,6.050666666666666
+Gson,5,DPTT_t_starts,23.240666666666666
+Gson,6,Selection,9.35
+Gson,6,sel_time_starts,25.400000000000002
+Gson,6,Full prioritization,0.025333333333333333
+Gson,6,prio_p_time_starts,0.025333333333333333
+Gson,6,Sel. prioritization,0.017
+Gson,6,prio_s_time_starts,0.022000000000000002
+Gson,6,FAST preparation,0.12
+Gson,6,fast_prep_time_starts,0.12
+Gson,6,Build time,24.740000000000002
+Gson,6,build_time_starts,25.080000000000002
+Gson,6,Test time,36.22
+Gson,6,test_time_starts,31.07
+Gson,6,DPTT_time,0.0006666666666666666
+Gson,6,DPTT_ekstazi_time,0.0006666666666666666
+Gson,6,DPTT_time_starts,0.0006666666666666666
+Gson,6,DPT,9.350666666666667
+Gson,6,DPT_TIME,9.350666666666667
+Gson,6,FAST,0.14533333333333331
+Gson,6,fast_time_starts,0.14533333333333331
+Gson,6,Fastazi-S,9.366999999999999
+Gson,6,fastazi_s_time_starts,25.422
+Gson,6,FAST_T_starts,0.14533333333333331
+Gson,6,DPTT_ekstazi_t,9.350666666666667
+Gson,6,DPTT_t_starts,34.75066666666667
+Gson,7,Selection,5.890000000000001
+Gson,7,sel_time_starts,24.349999999999998
+Gson,7,Full prioritization,0.026333333333333334
+Gson,7,prio_p_time_starts,0.025333333333333333
+Gson,7,Sel. prioritization,0.019000000000000003
+Gson,7,prio_s_time_starts,0.022333333333333334
+Gson,7,FAST preparation,0.21000000000000002
+Gson,7,fast_prep_time_starts,0.22999999999999998
+Gson,7,Build time,25.4
+Gson,7,build_time_starts,24.990000000000002
+Gson,7,Test time,36.480000000000004
+Gson,7,test_time_starts,31.130000000000003
+Gson,7,DPTT_time,0.0003333333333333333
+Gson,7,DPTT_ekstazi_time,0.0003333333333333333
+Gson,7,DPTT_time_starts,0.0006666666666666666
+Gson,7,DPT,5.890333333333334
+Gson,7,DPT_TIME,5.890333333333334
+Gson,7,FAST,0.23633333333333334
+Gson,7,fast_time_starts,0.2553333333333333
+Gson,7,Fastazi-S,5.909000000000001
+Gson,7,fastazi_s_time_starts,24.37233333333333
+Gson,7,FAST_T_starts,0.2553333333333333
+Gson,7,DPTT_ekstazi_t,5.890333333333334
+Gson,7,DPTT_t_starts,30.240666666666666
+Gson,8,Selection,5.54
+Gson,8,sel_time_starts,24.66
+Gson,8,Full prioritization,0.026333333333333334
+Gson,8,prio_p_time_starts,0.026333333333333334
+Gson,8,Sel. prioritization,0.017
+Gson,8,prio_s_time_starts,0.02266666666666667
+Gson,8,FAST preparation,0.08
+Gson,8,fast_prep_time_starts,0.08
+Gson,8,Build time,25.240000000000002
+Gson,8,build_time_starts,23.6
+Gson,8,Test time,37.32
+Gson,8,test_time_starts,30.799999999999997
+Gson,8,DPTT_time,0.0003333333333333333
+Gson,8,DPTT_ekstazi_time,0.0006666666666666666
+Gson,8,DPTT_time_starts,0.0006666666666666666
+Gson,8,DPT,5.540333333333334
+Gson,8,DPT_TIME,5.540333333333334
+Gson,8,FAST,0.10633333333333334
+Gson,8,fast_time_starts,0.10633333333333334
+Gson,8,Fastazi-S,5.557
+Gson,8,fastazi_s_time_starts,24.682666666666666
+Gson,8,FAST_T_starts,0.10633333333333334
+Gson,8,DPTT_ekstazi_t,5.540666666666667
+Gson,8,DPTT_t_starts,30.200666666666667
+Gson,9,Selection,5.9
+Gson,9,sel_time_starts,24.93
+Gson,9,Full prioritization,0.025666666666666667
+Gson,9,prio_p_time_starts,0.025333333333333333
+Gson,9,Sel. prioritization,0.016
+Gson,9,prio_s_time_starts,0.022333333333333334
+Gson,9,FAST preparation,0.11
+Gson,9,fast_prep_time_starts,0.11
+Gson,9,Build time,24.77
+Gson,9,build_time_starts,24.6
+Gson,9,Test time,37.24
+Gson,9,test_time_starts,29.65
+Gson,9,DPTT_time,0.0006666666666666666
+Gson,9,DPTT_ekstazi_time,0.0006666666666666666
+Gson,9,DPTT_time_starts,0.0006666666666666666
+Gson,9,DPT,5.900666666666667
+Gson,9,DPT_TIME,5.900666666666667
+Gson,9,FAST,0.13566666666666666
+Gson,9,fast_time_starts,0.13533333333333333
+Gson,9,Fastazi-S,5.916
+Gson,9,fastazi_s_time_starts,24.952333333333332
+Gson,9,FAST_T_starts,0.13533333333333333
+Gson,9,DPTT_ekstazi_t,5.900666666666667
+Gson,9,DPTT_t_starts,30.830666666666666
+Gson,10,Selection,5.96
+Gson,10,sel_time_starts,25.89
+Gson,10,Full prioritization,0.02666666666666667
+Gson,10,prio_p_time_starts,0.027000000000000003
+Gson,10,Sel. prioritization,0.017666666666666667
+Gson,10,prio_s_time_starts,0.022333333333333334
+Gson,10,FAST preparation,0.12
+Gson,10,fast_prep_time_starts,0.12
+Gson,10,Build time,24.59
+Gson,10,build_time_starts,23.71
+Gson,10,Test time,35.83
+Gson,10,test_time_starts,31.12
+Gson,10,DPTT_time,0.0006666666666666666
+Gson,10,DPTT_ekstazi_time,0.0003333333333333333
+Gson,10,DPTT_time_starts,0.0006666666666666666
+Gson,10,DPT,5.960666666666667
+Gson,10,DPT_TIME,5.960666666666667
+Gson,10,FAST,0.14666666666666667
+Gson,10,fast_time_starts,0.147
+Gson,10,Fastazi-S,5.977666666666667
+Gson,10,fastazi_s_time_starts,25.912333333333333
+Gson,10,FAST_T_starts,0.147
+Gson,10,DPTT_ekstazi_t,5.960333333333334
+Gson,10,DPTT_t_starts,31.85066666666667
+Gson,11,Selection,5.74
+Gson,11,sel_time_starts,24.44
+Gson,11,Full prioritization,0.02766666666666667
+Gson,11,prio_p_time_starts,0.028000000000000004
+Gson,11,Sel. prioritization,0.022000000000000002
+Gson,11,prio_s_time_starts,0.025
+Gson,11,FAST preparation,0.35000000000000003
+Gson,11,fast_prep_time_starts,0.36
+Gson,11,Build time,25.209999999999997
+Gson,11,build_time_starts,23.36
+Gson,11,Test time,40.129999999999995
+Gson,11,test_time_starts,29.439999999999998
+Gson,11,DPTT_time,0.0006666666666666666
+Gson,11,DPTT_ekstazi_time,0.0006666666666666666
+Gson,11,DPTT_time_starts,0.0003333333333333333
+Gson,11,DPT,5.740666666666667
+Gson,11,DPT_TIME,5.740666666666667
+Gson,11,FAST,0.3776666666666667
+Gson,11,fast_time_starts,0.388
+Gson,11,Fastazi-S,5.7620000000000005
+Gson,11,fastazi_s_time_starts,24.465
+Gson,11,FAST_T_starts,0.388
+Gson,11,DPTT_ekstazi_t,5.740666666666667
+Gson,11,DPTT_t_starts,30.180333333333337
+Gson,12,Selection,6.010000000000001
+Gson,12,sel_time_starts,26.08
+Gson,12,Full prioritization,0.028333333333333335
+Gson,12,prio_p_time_starts,0.028
+Gson,12,Sel. prioritization,0.02366666666666667
+Gson,12,prio_s_time_starts,0.024
+Gson,12,FAST preparation,0.09999999999999999
+Gson,12,fast_prep_time_starts,0.12
+Gson,12,Build time,27.68
+Gson,12,build_time_starts,22.580000000000002
+Gson,12,Test time,39.269999999999996
+Gson,12,test_time_starts,31.61
+Gson,12,DPTT_time,0.0006666666666666666
+Gson,12,DPTT_ekstazi_time,0.0003333333333333333
+Gson,12,DPTT_time_starts,0.0003333333333333333
+Gson,12,DPT,6.010666666666667
+Gson,12,DPT_TIME,6.010666666666667
+Gson,12,FAST,0.12833333333333333
+Gson,12,fast_time_starts,0.148
+Gson,12,Fastazi-S,6.033666666666667
+Gson,12,fastazi_s_time_starts,26.104
+Gson,12,FAST_T_starts,0.148
+Gson,12,DPTT_ekstazi_t,6.010333333333334
+Gson,12,DPTT_t_starts,32.090333333333334
+Gson,13,Selection,5.96
+Gson,13,sel_time_starts,25.650000000000002
+Gson,13,Full prioritization,0.028
+Gson,13,prio_p_time_starts,0.028666666666666667
+Gson,13,Sel. prioritization,0.024000000000000004
+Gson,13,prio_s_time_starts,0.026333333333333334
+Gson,13,FAST preparation,0.15
+Gson,13,fast_prep_time_starts,0.16
+Gson,13,Build time,25.93
+Gson,13,build_time_starts,24.830000000000002
+Gson,13,Test time,39.04
+Gson,13,test_time_starts,29.23
+Gson,13,DPTT_time,0.0003333333333333333
+Gson,13,DPTT_ekstazi_time,0.0006666666666666666
+Gson,13,DPTT_time_starts,0.0006666666666666666
+Gson,13,DPT,5.960333333333334
+Gson,13,DPT_TIME,5.960333333333334
+Gson,13,FAST,0.178
+Gson,13,fast_time_starts,0.18866666666666668
+Gson,13,Fastazi-S,5.984
+Gson,13,fastazi_s_time_starts,25.676333333333336
+Gson,13,FAST_T_starts,0.18866666666666668
+Gson,13,DPTT_ekstazi_t,5.960666666666667
+Gson,13,DPTT_t_starts,31.61066666666667
+Gson,14,Selection,9.0
+Gson,14,sel_time_starts,26.290000000000003
+Gson,14,Full prioritization,0.028333333333333335
+Gson,14,prio_p_time_starts,0.028666666666666667
+Gson,14,Sel. prioritization,0.023333333333333334
+Gson,14,prio_s_time_starts,0.027000000000000003
+Gson,14,FAST preparation,0.16
+Gson,14,fast_prep_time_starts,0.16999999999999998
+Gson,14,Build time,25.62
+Gson,14,build_time_starts,24.59
+Gson,14,Test time,37.77
+Gson,14,test_time_starts,30.91
+Gson,14,DPTT_time,0.0006666666666666666
+Gson,14,DPTT_ekstazi_time,0.0006666666666666666
+Gson,14,DPTT_time_starts,0.0003333333333333333
+Gson,14,DPT,9.000666666666667
+Gson,14,DPT_TIME,9.000666666666667
+Gson,14,FAST,0.18833333333333335
+Gson,14,fast_time_starts,0.19866666666666666
+Gson,14,Fastazi-S,9.023333333333333
+Gson,14,fastazi_s_time_starts,26.317000000000004
+Gson,14,FAST_T_starts,0.19866666666666666
+Gson,14,DPTT_ekstazi_t,9.000666666666667
+Gson,14,DPTT_t_starts,35.290333333333336
+Gson,15,Selection,6.17
+Gson,15,sel_time_starts,26.16
+Gson,15,Full prioritization,0.029
+Gson,15,prio_p_time_starts,0.028333333333333332
+Gson,15,Sel. prioritization,0.018333333333333333
+Gson,15,prio_s_time_starts,0.024666666666666667
+Gson,15,FAST preparation,0.13
+Gson,15,fast_prep_time_starts,0.14
+Gson,15,Build time,23.79
+Gson,15,build_time_starts,23.5
+Gson,15,Test time,35.3
+Gson,15,test_time_starts,30.87
+Gson,15,DPTT_time,0.0006666666666666666
+Gson,15,DPTT_ekstazi_time,0.0006666666666666666
+Gson,15,DPTT_time_starts,0.0003333333333333333
+Gson,15,DPT,6.1706666666666665
+Gson,15,DPT_TIME,6.1706666666666665
+Gson,15,FAST,0.159
+Gson,15,fast_time_starts,0.16833333333333333
+Gson,15,Fastazi-S,6.1883333333333335
+Gson,15,fastazi_s_time_starts,26.18466666666667
+Gson,15,FAST_T_starts,0.16833333333333333
+Gson,15,DPTT_ekstazi_t,6.1706666666666665
+Gson,15,DPTT_t_starts,32.330333333333336
+Gson,16,Selection,5.920000000000001
+Gson,16,sel_time_starts,25.95
+Gson,16,Full prioritization,0.028333333333333332
+Gson,16,prio_p_time_starts,0.028666666666666667
+Gson,16,Sel. prioritization,0.023333333333333334
+Gson,16,prio_s_time_starts,0.026333333333333334
+Gson,16,FAST preparation,0.09
+Gson,16,fast_prep_time_starts,0.15
+Gson,16,Build time,24.23
+Gson,16,build_time_starts,24.189999999999998
+Gson,16,Test time,37.949999999999996
+Gson,16,test_time_starts,32.5
+Gson,16,DPTT_time,0.0006666666666666666
+Gson,16,DPTT_ekstazi_time,0.0006666666666666666
+Gson,16,DPTT_time_starts,0.0006666666666666666
+Gson,16,DPT,5.920666666666667
+Gson,16,DPT_TIME,5.920666666666667
+Gson,16,FAST,0.11833333333333333
+Gson,16,fast_time_starts,0.17866666666666667
+Gson,16,Fastazi-S,5.943333333333334
+Gson,16,fastazi_s_time_starts,25.976333333333333
+Gson,16,FAST_T_starts,0.17866666666666667
+Gson,16,DPTT_ekstazi_t,5.920666666666667
+Gson,16,DPTT_t_starts,31.87066666666667
+Gson,17,Selection,6.210000000000001
+Gson,17,sel_time_starts,25.38
+Gson,17,Full prioritization,0.029333333333333333
+Gson,17,prio_p_time_starts,0.028333333333333335
+Gson,17,Sel. prioritization,0.014333333333333333
+Gson,17,prio_s_time_starts,0.024
+Gson,17,FAST preparation,0.1
+Gson,17,fast_prep_time_starts,0.12
+Gson,17,Build time,23.89
+Gson,17,build_time_starts,25.650000000000002
+Gson,17,Test time,35.53
+Gson,17,test_time_starts,31.56
+Gson,17,DPTT_time,0.0006666666666666666
+Gson,17,DPTT_ekstazi_time,0.0006666666666666666
+Gson,17,DPTT_time_starts,0.0006666666666666666
+Gson,17,DPT,6.2106666666666674
+Gson,17,DPT_TIME,6.2106666666666674
+Gson,17,FAST,0.12933333333333333
+Gson,17,fast_time_starts,0.14833333333333332
+Gson,17,Fastazi-S,6.224333333333334
+Gson,17,fastazi_s_time_starts,25.404
+Gson,17,FAST_T_starts,0.14833333333333332
+Gson,17,DPTT_ekstazi_t,6.2106666666666674
+Gson,17,DPTT_t_starts,31.590666666666667
+Gson,18,Selection,6.27
+Gson,18,sel_time_starts,20.220000000000002
+Gson,18,Full prioritization,0.028666666666666667
+Gson,18,prio_p_time_starts,0.028666666666666667
+Gson,18,Sel. prioritization,0.020333333333333335
+Gson,18,prio_s_time_starts,0.026000000000000002
+Gson,18,FAST preparation,0.14
+Gson,18,fast_prep_time_starts,0.16999999999999998
+Gson,18,Build time,26.94
+Gson,18,build_time_starts,24.349999999999998
+Gson,18,Test time,33.65
+Gson,18,test_time_starts,26.14
+Gson,18,DPTT_time,0.0003333333333333333
+Gson,18,DPTT_ekstazi_time,0.0006666666666666666
+Gson,18,DPTT_time_starts,0.0006666666666666666
+Gson,18,DPT,6.270333333333333
+Gson,18,DPT_TIME,6.270333333333333
+Gson,18,FAST,0.1686666666666667
+Gson,18,fast_time_starts,0.19866666666666666
+Gson,18,Fastazi-S,6.290333333333333
+Gson,18,fastazi_s_time_starts,20.246000000000002
+Gson,18,FAST_T_starts,0.19866666666666666
+Gson,18,DPTT_ekstazi_t,6.270666666666666
+Gson,18,DPTT_t_starts,26.49066666666667
