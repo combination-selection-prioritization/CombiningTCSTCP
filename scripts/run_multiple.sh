@@ -16,6 +16,8 @@ done
 
 ./scripts/run_comb_gson_v1.sh 1 18 Gson mvn
 
+./scripts/filter_versions_to_seq.sh
+
 
 if [ -d "repos" ]; then
     mv repos repos_ekstazi

@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
     metrics = ['apfdf', 'pttff']
     subjects = ["Cli", "Codec", "Collections", "Compress", "Gson", "Jsoup", "JxPath", "Lang", "Math", "Time"]
-    suites = ["STARTS+FAST-S", "STARTS+DPT", "DPT", "Ekstazi+dpt", "STARTS", "Random", "STARTS", "Random", "Ekstazi", "STARTS+FAST-P", "FAST", "Fastazi-P", "Fastazi-S"]
+    suites = ["STARTS+FAST-S", "STARTS+DPT", "DPT", "Ekstazi+dpt", "STARTS", "Random", "STARTS", "Random", "Ekstazi", "STARTS+FAST-P", "FAST", "Ekstazi + FAST-P", "Ekstazi + FAST -S"]
 
     dicts = [apfdf_dict, pttff_dict]
 
@@ -53,7 +53,7 @@ if __name__ == '__main__':
                 dict_[subject][suite] = []
 
 
-    with open(os.path.join('subjects','all','avg_all.csv')) as csvfile:
+    with open(os.path.join('subjects','all','avg_final.csv')) as csvfile:
         reader = csv.reader(csvfile, delimiter=',')
         next(reader, None)  # skip the headers
 
@@ -79,9 +79,9 @@ if __name__ == '__main__':
             treatment_s = dict_[subject]["Ekstazi+dpt"]
             #print(control_fast, control_ekstazi, control_random)
 
-            print("FASTAZI-S vs RANDOM: ", VD_A(treatment_s, control_random))
-            print("FASTAZI-S vs FAST: ", VD_A(treatment_s, control_fast))
+            print("Ekstazi+dpt vs RANDOM: ", VD_A(treatment_s, control_random))
+            print("Ekstazi+dpt vs DPT: ", VD_A(treatment_s, control_fast))
             print("FASTAZI-S vs EKSTAZI: ", VD_A(treatment_s, control_ekstazi))
-            print("EKSTAZI vs FAST: ", VD_A(control_ekstazi, control_fast))
+            print("EKSTAZI vs DPT: ", VD_A(control_ekstazi, control_fast))
             
             

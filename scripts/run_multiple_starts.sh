@@ -16,3 +16,5 @@ done
 
 ./scripts/run_starts_gson_v1.sh 1 18 Gson mvn
 
+./scripts/filter_versions_to_seq.sh
+
